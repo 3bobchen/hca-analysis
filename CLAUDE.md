@@ -8,6 +8,7 @@ Analysis project for High Court of Australia (HCA) case data using the High Cour
 - `data/processed/` — merged CSV and normalized SQLite database
 - `scripts/` — data processing scripts
 - `notebooks/` — Jupyter notebooks for analysis
+- `website/` — Vite + React dashboard deployed to GitHub Pages
 
 ## Data Pipeline
 
@@ -28,8 +29,11 @@ See @docs/column-guide.md for a detailed guide to all 69 columns in `HCDB-with-c
 ## Commands
 
 ```bash
-python3 scripts/merge_case_data.py   # rebuild merged CSV
-python3 scripts/build_db.py          # rebuild SQLite database
+python3 scripts/merge_case_data.py      # rebuild merged CSV
+python3 scripts/build_db.py             # rebuild SQLite database
+python3 scripts/build_dashboard_data.py # rebuild website/public/data.json from CSV
+cd website && npm run dev               # local dev server
+cd website && npm run build             # production build -> website/dist/
 ```
 
 ## Dependencies

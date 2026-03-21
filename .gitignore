@@ -15,5 +15,9 @@ venv/
 # IDE
 .idea/
 
+# Website
+website/node_modules/
+website/dist/
+
 # OS
 .DS_Store

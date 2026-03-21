@@ -1,0 +1,606 @@
+{
+  "summary": {
+    "totalCases": 1419,
+    "totalTerms": 27,
+    "unanimousDecisions": 905,
+    "unanimousPct": 63.8,
+    "termRange": "1994-1995 to 2020-2021"
+  },
+  "casesByTerm": [
+    {
+      "term": "1994-1995",
+      "count": 9
+    },
+    {
+      "term": "1995-1996",
+      "count": 47
+    },
+    {
+      "term": "1996-1997",
+      "count": 44
+    },
+    {
+      "term": "1997-1998",
+      "count": 61
+    },
+    {
+      "term": "1998-1999",
+      "count": 60
+    },
+    {
+      "term": "1999-2000",
+      "count": 62
+    },
+    {
+      "term": "2000-2001",
+      "count": 57
+    },
+    {
+      "term": "2001-2002",
+      "count": 54
+    },
+    {
+      "term": "2002-2003",
+      "count": 63
+    },
+    {
+      "term": "2003-2004",
+      "count": 66
+    },
+    {
+      "term": "2004-2005",
+      "count": 65
+    },
+    {
+      "term": "2005-2006",
+      "count": 80
+    },
+    {
+      "term": "2006-2007",
+      "count": 59
+    },
+    {
+      "term": "2007-2008",
+      "count": 59
+    },
+    {
+      "term": "2008-2009",
+      "count": 50
+    },
+    {
+      "term": "2009-2010",
+      "count": 54
+    },
+    {
+      "term": "2010-2011",
+      "count": 46
+    },
+    {
+      "term": "2011-2012",
+      "count": 51
+    },
+    {
+      "term": "2012-2013",
+      "count": 65
+    },
+    {
+      "term": "2013-2014",
+      "count": 51
+    },
+    {
+      "term": "2014-2015",
+      "count": 46
+    },
+    {
+      "term": "2015-2016",
+      "count": 48
+    },
+    {
+      "term": "2016-2017",
+      "count": 49
+    },
+    {
+      "term": "2017-2018",
+      "count": 56
+    },
+    {
+      "term": "2018-2019",
+      "count": 50
+    },
+    {
+      "term": "2019-2020",
+      "count": 46
+    },
+    {
+      "term": "2020-2021",
+      "count": 21
+    }
+  ],
+  "casesByIssue": [
+    {
+      "area": "Criminal Law and Procedure",
+      "count": 332
+    },
+    {
+      "area": "Economic Relations",
+      "count": 287
+    },
+    {
+      "area": "Common Law",
+      "count": 236
+    },
+    {
+      "area": "Public Law\u2014Federal",
+      "count": 186
+    },
+    {
+      "area": "Civil Rights (non-constitutional)",
+      "count": 133
+    },
+    {
+      "area": "Procedure and Ethics",
+      "count": 72
+    },
+    {
+      "area": "Employment and Industrial Relations",
+      "count": 64
+    },
+    {
+      "area": "Miscellaneous",
+      "count": 56
+    },
+    {
+      "area": "Public Law\u2014State",
+      "count": 28
+    },
+    {
+      "area": "Costs",
+      "count": 19
+    },
+    {
+      "area": "Admiralty and Maritime",
+      "count": 6
+    }
+  ],
+  "directionTrend": [
+    {
+      "term": "1994-1995",
+      "liberal": 5,
+      "conservative": 4,
+      "unspecifiable": 0
+    },
+    {
+      "term": "1995-1996",
+      "liberal": 20,
+      "conservative": 25,
+      "unspecifiable": 2
+    },
+    {
+      "term": "1996-1997",
+      "liberal": 28,
+      "conservative": 16,
+      "unspecifiable": 0
+    },
+    {
+      "term": "1997-1998",
+      "liberal": 33,
+      "conservative": 28,
+      "unspecifiable": 0
+    },
+    {
+      "term": "1998-1999",
+      "liberal": 29,
+      "conservative": 31,
+      "unspecifiable": 0
+    },
+    {
+      "term": "1999-2000",
+      "liberal": 34,
+      "conservative": 28,
+      "unspecifiable": 0
+    },
+    {
+      "term": "2000-2001",
+      "liberal": 26,
+      "conservative": 31,
+      "unspecifiable": 0
+    },
+    {
+      "term": "2001-2002",
+      "liberal": 28,
+      "conservative": 25,
+      "unspecifiable": 1
+    },
+    {
+      "term": "2002-2003",
+      "liberal": 23,
+      "conservative": 39,
+      "unspecifiable": 1
+    },
+    {
+      "term": "2003-2004",
+      "liberal": 26,
+      "conservative": 40,
+      "unspecifiable": 0
+    },
+    {
+      "term": "2004-2005",
+      "liberal": 26,
+      "conservative": 37,
+      "unspecifiable": 1
+    },
+    {
+      "term": "2005-2006",
+      "liberal": 33,
+      "conservative": 46,
+      "unspecifiable": 1
+    },
+    {
+      "term": "2006-2007",
+      "liberal": 23,
+      "conservative": 36,
+      "unspecifiable": 0
+    },
+    {
+      "term": "2007-2008",
+      "liberal": 21,
+      "conservative": 37,
+      "unspecifiable": 1
+    },
+    {
+      "term": "2008-2009",
+      "liberal": 29,
+      "conservative": 21,
+      "unspecifiable": 0
+    },
+    {
+      "term": "2009-2010",
+      "liberal": 26,
+      "conservative": 25,
+      "unspecifiable": 3
+    },
+    {
+      "term": "2010-2011",
+      "liberal": 26,
+      "conservative": 20,
+      "unspecifiable": 0
+    },
+    {
+      "term": "2011-2012",
+      "liberal": 30,
+      "conservative": 21,
+      "unspecifiable": 0
+    },
+    {
+      "term": "2012-2013",
+      "liberal": 22,
+      "conservative": 42,
+      "unspecifiable": 1
+    },
+    {
+      "term": "2013-2014",
+      "liberal": 32,
+      "conservative": 19,
+      "unspecifiable": 0
+    },
+    {
+      "term": "2014-2015",
+      "liberal": 31,
+      "conservative": 15,
+      "unspecifiable": 0
+    },
+    {
+      "term": "2015-2016",
+      "liberal": 21,
+      "conservative": 27,
+      "unspecifiable": 0
+    },
+    {
+      "term": "2016-2017",
+      "liberal": 26,
+      "conservative": 23,
+      "unspecifiable": 0
+    },
+    {
+      "term": "2017-2018",
+      "liberal": 29,
+      "conservative": 27,
+      "unspecifiable": 0
+    },
+    {
+      "term": "2018-2019",
+      "liberal": 22,
+      "conservative": 28,
+      "unspecifiable": 0
+    },
+    {
+      "term": "2019-2020",
+      "liberal": 26,
+      "conservative": 20,
+      "unspecifiable": 0
+    },
+    {
+      "term": "2020-2021",
+      "liberal": 7,
+      "conservative": 13,
+      "unspecifiable": 1
+    }
+  ],
+  "partyWinning": [
+    {
+      "outcome": "appealing/petitioning party received a favourable disposition",
+      "count": 798
+    },
+    {
+      "outcome": "no favourable disposition for appealing/petitioning party apparent",
+      "count": 618
+    },
+    {
+      "outcome": "favourable disposition for petitioning party unclear",
+      "count": 3
+    }
+  ],
+  "jurisdiction": [
+    {
+      "type": "special leave",
+      "count": 1198
+    },
+    {
+      "type": "original jurisdiction",
+      "count": 138
+    },
+    {
+      "type": "removal",
+      "count": 30
+    },
+    {
+      "type": "other",
+      "count": 29
+    },
+    {
+      "type": "appeal as of right",
+      "count": 23
+    },
+    {
+      "type": "reference",
+      "count": 1
+    }
+  ],
+  "voteSplits": [
+    {
+      "split": "5-0",
+      "count": 573
+    },
+    {
+      "split": "7-0",
+      "count": 213
+    },
+    {
+      "split": "4-1",
+      "count": 169
+    },
+    {
+      "split": "3-2",
+      "count": 98
+    },
+    {
+      "split": "6-1",
+      "count": 93
+    },
+    {
+      "split": "6-0",
+      "count": 78
+    },
+    {
+      "split": "5-2",
+      "count": 56
+    },
+    {
+      "split": "4-3",
+      "count": 50
+    },
+    {
+      "split": "3-0",
+      "count": 38
+    },
+    {
+      "split": "5-1",
+      "count": 32
+    },
+    {
+      "split": "4-2",
+      "count": 12
+    },
+    {
+      "split": "3-3",
+      "count": 4
+    },
+    {
+      "split": "4-0",
+      "count": 3
+    }
+  ],
+  "originStates": [
+    {
+      "state": "New South Wales",
+      "count": 371
+    },
+    {
+      "state": "Australia (federal actor)",
+      "count": 357
+    },
+    {
+      "state": "Victoria",
+      "count": 128
+    },
+    {
+      "state": "Queensland",
+      "count": 113
+    },
+    {
+      "state": "Western Australia",
+      "count": 100
+    },
+    {
+      "state": "South Australia",
+      "count": 91
+    },
+    {
+      "state": "Northern Territory",
+      "count": 31
+    },
+    {
+      "state": "Nauru",
+      "count": 21
+    },
+    {
+      "state": "Australian Capital Territory",
+      "count": 20
+    },
+    {
+      "state": "Tasmania",
+      "count": 12
+    },
+    {
+      "state": "Norfolk Island",
+      "count": 1
+    }
+  ],
+  "panelComposition": [
+    {
+      "term": "1994-1995",
+      "avgLiberalPanel": 0.844,
+      "avgWomenPanel": 0.133
+    },
+    {
+      "term": "1995-1996",
+      "avgLiberalPanel": 0.73,
+      "avgWomenPanel": 0.149
+    },
+    {
+      "term": "1996-1997",
+      "avgLiberalPanel": 0.691,
+      "avgWomenPanel": 0.138
+    },
+    {
+      "term": "1997-1998",
+      "avgLiberalPanel": 0.714,
+      "avgWomenPanel": 0.163
+    },
+    {
+      "term": "1998-1999",
+      "avgLiberalPanel": 0.457,
+      "avgWomenPanel": 0.144
+    },
+    {
+      "term": "1999-2000",
+      "avgLiberalPanel": 0.423,
+      "avgWomenPanel": 0.123
+    },
+    {
+      "term": "2000-2001",
+      "avgLiberalPanel": 0.384,
+      "avgWomenPanel": 0.12
+    },
+    {
+      "term": "2001-2002",
+      "avgLiberalPanel": 0.405,
+      "avgWomenPanel": 0.132
+    },
+    {
+      "term": "2002-2003",
+      "avgLiberalPanel": 0.374,
+      "avgWomenPanel": 0.07
+    },
+    {
+      "term": "2003-2004",
+      "avgLiberalPanel": 0.308,
+      "avgWomenPanel": 0.0
+    },
+    {
+      "term": "2004-2005",
+      "avgLiberalPanel": 0.29,
+      "avgWomenPanel": 0.0
+    },
+    {
+      "term": "2005-2006",
+      "avgLiberalPanel": 0.206,
+      "avgWomenPanel": 0.044
+    },
+    {
+      "term": "2006-2007",
+      "avgLiberalPanel": 0.142,
+      "avgWomenPanel": 0.146
+    },
+    {
+      "term": "2007-2008",
+      "avgLiberalPanel": 0.146,
+      "avgWomenPanel": 0.218
+    },
+    {
+      "term": "2008-2009",
+      "avgLiberalPanel": 0.216,
+      "avgWomenPanel": 0.331
+    },
+    {
+      "term": "2009-2010",
+      "avgLiberalPanel": 0.287,
+      "avgWomenPanel": 0.372
+    },
+    {
+      "term": "2010-2011",
+      "avgLiberalPanel": 0.305,
+      "avgWomenPanel": 0.437
+    },
+    {
+      "term": "2011-2012",
+      "avgLiberalPanel": 0.303,
+      "avgWomenPanel": 0.419
+    },
+    {
+      "term": "2012-2013",
+      "avgLiberalPanel": 0.385,
+      "avgWomenPanel": 0.452
+    },
+    {
+      "term": "2013-2014",
+      "avgLiberalPanel": 0.463,
+      "avgWomenPanel": 0.44
+    },
+    {
+      "term": "2014-2015",
+      "avgLiberalPanel": 0.477,
+      "avgWomenPanel": 0.351
+    },
+    {
+      "term": "2015-2016",
+      "avgLiberalPanel": 0.46,
+      "avgWomenPanel": 0.392
+    },
+    {
+      "term": "2016-2017",
+      "avgLiberalPanel": 0.387,
+      "avgWomenPanel": 0.443
+    },
+    {
+      "term": "2017-2018",
+      "avgLiberalPanel": 0.277,
+      "avgWomenPanel": 0.417
+    },
+    {
+      "term": "2018-2019",
+      "avgLiberalPanel": 0.283,
+      "avgWomenPanel": 0.385
+    },
+    {
+      "term": "2019-2020",
+      "avgLiberalPanel": 0.28,
+      "avgWomenPanel": 0.424
+    },
+    {
+      "term": "2020-2021",
+      "avgLiberalPanel": 0.274,
+      "avgWomenPanel": 0.444
+    }
+  ]
+}
