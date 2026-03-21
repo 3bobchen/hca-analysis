@@ -1,0 +1,19 @@
+# Data - large CSVs tracked outside git
+data/raw/*.csv
+data/processed/*.csv
+data/processed/*.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+
+# OS
+.DS_Store
