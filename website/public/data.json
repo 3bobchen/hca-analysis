@@ -602,5 +602,1189 @@
       "avgLiberalPanel": 0.274,
       "avgWomenPanel": 0.444
     }
-  ]
+  ],
+  "byTerm": {
+    "1994-1995": {
+      "issueArea": {
+        "Employment and Industrial Relations": 1,
+        "Criminal Law and Procedure": 5,
+        "Procedure and Ethics": 1,
+        "Economic Relations": 2
+      },
+      "partyWinning": {
+        "appealing/petitioning party received a favourable disposition": 5,
+        "no favourable disposition for appealing/petitioning party apparent": 4
+      },
+      "jurisdiction": {
+        "special leave": 9
+      },
+      "voteSplits": {
+        "5-0": 5,
+        "3-2": 1,
+        "4-1": 2,
+        "3-0": 1
+      },
+      "originStates": {
+        "South Australia": 3,
+        "New South Wales": 3,
+        "Western Australia": 1,
+        "Victoria": 2
+      },
+      "unanimous": 6
+    },
+    "1995-1996": {
+      "issueArea": {
+        "Criminal Law and Procedure": 11,
+        "Employment and Industrial Relations": 5,
+        "Common Law": 7,
+        "Economic Relations": 10,
+        "Public Law\u2014Federal": 4,
+        "Admiralty and Maritime": 2,
+        "Procedure and Ethics": 3,
+        "Public Law\u2014State": 2,
+        "Civil Rights (non-constitutional)": 2,
+        "Miscellaneous": 1
+      },
+      "partyWinning": {
+        "no favourable disposition for appealing/petitioning party apparent": 19,
+        "appealing/petitioning party received a favourable disposition": 28
+      },
+      "jurisdiction": {
+        "special leave": 41,
+        "removal": 1,
+        "original jurisdiction": 5
+      },
+      "voteSplits": {
+        "4-1": 9,
+        "5-0": 22,
+        "5-1": 3,
+        "3-2": 3,
+        "6-0": 5,
+        "3-0": 3,
+        "7-0": 2
+      },
+      "originStates": {
+        "Tasmania": 2,
+        "New South Wales": 14,
+        "Australian Capital Territory": 1,
+        "South Australia": 5,
+        "Australia (federal actor)": 11,
+        "Northern Territory": 1,
+        "Victoria": 5,
+        "Queensland": 2,
+        "Western Australia": 2
+      },
+      "unanimous": 32
+    },
+    "1996-1997": {
+      "issueArea": {
+        "Public Law\u2014State": 2,
+        "Economic Relations": 7,
+        "Public Law\u2014Federal": 9,
+        "Civil Rights (non-constitutional)": 4,
+        "Common Law": 7,
+        "Criminal Law and Procedure": 8,
+        "Miscellaneous": 1,
+        "Employment and Industrial Relations": 2,
+        "Procedure and Ethics": 3,
+        "Costs": 1
+      },
+      "partyWinning": {
+        "no favourable disposition for appealing/petitioning party apparent": 16,
+        "appealing/petitioning party received a favourable disposition": 28
+      },
+      "jurisdiction": {
+        "special leave": 35,
+        "original jurisdiction": 4,
+        "other": 2,
+        "removal": 3
+      },
+      "voteSplits": {
+        "5-0": 15,
+        "3-2": 6,
+        "6-1": 1,
+        "6-0": 4,
+        "4-2": 1,
+        "4-1": 3,
+        "7-0": 5,
+        "4-3": 5,
+        "5-2": 2,
+        "4-0": 1,
+        "5-1": 1
+      },
+      "originStates": {
+        "New South Wales": 11,
+        "Australia (federal actor)": 13,
+        "Queensland": 4,
+        "South Australia": 2,
+        "Victoria": 3,
+        "Western Australia": 3,
+        "Tasmania": 1,
+        "Northern Territory": 1
+      },
+      "unanimous": 25
+    },
+    "1997-1998": {
+      "issueArea": {
+        "Public Law\u2014Federal": 12,
+        "Criminal Law and Procedure": 13,
+        "Civil Rights (non-constitutional)": 2,
+        "Common Law": 7,
+        "Miscellaneous": 2,
+        "Economic Relations": 17,
+        "Costs": 3,
+        "Admiralty and Maritime": 1,
+        "Employment and Industrial Relations": 2,
+        "Procedure and Ethics": 2
+      },
+      "partyWinning": {
+        "appealing/petitioning party received a favourable disposition": 33,
+        "no favourable disposition for appealing/petitioning party apparent": 28
+      },
+      "jurisdiction": {
+        "removal": 3,
+        "special leave": 49,
+        "original jurisdiction": 8,
+        "other": 1
+      },
+      "voteSplits": {
+        "7-0": 5,
+        "5-0": 22,
+        "6-0": 1,
+        "6-1": 6,
+        "5-2": 2,
+        "4-3": 3,
+        "4-1": 10,
+        "3-0": 1,
+        "3-2": 8,
+        "3-3": 1,
+        "4-2": 1,
+        "5-1": 1
+      },
+      "originStates": {
+        "New South Wales": 11,
+        "Australia (federal actor)": 18,
+        "South Australia": 4,
+        "Queensland": 4,
+        "Victoria": 6,
+        "Northern Territory": 5,
+        "Western Australia": 4
+      },
+      "unanimous": 29
+    },
+    "1998-1999": {
+      "issueArea": {
+        "Criminal Law and Procedure": 19,
+        "Public Law\u2014Federal": 6,
+        "Common Law": 12,
+        "Economic Relations": 11,
+        "Civil Rights (non-constitutional)": 4,
+        "Admiralty and Maritime": 2,
+        "Public Law\u2014State": 1,
+        "Costs": 1,
+        "Procedure and Ethics": 2,
+        "Employment and Industrial Relations": 1,
+        "Miscellaneous": 1
+      },
+      "partyWinning": {
+        "appealing/petitioning party received a favourable disposition": 34,
+        "no favourable disposition for appealing/petitioning party apparent": 26
+      },
+      "jurisdiction": {
+        "special leave": 52,
+        "original jurisdiction": 5,
+        "removal": 1,
+        "other": 2
+      },
+      "voteSplits": {
+        "5-0": 27,
+        "4-1": 6,
+        "6-0": 3,
+        "3-2": 9,
+        "7-0": 6,
+        "5-1": 2,
+        "5-2": 2,
+        "6-1": 2,
+        "4-3": 3
+      },
+      "originStates": {
+        "Western Australia": 5,
+        "South Australia": 4,
+        "Tasmania": 2,
+        "Australia (federal actor)": 16,
+        "New South Wales": 16,
+        "Northern Territory": 3,
+        "Norfolk Island": 1,
+        "Queensland": 1,
+        "Victoria": 5
+      },
+      "unanimous": 36
+    },
+    "1999-2000": {
+      "issueArea": {
+        "Public Law\u2014Federal": 9,
+        "Criminal Law and Procedure": 17,
+        "Procedure and Ethics": 4,
+        "Economic Relations": 14,
+        "Common Law": 7,
+        "Civil Rights (non-constitutional)": 4,
+        "Employment and Industrial Relations": 2,
+        "Costs": 1,
+        "Public Law\u2014State": 2,
+        "Miscellaneous": 2
+      },
+      "partyWinning": {
+        "no favourable disposition for appealing/petitioning party apparent": 23,
+        "appealing/petitioning party received a favourable disposition": 39
+      },
+      "jurisdiction": {
+        "original jurisdiction": 5,
+        "special leave": 51,
+        "other": 2,
+        "removal": 3,
+        "appeal as of right": 1
+      },
+      "voteSplits": {
+        "6-1": 2,
+        "3-2": 3,
+        "5-0": 24,
+        "4-3": 3,
+        "7-0": 9,
+        "3-0": 1,
+        "4-1": 8,
+        "4-2": 3,
+        "5-2": 3,
+        "5-1": 3,
+        "6-0": 3
+      },
+      "originStates": {
+        "Northern Territory": 1,
+        "New South Wales": 12,
+        "Australia (federal actor)": 19,
+        "South Australia": 6,
+        "Queensland": 4,
+        "Western Australia": 4,
+        "Victoria": 4,
+        "Australian Capital Territory": 3
+      },
+      "unanimous": 37
+    },
+    "2000-2001": {
+      "issueArea": {
+        "Miscellaneous": 3,
+        "Employment and Industrial Relations": 6,
+        "Common Law": 14,
+        "Criminal Law and Procedure": 7,
+        "Public Law\u2014Federal": 6,
+        "Procedure and Ethics": 3,
+        "Civil Rights (non-constitutional)": 7,
+        "Economic Relations": 10,
+        "Public Law\u2014State": 1
+      },
+      "partyWinning": {
+        "no favourable disposition for appealing/petitioning party apparent": 21,
+        "appealing/petitioning party received a favourable disposition": 36
+      },
+      "jurisdiction": {
+        "special leave": 53,
+        "original jurisdiction": 4
+      },
+      "voteSplits": {
+        "4-1": 10,
+        "5-0": 19,
+        "6-0": 2,
+        "5-2": 5,
+        "6-1": 5,
+        "7-0": 7,
+        "4-3": 3,
+        "3-2": 4,
+        "3-0": 1,
+        "4-2": 1
+      },
+      "originStates": {
+        "Australia (federal actor)": 16,
+        "Queensland": 5,
+        "New South Wales": 13,
+        "Australian Capital Territory": 2,
+        "Victoria": 6,
+        "South Australia": 6,
+        "Western Australia": 5
+      },
+      "unanimous": 29
+    },
+    "2001-2002": {
+      "issueArea": {
+        "Common Law": 12,
+        "Economic Relations": 4,
+        "Criminal Law and Procedure": 15,
+        "Public Law\u2014State": 2,
+        "Procedure and Ethics": 5,
+        "Public Law\u2014Federal": 9,
+        "Employment and Industrial Relations": 1,
+        "Civil Rights (non-constitutional)": 5,
+        "Miscellaneous": 1
+      },
+      "partyWinning": {
+        "appealing/petitioning party received a favourable disposition": 24,
+        "no favourable disposition for appealing/petitioning party apparent": 30
+      },
+      "jurisdiction": {
+        "special leave": 49,
+        "original jurisdiction": 4,
+        "removal": 1
+      },
+      "voteSplits": {
+        "6-1": 5,
+        "5-0": 21,
+        "3-2": 6,
+        "7-0": 4,
+        "5-2": 2,
+        "4-1": 7,
+        "5-1": 4,
+        "3-0": 2,
+        "4-2": 1,
+        "6-0": 2
+      },
+      "originStates": {
+        "New South Wales": 16,
+        "Australia (federal actor)": 15,
+        "Victoria": 3,
+        "Western Australia": 7,
+        "South Australia": 3,
+        "Tasmania": 1,
+        "Queensland": 4,
+        "Australian Capital Territory": 1
+      },
+      "unanimous": 29
+    },
+    "2002-2003": {
+      "issueArea": {
+        "Civil Rights (non-constitutional)": 9,
+        "Procedure and Ethics": 3,
+        "Criminal Law and Procedure": 11,
+        "Common Law": 10,
+        "Miscellaneous": 7,
+        "Public Law\u2014Federal": 5,
+        "Economic Relations": 14,
+        "Employment and Industrial Relations": 1,
+        "Costs": 2,
+        "Public Law\u2014State": 1
+      },
+      "partyWinning": {
+        "appealing/petitioning party received a favourable disposition": 30,
+        "no favourable disposition for appealing/petitioning party apparent": 33
+      },
+      "jurisdiction": {
+        "special leave": 52,
+        "original jurisdiction": 8,
+        "removal": 1,
+        "other": 2
+      },
+      "voteSplits": {
+        "5-2": 5,
+        "4-3": 2,
+        "5-0": 16,
+        "4-1": 11,
+        "7-0": 12,
+        "6-1": 6,
+        "6-0": 4,
+        "5-1": 1,
+        "3-0": 4,
+        "3-2": 2
+      },
+      "originStates": {
+        "Australia (federal actor)": 17,
+        "Western Australia": 6,
+        "New South Wales": 18,
+        "Queensland": 3,
+        "Victoria": 2,
+        "South Australia": 4,
+        "Northern Territory": 1,
+        "Australian Capital Territory": 1
+      },
+      "unanimous": 36
+    },
+    "2003-2004": {
+      "issueArea": {
+        "Common Law": 18,
+        "Economic Relations": 17,
+        "Criminal Law and Procedure": 14,
+        "Employment and Industrial Relations": 3,
+        "Civil Rights (non-constitutional)": 8,
+        "Public Law\u2014State": 1,
+        "Procedure and Ethics": 3,
+        "Miscellaneous": 1,
+        "Public Law\u2014Federal": 1
+      },
+      "partyWinning": {
+        "no favourable disposition for appealing/petitioning party apparent": 34,
+        "appealing/petitioning party received a favourable disposition": 32
+      },
+      "jurisdiction": {
+        "special leave": 57,
+        "original jurisdiction": 3,
+        "removal": 3,
+        "appeal as of right": 2,
+        "other": 1
+      },
+      "voteSplits": {
+        "4-3": 4,
+        "3-2": 5,
+        "4-1": 12,
+        "5-0": 19,
+        "7-0": 7,
+        "6-0": 5,
+        "5-2": 3,
+        "5-1": 3,
+        "3-0": 2,
+        "3-3": 1,
+        "6-1": 4,
+        "4-2": 1
+      },
+      "originStates": {
+        "Queensland": 5,
+        "Western Australia": 10,
+        "New South Wales": 22,
+        "Australia (federal actor)": 16,
+        "South Australia": 2,
+        "Australian Capital Territory": 1,
+        "Northern Territory": 2,
+        "Victoria": 2,
+        "Tasmania": 1
+      },
+      "unanimous": 33
+    },
+    "2004-2005": {
+      "issueArea": {
+        "Employment and Industrial Relations": 6,
+        "Admiralty and Maritime": 1,
+        "Criminal Law and Procedure": 14,
+        "Civil Rights (non-constitutional)": 8,
+        "Public Law\u2014Federal": 2,
+        "Economic Relations": 16,
+        "Miscellaneous": 2,
+        "Common Law": 12,
+        "Procedure and Ethics": 2,
+        "Costs": 1,
+        "Public Law\u2014State": 1
+      },
+      "partyWinning": {
+        "appealing/petitioning party received a favourable disposition": 39,
+        "no favourable disposition for appealing/petitioning party apparent": 25,
+        "favourable disposition for petitioning party unclear": 1
+      },
+      "jurisdiction": {
+        "special leave": 58,
+        "removal": 3,
+        "original jurisdiction": 3,
+        "other": 1
+      },
+      "voteSplits": {
+        "7-0": 7,
+        "5-0": 24,
+        "6-1": 8,
+        "4-3": 5,
+        "5-2": 2,
+        "4-1": 8,
+        "3-2": 8,
+        "6-0": 3
+      },
+      "originStates": {
+        "Western Australia": 7,
+        "New South Wales": 16,
+        "South Australia": 3,
+        "Australia (federal actor)": 14,
+        "Queensland": 15,
+        "Northern Territory": 1,
+        "Victoria": 4,
+        "Australian Capital Territory": 1
+      },
+      "unanimous": 34
+    },
+    "2005-2006": {
+      "issueArea": {
+        "Economic Relations": 17,
+        "Miscellaneous": 3,
+        "Criminal Law and Procedure": 15,
+        "Common Law": 22,
+        "Public Law\u2014Federal": 8,
+        "Civil Rights (non-constitutional)": 5,
+        "Public Law\u2014State": 1,
+        "Procedure and Ethics": 3,
+        "Employment and Industrial Relations": 6
+      },
+      "partyWinning": {
+        "appealing/petitioning party received a favourable disposition": 41,
+        "no favourable disposition for appealing/petitioning party apparent": 39
+      },
+      "jurisdiction": {
+        "special leave": 72,
+        "original jurisdiction": 5,
+        "other": 1,
+        "appeal as of right": 2
+      },
+      "voteSplits": {
+        "5-0": 30,
+        "7-0": 9,
+        "5-2": 8,
+        "4-1": 6,
+        "6-0": 10,
+        "5-1": 4,
+        "4-3": 4,
+        "3-2": 4,
+        "4-2": 1,
+        "4-0": 1,
+        "6-1": 3
+      },
+      "originStates": {
+        "Victoria": 10,
+        "New South Wales": 32,
+        "Australia (federal actor)": 10,
+        "Nauru": 2,
+        "Queensland": 12,
+        "Western Australia": 4,
+        "South Australia": 4
+      },
+      "unanimous": 50
+    },
+    "2006-2007": {
+      "issueArea": {
+        "Economic Relations": 10,
+        "Procedure and Ethics": 8,
+        "Common Law": 10,
+        "Criminal Law and Procedure": 10,
+        "Public Law\u2014Federal": 11,
+        "Employment and Industrial Relations": 1,
+        "Civil Rights (non-constitutional)": 7,
+        "Miscellaneous": 2
+      },
+      "partyWinning": {
+        "no favourable disposition for appealing/petitioning party apparent": 33,
+        "appealing/petitioning party received a favourable disposition": 26
+      },
+      "jurisdiction": {
+        "special leave": 53,
+        "original jurisdiction": 6
+      },
+      "voteSplits": {
+        "5-1": 2,
+        "6-0": 2,
+        "5-2": 5,
+        "4-1": 7,
+        "5-0": 21,
+        "6-1": 7,
+        "3-2": 5,
+        "4-2": 1,
+        "7-0": 7,
+        "4-3": 2
+      },
+      "originStates": {
+        "Australia (federal actor)": 22,
+        "New South Wales": 16,
+        "Victoria": 6,
+        "Western Australia": 3,
+        "Tasmania": 1,
+        "Queensland": 2,
+        "Northern Territory": 1,
+        "Australian Capital Territory": 2
+      },
+      "unanimous": 30
+    },
+    "2007-2008": {
+      "issueArea": {
+        "Economic Relations": 15,
+        "Criminal Law and Procedure": 17,
+        "Public Law\u2014Federal": 8,
+        "Public Law\u2014State": 1,
+        "Civil Rights (non-constitutional)": 4,
+        "Common Law": 9,
+        "Miscellaneous": 3,
+        "Employment and Industrial Relations": 1,
+        "Procedure and Ethics": 1
+      },
+      "partyWinning": {
+        "appealing/petitioning party received a favourable disposition": 27,
+        "no favourable disposition for appealing/petitioning party apparent": 32
+      },
+      "jurisdiction": {
+        "special leave": 54,
+        "original jurisdiction": 5
+      },
+      "voteSplits": {
+        "4-1": 11,
+        "5-0": 23,
+        "5-2": 2,
+        "7-0": 8,
+        "6-1": 6,
+        "3-2": 8,
+        "4-2": 1
+      },
+      "originStates": {
+        "New South Wales": 19,
+        "Northern Territory": 2,
+        "Australia (federal actor)": 10,
+        "Queensland": 3,
+        "Victoria": 9,
+        "Western Australia": 5,
+        "South Australia": 6
+      },
+      "unanimous": 31
+    },
+    "2008-2009": {
+      "issueArea": {
+        "Civil Rights (non-constitutional)": 2,
+        "Economic Relations": 14,
+        "Public Law\u2014Federal": 7,
+        "Criminal Law and Procedure": 7,
+        "Procedure and Ethics": 3,
+        "Public Law\u2014State": 1,
+        "Common Law": 9,
+        "Costs": 1,
+        "Miscellaneous": 5,
+        "Employment and Industrial Relations": 1
+      },
+      "partyWinning": {
+        "no favourable disposition for appealing/petitioning party apparent": 18,
+        "appealing/petitioning party received a favourable disposition": 32
+      },
+      "jurisdiction": {
+        "special leave": 47,
+        "other": 1,
+        "original jurisdiction": 2
+      },
+      "voteSplits": {
+        "5-2": 1,
+        "5-0": 23,
+        "4-1": 6,
+        "7-0": 5,
+        "6-0": 9,
+        "5-1": 1,
+        "6-1": 3,
+        "3-2": 1,
+        "4-3": 1
+      },
+      "originStates": {
+        "Australia (federal actor)": 17,
+        "New South Wales": 18,
+        "Victoria": 4,
+        "Queensland": 5,
+        "South Australia": 2,
+        "Tasmania": 1
+      },
+      "unanimous": 37
+    },
+    "2009-2010": {
+      "issueArea": {
+        "Criminal Law and Procedure": 6,
+        "Economic Relations": 10,
+        "Procedure and Ethics": 2,
+        "Common Law": 12,
+        "Public Law\u2014Federal": 8,
+        "Civil Rights (non-constitutional)": 6,
+        "Employment and Industrial Relations": 4,
+        "Costs": 1,
+        "Miscellaneous": 4,
+        "Public Law\u2014State": 1
+      },
+      "partyWinning": {
+        "appealing/petitioning party received a favourable disposition": 38,
+        "no favourable disposition for appealing/petitioning party apparent": 16
+      },
+      "jurisdiction": {
+        "special leave": 49,
+        "original jurisdiction": 4,
+        "removal": 1
+      },
+      "voteSplits": {
+        "7-0": 12,
+        "5-0": 27,
+        "6-0": 4,
+        "4-1": 5,
+        "4-3": 1,
+        "6-1": 3,
+        "3-0": 1,
+        "3-2": 1
+      },
+      "originStates": {
+        "Northern Territory": 3,
+        "New South Wales": 19,
+        "Australia (federal actor)": 18,
+        "Australian Capital Territory": 1,
+        "Tasmania": 2,
+        "Western Australia": 4,
+        "Queensland": 1,
+        "Victoria": 1
+      },
+      "unanimous": 44
+    },
+    "2010-2011": {
+      "issueArea": {
+        "Common Law": 4,
+        "Economic Relations": 17,
+        "Procedure and Ethics": 3,
+        "Public Law\u2014Federal": 5,
+        "Public Law\u2014State": 2,
+        "Employment and Industrial Relations": 1,
+        "Criminal Law and Procedure": 9,
+        "Civil Rights (non-constitutional)": 4,
+        "Costs": 1
+      },
+      "partyWinning": {
+        "appealing/petitioning party received a favourable disposition": 35,
+        "no favourable disposition for appealing/petitioning party apparent": 11
+      },
+      "jurisdiction": {
+        "special leave": 40,
+        "original jurisdiction": 4,
+        "other": 1,
+        "removal": 1
+      },
+      "voteSplits": {
+        "3-2": 7,
+        "5-0": 21,
+        "7-0": 8,
+        "6-1": 6,
+        "5-2": 1,
+        "4-3": 1,
+        "4-1": 2
+      },
+      "originStates": {
+        "New South Wales": 11,
+        "Australia (federal actor)": 8,
+        "Queensland": 7,
+        "Victoria": 6,
+        "South Australia": 2,
+        "Western Australia": 6
+      },
+      "unanimous": 29
+    },
+    "2011-2012": {
+      "issueArea": {
+        "Economic Relations": 13,
+        "Public Law\u2014Federal": 10,
+        "Common Law": 7,
+        "Civil Rights (non-constitutional)": 3,
+        "Employment and Industrial Relations": 3,
+        "Criminal Law and Procedure": 14,
+        "Procedure and Ethics": 1
+      },
+      "partyWinning": {
+        "appealing/petitioning party received a favourable disposition": 26,
+        "no favourable disposition for appealing/petitioning party apparent": 24,
+        "favourable disposition for petitioning party unclear": 1
+      },
+      "jurisdiction": {
+        "special leave": 42,
+        "original jurisdiction": 8,
+        "appeal as of right": 1
+      },
+      "voteSplits": {
+        "5-0": 16,
+        "6-1": 6,
+        "7-0": 13,
+        "6-0": 2,
+        "5-2": 2,
+        "4-1": 6,
+        "5-1": 3,
+        "3-2": 2,
+        "4-3": 1
+      },
+      "originStates": {
+        "South Australia": 4,
+        "New South Wales": 15,
+        "Victoria": 7,
+        "Australia (federal actor)": 11,
+        "Western Australia": 1,
+        "Queensland": 4,
+        "Nauru": 1
+      },
+      "unanimous": 31
+    },
+    "2012-2013": {
+      "issueArea": {
+        "Public Law\u2014Federal": 8,
+        "Criminal Law and Procedure": 15,
+        "Miscellaneous": 5,
+        "Economic Relations": 16,
+        "Civil Rights (non-constitutional)": 6,
+        "Employment and Industrial Relations": 2,
+        "Common Law": 11,
+        "Costs": 2
+      },
+      "partyWinning": {
+        "appealing/petitioning party received a favourable disposition": 34,
+        "no favourable disposition for appealing/petitioning party apparent": 30,
+        "favourable disposition for petitioning party unclear": 1
+      },
+      "jurisdiction": {
+        "special leave": 52,
+        "removal": 3,
+        "original jurisdiction": 8,
+        "other": 2
+      },
+      "voteSplits": {
+        "7-0": 10,
+        "5-0": 28,
+        "5-1": 3,
+        "6-1": 3,
+        "4-1": 7,
+        "5-2": 1,
+        "6-0": 7,
+        "3-2": 3,
+        "3-0": 2,
+        "3-3": 1
+      },
+      "originStates": {
+        "South Australia": 5,
+        "New South Wales": 20,
+        "Victoria": 5,
+        "Australia (federal actor)": 13,
+        "Queensland": 4,
+        "Western Australia": 7,
+        "Australian Capital Territory": 1
+      },
+      "unanimous": 47
+    },
+    "2013-2014": {
+      "issueArea": {
+        "Civil Rights (non-constitutional)": 8,
+        "Public Law\u2014Federal": 6,
+        "Procedure and Ethics": 4,
+        "Employment and Industrial Relations": 3,
+        "Criminal Law and Procedure": 15,
+        "Public Law\u2014State": 1,
+        "Common Law": 6,
+        "Economic Relations": 7,
+        "Miscellaneous": 1
+      },
+      "partyWinning": {
+        "appealing/petitioning party received a favourable disposition": 32,
+        "no favourable disposition for appealing/petitioning party apparent": 19
+      },
+      "jurisdiction": {
+        "special leave": 42,
+        "original jurisdiction": 8,
+        "other": 1
+      },
+      "voteSplits": {
+        "5-0": 26,
+        "6-0": 5,
+        "7-0": 8,
+        "6-1": 4,
+        "4-3": 1,
+        "4-2": 1,
+        "3-0": 1,
+        "4-1": 4,
+        "3-2": 1
+      },
+      "originStates": {
+        "Australia (federal actor)": 12,
+        "Victoria": 6,
+        "New South Wales": 15,
+        "Western Australia": 3,
+        "Nauru": 1,
+        "South Australia": 1,
+        "Queensland": 2,
+        "Northern Territory": 1,
+        "Australian Capital Territory": 1
+      },
+      "unanimous": 40
+    },
+    "2014-2015": {
+      "issueArea": {
+        "Criminal Law and Procedure": 9,
+        "Public Law\u2014Federal": 8,
+        "Costs": 2,
+        "Employment and Industrial Relations": 2,
+        "Common Law": 7,
+        "Civil Rights (non-constitutional)": 5,
+        "Economic Relations": 9,
+        "Public Law\u2014State": 2,
+        "Miscellaneous": 1,
+        "Procedure and Ethics": 1
+      },
+      "partyWinning": {
+        "appealing/petitioning party received a favourable disposition": 28,
+        "no favourable disposition for appealing/petitioning party apparent": 18
+      },
+      "jurisdiction": {
+        "special leave": 36,
+        "other": 2,
+        "original jurisdiction": 7,
+        "removal": 1
+      },
+      "voteSplits": {
+        "5-0": 26,
+        "7-0": 5,
+        "6-1": 2,
+        "3-2": 1,
+        "4-1": 6,
+        "4-3": 1,
+        "6-0": 4,
+        "3-3": 1
+      },
+      "originStates": {
+        "South Australia": 2,
+        "New South Wales": 14,
+        "Australia (federal actor)": 10,
+        "Western Australia": 1,
+        "Australian Capital Territory": 1,
+        "Victoria": 7,
+        "Queensland": 1
+      },
+      "unanimous": 35
+    },
+    "2015-2016": {
+      "issueArea": {
+        "Economic Relations": 8,
+        "Criminal Law and Procedure": 13,
+        "Common Law": 10,
+        "Public Law\u2014Federal": 6,
+        "Procedure and Ethics": 3,
+        "Miscellaneous": 3,
+        "Employment and Industrial Relations": 2,
+        "Civil Rights (non-constitutional)": 2,
+        "Costs": 1
+      },
+      "partyWinning": {
+        "no favourable disposition for appealing/petitioning party apparent": 28,
+        "appealing/petitioning party received a favourable disposition": 20
+      },
+      "jurisdiction": {
+        "special leave": 38,
+        "removal": 2,
+        "original jurisdiction": 6,
+        "reference": 1,
+        "other": 1
+      },
+      "voteSplits": {
+        "4-1": 2,
+        "6-0": 1,
+        "5-0": 27,
+        "7-0": 9,
+        "6-1": 4,
+        "3-2": 2,
+        "3-0": 1,
+        "4-0": 1,
+        "5-2": 1
+      },
+      "originStates": {
+        "Australia (federal actor)": 12,
+        "South Australia": 2,
+        "Queensland": 4,
+        "New South Wales": 13,
+        "Northern Territory": 2,
+        "Western Australia": 1,
+        "Victoria": 4,
+        "Australian Capital Territory": 1,
+        "Tasmania": 1
+      },
+      "unanimous": 39
+    },
+    "2016-2017": {
+      "issueArea": {
+        "Common Law": 8,
+        "Criminal Law and Procedure": 16,
+        "Civil Rights (non-constitutional)": 2,
+        "Employment and Industrial Relations": 2,
+        "Public Law\u2014Federal": 8,
+        "Procedure and Ethics": 2,
+        "Economic Relations": 8,
+        "Public Law\u2014State": 1,
+        "Miscellaneous": 2
+      },
+      "partyWinning": {
+        "appealing/petitioning party received a favourable disposition": 27,
+        "no favourable disposition for appealing/petitioning party apparent": 22
+      },
+      "jurisdiction": {
+        "special leave": 42,
+        "original jurisdiction": 5,
+        "other": 2
+      },
+      "voteSplits": {
+        "5-2": 2,
+        "4-1": 8,
+        "5-0": 26,
+        "7-0": 9,
+        "6-1": 2,
+        "5-1": 1,
+        "4-3": 1
+      },
+      "originStates": {
+        "Victoria": 7,
+        "Queensland": 4,
+        "Australia (federal actor)": 11,
+        "South Australia": 9,
+        "New South Wales": 8,
+        "Western Australia": 2,
+        "Northern Territory": 1
+      },
+      "unanimous": 35
+    },
+    "2017-2018": {
+      "issueArea": {
+        "Economic Relations": 4,
+        "Criminal Law and Procedure": 17,
+        "Public Law\u2014Federal": 12,
+        "Civil Rights (non-constitutional)": 8,
+        "Common Law": 4,
+        "Public Law\u2014State": 5,
+        "Employment and Industrial Relations": 4,
+        "Procedure and Ethics": 2
+      },
+      "partyWinning": {
+        "appealing/petitioning party received a favourable disposition": 31,
+        "no favourable disposition for appealing/petitioning party apparent": 25
+      },
+      "jurisdiction": {
+        "special leave": 32,
+        "original jurisdiction": 9,
+        "appeal as of right": 9,
+        "other": 6
+      },
+      "voteSplits": {
+        "5-0": 18,
+        "5-2": 3,
+        "4-1": 6,
+        "7-0": 16,
+        "6-1": 1,
+        "6-0": 1,
+        "3-0": 9,
+        "4-3": 1,
+        "3-2": 1
+      },
+      "originStates": {
+        "Australia (federal actor)": 8,
+        "New South Wales": 3,
+        "Western Australia": 2,
+        "Victoria": 4,
+        "Australian Capital Territory": 1,
+        "South Australia": 7,
+        "Queensland": 7,
+        "Nauru": 9
+      },
+      "unanimous": 44
+    },
+    "2018-2019": {
+      "issueArea": {
+        "Public Law\u2014Federal": 10,
+        "Criminal Law and Procedure": 12,
+        "Economic Relations": 7,
+        "Procedure and Ethics": 3,
+        "Civil Rights (non-constitutional)": 10,
+        "Common Law": 4,
+        "Costs": 1,
+        "Employment and Industrial Relations": 1,
+        "Miscellaneous": 2
+      },
+      "partyWinning": {
+        "appealing/petitioning party received a favourable disposition": 30,
+        "no favourable disposition for appealing/petitioning party apparent": 20
+      },
+      "jurisdiction": {
+        "special leave": 37,
+        "appeal as of right": 8,
+        "other": 1,
+        "original jurisdiction": 3,
+        "removal": 1
+      },
+      "voteSplits": {
+        "5-0": 18,
+        "7-0": 12,
+        "3-0": 8,
+        "3-2": 2,
+        "4-1": 3,
+        "4-3": 3,
+        "5-2": 1,
+        "6-1": 3
+      },
+      "originStates": {
+        "Australia (federal actor)": 18,
+        "Victoria": 6,
+        "New South Wales": 6,
+        "Nauru": 8,
+        "Western Australia": 4,
+        "South Australia": 2,
+        "Northern Territory": 1,
+        "Australian Capital Territory": 1
+      },
+      "unanimous": 38
+    },
+    "2019-2020": {
+      "issueArea": {
+        "Procedure and Ethics": 5,
+        "Public Law\u2014Federal": 6,
+        "Costs": 1,
+        "Common Law": 5,
+        "Criminal Law and Procedure": 18,
+        "Economic Relations": 7,
+        "Civil Rights (non-constitutional)": 4
+      },
+      "partyWinning": {
+        "no favourable disposition for appealing/petitioning party apparent": 17,
+        "appealing/petitioning party received a favourable disposition": 29
+      },
+      "jurisdiction": {
+        "special leave": 37,
+        "removal": 2,
+        "original jurisdiction": 7
+      },
+      "voteSplits": {
+        "7-0": 15,
+        "5-0": 17,
+        "4-3": 4,
+        "5-2": 3,
+        "4-1": 2,
+        "6-0": 1,
+        "3-2": 2,
+        "6-1": 1,
+        "3-0": 1
+      },
+      "originStates": {
+        "Australia (federal actor)": 11,
+        "Northern Territory": 3,
+        "Queensland": 7,
+        "New South Wales": 10,
+        "Victoria": 4,
+        "Western Australia": 3,
+        "South Australia": 1
+      },
+      "unanimous": 34
+    },
+    "2020-2021": {
+      "issueArea": {
+        "Criminal Law and Procedure": 5,
+        "Common Law": 2,
+        "Economic Relations": 3,
+        "Employment and Industrial Relations": 1,
+        "Public Law\u2014Federal": 2,
+        "Miscellaneous": 4,
+        "Civil Rights (non-constitutional)": 4
+      },
+      "partyWinning": {
+        "no favourable disposition for appealing/petitioning party apparent": 7,
+        "appealing/petitioning party received a favourable disposition": 14
+      },
+      "jurisdiction": {
+        "special leave": 19,
+        "original jurisdiction": 2
+      },
+      "voteSplits": {
+        "7-0": 3,
+        "5-0": 12,
+        "4-1": 2,
+        "3-2": 3,
+        "4-3": 1
+      },
+      "originStates": {
+        "Northern Territory": 2,
+        "Australian Capital Territory": 1,
+        "Australia (federal actor)": 11,
+        "Queensland": 3,
+        "South Australia": 2
+      },
+      "unanimous": 15
+    }
+  }
 }

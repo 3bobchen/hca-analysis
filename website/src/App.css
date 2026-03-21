@@ -1,13 +1,14 @@
-.header {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 24px;
-  margin-bottom: 24px;
-  flex-wrap: wrap;
+.page-content {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 24px 24px 48px;
 }
 
-.header > div {
+.header {
+  margin-bottom: 24px;
+}
+
+.header-content {
   display: flex;
   flex-direction: column;
   gap: 8px;
@@ -15,29 +16,208 @@
 
 .header h1 {
   margin: 0;
+  font-size: 36px;
+  font-weight: 700;
 }
 
-.header p {
+.header-subtitle {
+  font-size: 16px;
   color: var(--text);
   margin: 0;
+  font-weight: 500;
 }
 
-.nav-button {
-  padding: 10px 18px;
-  background: #2563eb;
-  color: white;
-  border: none;
-  border-radius: 6px;
-  cursor: pointer;
-  font-weight: 600;
+.data-source {
   font-size: 14px;
-  transition: all 0.2s;
+  color: var(--text);
+  margin: 0;
+  margin-top: 8px;
+}
+
+.data-source a {
+  color: #2563eb;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.data-source a:hover {
+  text-decoration: underline;
+}
+
+.info-section {
+  margin-bottom: 32px;
+}
+
+.info-card {
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 24px;
+  box-shadow: var(--shadow);
+}
+
+.info-card h2 {
+  margin-top: 0;
+  margin-bottom: 16px;
+  font-size: 20px;
+}
+
+.info-card p {
+  margin: 0 0 12px 0;
+  line-height: 1.6;
+  color: var(--text);
+}
+
+.info-card p:last-child {
+  margin-bottom: 0;
+}
+
+.term-slider-card {
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 16px 20px 20px;
+  margin-bottom: 20px;
+  box-shadow: var(--shadow);
+}
+
+.term-slider-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 12px;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.term-slider-header-right {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.era-presets {
+  display: flex;
+  gap: 6px;
+}
+
+.era-btn {
+  padding: 4px 12px;
+  border-radius: 20px;
+  border: 1px solid var(--border);
+  background: var(--bg);
+  color: var(--text-h);
+  font-size: 12px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.15s;
   white-space: nowrap;
 }
 
-.nav-button:hover {
-  background: #1d4ed8;
-  transform: translateX(2px);
+.era-btn:hover {
+  border-color: var(--text);
+}
+
+.era-btn.active {
+  background: var(--text-h);
+  color: var(--bg);
+  border-color: var(--text-h);
+}
+
+.term-slider-title {
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: var(--text);
+}
+
+.term-slider-display {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--text-h);
+}
+
+.term-slider-arrow {
+  color: var(--text);
+  font-weight: 400;
+}
+
+.term-slider-track-area {
+  position: relative;
+  height: 52px;
+  cursor: pointer;
+  user-select: none;
+}
+
+.term-slider-rail {
+  position: absolute;
+  top: 18px;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: var(--border);
+  border-radius: 2px;
+  pointer-events: none;
+}
+
+.term-slider-fill {
+  position: absolute;
+  top: 18px;
+  height: 4px;
+  background: #2563eb;
+  border-radius: 2px;
+  pointer-events: none;
+}
+
+.term-slider-handle {
+  position: absolute;
+  top: 20px;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: var(--card-bg);
+  border: 2.5px solid #2563eb;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);
+  transform: translate(-50%, -50%);
+  cursor: grab;
+  z-index: 2;
+  transition: box-shadow 0.15s;
+}
+
+.term-slider-handle:hover {
+  box-shadow: 0 0 0 5px rgba(37, 99, 235, 0.15), 0 1px 4px rgba(0, 0, 0, 0.15);
+}
+
+.term-slider-handle:active {
+  cursor: grabbing;
+  box-shadow: 0 0 0 7px rgba(37, 99, 235, 0.18), 0 1px 4px rgba(0, 0, 0, 0.2);
+}
+
+.term-slider-tick {
+  position: absolute;
+  top: 26px;
+  transform: translateX(-50%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 3px;
+  pointer-events: none;
+}
+
+.term-tick-line {
+  width: 1px;
+  height: 4px;
+  background: var(--text);
+  opacity: 0.2;
+}
+
+.term-tick-label {
+  font-size: 10px;
+  color: var(--text);
+  opacity: 0.55;
+  white-space: nowrap;
 }
 
 .stats-row {

@@ -1,12 +1,14 @@
 {
   "provisions": [
     {
-      "provision": "Ch III",
+      "provision": "Chapter III",
       "years": [
+        2007,
+        2008,
         2017,
         2018
       ],
-      "case_count": 4,
+      "case_count": 10,
       "cases": [
         {
           "citation": "[2017] HCA 5",
@@ -47,17 +49,7 @@
           "winning_party": "no favourable disposition for appealing/petitioning party apparent",
           "votes": "7-0",
           "year": 2018
-        }
-      ]
-    },
-    {
-      "provision": "Chapter III",
-      "years": [
-        2007,
-        2008
-      ],
-      "case_count": 6,
-      "cases": [
+        },
         {
           "citation": "[2007] HCA 23",
           "name": "Albarran v Members of the Companies Auditors and Liquidators Disciplinary Board",
@@ -121,8 +113,242 @@
       ]
     },
     {
-      "provision": "Chapter III Judicial Power",
+      "provision": "Clause 5",
       "years": [
+        2003,
+        2004
+      ],
+      "case_count": 3,
+      "cases": [
+        {
+          "citation": "[2003] HCA 31",
+          "name": "Glennan v Commissioner of Taxation",
+          "date": "2003-06-17",
+          "direction": "liberal",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "3-0",
+          "year": 2003
+        },
+        {
+          "citation": "[2003] HCA 47",
+          "name": "British American Tobacco Australia Ltd v Western Australia",
+          "date": "2003-09-02",
+          "direction": "liberal",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied in part",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-0",
+          "year": 2003
+        },
+        {
+          "citation": "[2004] HCA 20",
+          "name": "Minister for Immigration and Multicultural and Indigenous Affairs v B",
+          "date": "2004-04-29",
+          "direction": "conservative",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "7-0",
+          "year": 2004
+        }
+      ]
+    },
+    {
+      "provision": "Commonwealth power with respect to State Magistrates",
+      "years": [
+        2008
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2008] HCA 14",
+          "name": "O'Donoghue v Ireland",
+          "date": "2008-04-23",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-1",
+          "year": 2008
+        }
+      ]
+    },
+    {
+      "provision": "Conflict of laws between States",
+      "years": [
+        2006
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2006] HCA 8",
+          "name": "Sweedman v Transport Accident Commission",
+          "date": "2006-03-09",
+          "direction": "liberal",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "5-1",
+          "year": 2006
+        }
+      ]
+    },
+    {
+      "provision": "Crown Prerogatives to dismiss servants",
+      "years": [
+        2005
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2005] HCA 50",
+          "name": "Jarratt v Commissioner of Police for New South Wales",
+          "date": "2005-09-08",
+          "direction": "liberal",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-0",
+          "year": 2005
+        }
+      ]
+    },
+    {
+      "provision": "Extraterritorial power of NSW laws",
+      "years": [
+        2005
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2005] HCA 44",
+          "name": "APLA Limited v Legal Services Commissioner (NSW)",
+          "date": "2005-09-01",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "5-2",
+          "year": 2005
+        }
+      ]
+    },
+    {
+      "provision": "Implied Freedom of Political Communication",
+      "years": [
+        2004,
+        2005,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2017
+      ],
+      "case_count": 10,
+      "cases": [
+        {
+          "citation": "[2004] HCA 39",
+          "name": "Coleman v Power",
+          "date": "2004-09-01",
+          "direction": "liberal",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied in part",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "4-3",
+          "year": 2004
+        },
+        {
+          "citation": "[2004] HCA 41",
+          "name": "Mulholland v Australian Electoral Commission",
+          "date": "2004-09-08",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2004
+        },
+        {
+          "citation": "[2005] HCA 44",
+          "name": "APLA Limited v Legal Services Commissioner (NSW)",
+          "date": "2005-09-01",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "5-2",
+          "year": 2005
+        },
+        {
+          "citation": "[2011] HCA 4",
+          "name": "Hogan v Hinch",
+          "date": "2011-03-10",
+          "direction": "conservative",
+          "disposition": "Other disposition",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "7-0",
+          "year": 2011
+        },
+        {
+          "citation": "[2012] HCA 2",
+          "name": "Wotton v Queensland",
+          "date": "2012-02-29",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2012
+        },
+        {
+          "citation": "[2013] HCA 3",
+          "name": "Attorney-General (SA) v Corporation of the City of Adelaide",
+          "date": "2013-02-27",
+          "direction": "conservative",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied in part",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "5-1",
+          "year": 2013
+        },
+        {
+          "citation": "[2013] HCA 58",
+          "name": "Unions NSW v New South Wales",
+          "date": "2013-12-18",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-0",
+          "year": 2013
+        },
+        {
+          "citation": "[2017] HCA 43",
+          "name": "Brown v Tasmania",
+          "date": "2017-10-18",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "5-2",
+          "year": 2017
+        },
+        {
+          "citation": "[2014] HCA 35",
+          "name": "Tajjour v New South Wales",
+          "date": "2014-10-08",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-1",
+          "year": 2014
+        },
+        {
+          "citation": "[2015] HCA 34",
+          "name": "McCloy v New South Wales",
+          "date": "2015-10-07",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-1",
+          "year": 2015
+        }
+      ]
+    },
+    {
+      "provision": "Judicial power",
+      "years": [
+        2005,
+        2006,
         2009,
         2010,
         2011,
@@ -130,7 +356,7 @@
         2013,
         2015
       ],
-      "case_count": 24,
+      "case_count": 30,
       "cases": [
         {
           "citation": "[2009] HCA 4",
@@ -371,315 +597,7 @@
           "winning_party": "no favourable disposition for appealing/petitioning party apparent",
           "votes": "6-1",
           "year": 2015
-        }
-      ]
-    },
-    {
-      "provision": "Chapter III, Kable principle",
-      "years": [
-        2014
-      ],
-      "case_count": 3,
-      "cases": [
-        {
-          "citation": "[2014] HCA 13",
-          "name": "Attorney-General (NT) v Emmerson",
-          "date": "2014-04-10",
-          "direction": "conservative",
-          "disposition": "Appeal/application allowed, order below set aside and/or varied in part",
-          "winning_party": "appealing/petitioning party received a favourable disposition",
-          "votes": "6-1",
-          "year": 2014
         },
-        {
-          "citation": "[2014] HCA 30",
-          "name": "Pollentine v Bleijie",
-          "date": "2014-08-14",
-          "direction": "conservative",
-          "disposition": "Questions answered (special case, case referred, etc)",
-          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
-          "votes": "7-0",
-          "year": 2014
-        },
-        {
-          "citation": "[2014] HCA 46",
-          "name": "Kuczborski v Queensland",
-          "date": "2014-11-14",
-          "direction": "conservative",
-          "disposition": "Questions answered (special case, case referred, etc)",
-          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
-          "votes": "6-1",
-          "year": 2014
-        }
-      ]
-    },
-    {
-      "provision": "Clause 5",
-      "years": [
-        2003,
-        2004
-      ],
-      "case_count": 3,
-      "cases": [
-        {
-          "citation": "[2003] HCA 31",
-          "name": "Glennan v Commissioner of Taxation",
-          "date": "2003-06-17",
-          "direction": "liberal",
-          "disposition": "Appeal/application dismissed ",
-          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
-          "votes": "3-0",
-          "year": 2003
-        },
-        {
-          "citation": "[2003] HCA 47",
-          "name": "British American Tobacco Australia Ltd v Western Australia",
-          "date": "2003-09-02",
-          "direction": "liberal",
-          "disposition": "Appeal/application allowed, order below set aside and/or varied in part",
-          "winning_party": "appealing/petitioning party received a favourable disposition",
-          "votes": "6-0",
-          "year": 2003
-        },
-        {
-          "citation": "[2004] HCA 20",
-          "name": "Minister for Immigration and Multicultural and Indigenous Affairs v B",
-          "date": "2004-04-29",
-          "direction": "conservative",
-          "disposition": "Appeal/application allowed, order below set aside and/or varied",
-          "winning_party": "appealing/petitioning party received a favourable disposition",
-          "votes": "7-0",
-          "year": 2004
-        }
-      ]
-    },
-    {
-      "provision": "Commonwealth power with respect to State Magistrates",
-      "years": [
-        2008
-      ],
-      "case_count": 1,
-      "cases": [
-        {
-          "citation": "[2008] HCA 14",
-          "name": "O'Donoghue v Ireland",
-          "date": "2008-04-23",
-          "direction": "conservative",
-          "disposition": "Appeal/application dismissed ",
-          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
-          "votes": "6-1",
-          "year": 2008
-        }
-      ]
-    },
-    {
-      "provision": "Conflict of laws between States",
-      "years": [
-        2006
-      ],
-      "case_count": 1,
-      "cases": [
-        {
-          "citation": "[2006] HCA 8",
-          "name": "Sweedman v Transport Accident Commission",
-          "date": "2006-03-09",
-          "direction": "liberal",
-          "disposition": "Appeal/application dismissed ",
-          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
-          "votes": "5-1",
-          "year": 2006
-        }
-      ]
-    },
-    {
-      "provision": "Crown Prerogatives to dismiss servants",
-      "years": [
-        2005
-      ],
-      "case_count": 1,
-      "cases": [
-        {
-          "citation": "[2005] HCA 50",
-          "name": "Jarratt v Commissioner of Police for New South Wales",
-          "date": "2005-09-08",
-          "direction": "liberal",
-          "disposition": "Appeal/application allowed, order below set aside and/or varied",
-          "winning_party": "appealing/petitioning party received a favourable disposition",
-          "votes": "6-0",
-          "year": 2005
-        }
-      ]
-    },
-    {
-      "provision": "Extraterritorial power of NSW laws",
-      "years": [
-        2005
-      ],
-      "case_count": 1,
-      "cases": [
-        {
-          "citation": "[2005] HCA 44",
-          "name": "APLA Limited v Legal Services Commissioner (NSW)",
-          "date": "2005-09-01",
-          "direction": "conservative",
-          "disposition": "Questions answered (special case, case referred, etc)",
-          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
-          "votes": "5-2",
-          "year": 2005
-        }
-      ]
-    },
-    {
-      "provision": "Implied Freedom of Political Communication",
-      "years": [
-        2004,
-        2005,
-        2011,
-        2012,
-        2013,
-        2017
-      ],
-      "case_count": 8,
-      "cases": [
-        {
-          "citation": "[2004] HCA 39",
-          "name": "Coleman v Power",
-          "date": "2004-09-01",
-          "direction": "liberal",
-          "disposition": "Appeal/application allowed, order below set aside and/or varied in part",
-          "winning_party": "appealing/petitioning party received a favourable disposition",
-          "votes": "4-3",
-          "year": 2004
-        },
-        {
-          "citation": "[2004] HCA 41",
-          "name": "Mulholland v Australian Electoral Commission",
-          "date": "2004-09-08",
-          "direction": "conservative",
-          "disposition": "Appeal/application dismissed ",
-          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
-          "votes": "7-0",
-          "year": 2004
-        },
-        {
-          "citation": "[2005] HCA 44",
-          "name": "APLA Limited v Legal Services Commissioner (NSW)",
-          "date": "2005-09-01",
-          "direction": "conservative",
-          "disposition": "Questions answered (special case, case referred, etc)",
-          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
-          "votes": "5-2",
-          "year": 2005
-        },
-        {
-          "citation": "[2011] HCA 4",
-          "name": "Hogan v Hinch",
-          "date": "2011-03-10",
-          "direction": "conservative",
-          "disposition": "Other disposition",
-          "winning_party": "appealing/petitioning party received a favourable disposition",
-          "votes": "7-0",
-          "year": 2011
-        },
-        {
-          "citation": "[2012] HCA 2",
-          "name": "Wotton v Queensland",
-          "date": "2012-02-29",
-          "direction": "conservative",
-          "disposition": "Questions answered (special case, case referred, etc)",
-          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
-          "votes": "7-0",
-          "year": 2012
-        },
-        {
-          "citation": "[2013] HCA 3",
-          "name": "Attorney-General (SA) v Corporation of the City of Adelaide",
-          "date": "2013-02-27",
-          "direction": "conservative",
-          "disposition": "Appeal/application allowed, order below set aside and/or varied in part",
-          "winning_party": "appealing/petitioning party received a favourable disposition",
-          "votes": "5-1",
-          "year": 2013
-        },
-        {
-          "citation": "[2013] HCA 58",
-          "name": "Unions NSW v New South Wales",
-          "date": "2013-12-18",
-          "direction": "liberal",
-          "disposition": "Questions answered (special case, case referred, etc)",
-          "winning_party": "appealing/petitioning party received a favourable disposition",
-          "votes": "6-0",
-          "year": 2013
-        },
-        {
-          "citation": "[2017] HCA 43",
-          "name": "Brown v Tasmania",
-          "date": "2017-10-18",
-          "direction": "liberal",
-          "disposition": "Questions answered (special case, case referred, etc)",
-          "winning_party": "appealing/petitioning party received a favourable disposition",
-          "votes": "5-2",
-          "year": 2017
-        }
-      ]
-    },
-    {
-      "provision": "Implied freedom of political association",
-      "years": [
-        2014
-      ],
-      "case_count": 1,
-      "cases": [
-        {
-          "citation": "[2014] HCA 35",
-          "name": "Tajjour v New South Wales",
-          "date": "2014-10-08",
-          "direction": "conservative",
-          "disposition": "Questions answered (special case, case referred, etc)",
-          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
-          "votes": "6-1",
-          "year": 2014
-        }
-      ]
-    },
-    {
-      "provision": "Implied freedom of political communication",
-      "years": [
-        2014,
-        2015
-      ],
-      "case_count": 2,
-      "cases": [
-        {
-          "citation": "[2014] HCA 35",
-          "name": "Tajjour v New South Wales",
-          "date": "2014-10-08",
-          "direction": "conservative",
-          "disposition": "Questions answered (special case, case referred, etc)",
-          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
-          "votes": "6-1",
-          "year": 2014
-        },
-        {
-          "citation": "[2015] HCA 34",
-          "name": "McCloy v New South Wales",
-          "date": "2015-10-07",
-          "direction": "conservative",
-          "disposition": "Questions answered (special case, case referred, etc)",
-          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
-          "votes": "6-1",
-          "year": 2015
-        }
-      ]
-    },
-    {
-      "provision": "Judicial power",
-      "years": [
-        2005,
-        2006
-      ],
-      "case_count": 6,
-      "cases": [
         {
           "citation": "[2005] HCA 34",
           "name": "Fingleton v The Queen",
@@ -822,10 +740,43 @@
     {
       "provision": "Judicial power - Kable principle",
       "years": [
-        2004
+        2004,
+        2014,
+        2015,
+        2017
       ],
-      "case_count": 3,
+      "case_count": 8,
       "cases": [
+        {
+          "citation": "[2014] HCA 13",
+          "name": "Attorney-General (NT) v Emmerson",
+          "date": "2014-04-10",
+          "direction": "conservative",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied in part",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-1",
+          "year": 2014
+        },
+        {
+          "citation": "[2014] HCA 30",
+          "name": "Pollentine v Bleijie",
+          "date": "2014-08-14",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2014
+        },
+        {
+          "citation": "[2014] HCA 46",
+          "name": "Kuczborski v Queensland",
+          "date": "2014-11-14",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-1",
+          "year": 2014
+        },
         {
           "citation": "[2004] HCA 9",
           "name": "Silbert v Director of Public Prosecutions for Western Australia",
@@ -855,6 +806,26 @@
           "winning_party": "no favourable disposition for appealing/petitioning party apparent",
           "votes": "6-1",
           "year": 2004
+        },
+        {
+          "citation": "[2017] HCA 29",
+          "name": "Knight v Victoria",
+          "date": "2017-08-17",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2017
+        },
+        {
+          "citation": "[2015] HCA 41",
+          "name": "North Australian Aboriginal Justice Agency Limited v Northern Territory",
+          "date": "2015-11-11",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-1",
+          "year": 2015
         }
       ]
     },
@@ -992,25 +963,6 @@
       ]
     },
     {
-      "provision": "State Courts, Kable principle",
-      "years": [
-        2017
-      ],
-      "case_count": 1,
-      "cases": [
-        {
-          "citation": "[2017] HCA 29",
-          "name": "Knight v Victoria",
-          "date": "2017-08-17",
-          "direction": "conservative",
-          "disposition": "Questions answered (special case, case referred, etc)",
-          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
-          "votes": "7-0",
-          "year": 2017
-        }
-      ]
-    },
-    {
       "provision": "State Immunity from Commonwealth Law",
       "years": [
         2009
@@ -1125,25 +1077,6 @@
       ]
     },
     {
-      "provision": "Territory constitutional law - Kable principle",
-      "years": [
-        2015
-      ],
-      "case_count": 1,
-      "cases": [
-        {
-          "citation": "[2015] HCA 41",
-          "name": "North Australian Aboriginal Justice Agency Limited v Northern Territory",
-          "date": "2015-11-11",
-          "direction": "conservative",
-          "disposition": "Questions answered (special case, case referred, etc)",
-          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
-          "votes": "6-1",
-          "year": 2015
-        }
-      ]
-    },
-    {
       "provision": "Whether Australian Constitution denies Commonwealth power to authorise activity unlawful in another country",
       "years": [
         2017
@@ -1179,7 +1112,8 @@
           "votes": "6-1",
           "year": 2007
         }
-      ]
+      ],
+      "alias": "Vesting of legislative power"
     },
     {
       "provision": "s 10",
@@ -1231,7 +1165,8 @@
           "votes": "5-0",
           "year": 2017
         }
-      ]
+      ],
+      "alias": "Application of State laws to Senate elections"
     },
     {
       "provision": "s 100",
@@ -1250,7 +1185,8 @@
           "votes": "6-1",
           "year": 2010
         }
-      ]
+      ],
+      "alias": "Rights to use water"
     },
     {
       "provision": "s 106",
@@ -1280,7 +1216,8 @@
           "votes": "7-0",
           "year": 2018
         }
-      ]
+      ],
+      "alias": "Saving of State Constitutions"
     },
     {
       "provision": "s 107",
@@ -1332,7 +1269,8 @@
           "votes": "7-0",
           "year": 2018
         }
-      ]
+      ],
+      "alias": "Saving of power of State Parliaments"
     },
     {
       "provision": "s 108",
@@ -1362,7 +1300,8 @@
           "votes": "7-0",
           "year": 2018
         }
-      ]
+      ],
+      "alias": "Saving of State laws"
     },
     {
       "provision": "s 109",
@@ -1553,7 +1492,8 @@
           "votes": "7-0",
           "year": 2018
         }
-      ]
+      ],
+      "alias": "Inconsistency of laws"
     },
     {
       "provision": "s 111",
@@ -1572,7 +1512,8 @@
           "votes": "6-0",
           "year": 2009
         }
-      ]
+      ],
+      "alias": "States may surrender territory"
     },
     {
       "provision": "s 114",
@@ -1602,7 +1543,8 @@
           "votes": "6-1",
           "year": 2007
         }
-      ]
+      ],
+      "alias": "States may not raise military forces"
     },
     {
       "provision": "s 116",
@@ -1621,7 +1563,8 @@
           "votes": "6-1",
           "year": 2012
         }
-      ]
+      ],
+      "alias": "Commonwealth not to legislate in respect of religion"
     },
     {
       "provision": "s 117",
@@ -1651,7 +1594,8 @@
           "votes": "5-1",
           "year": 2006
         }
-      ]
+      ],
+      "alias": "Rights of residents in States"
     },
     {
       "provision": "s 118",
@@ -1670,7 +1614,8 @@
           "votes": "4-3",
           "year": 2004
         }
-      ]
+      ],
+      "alias": "Full faith and credit to State laws"
     },
     {
       "provision": "s 12",
@@ -1689,7 +1634,8 @@
           "votes": "5-0",
           "year": 2017
         }
-      ]
+      ],
+      "alias": "Issue of writs for Senate elections"
     },
     {
       "provision": "s 122",
@@ -1773,7 +1719,8 @@
           "votes": "6-1",
           "year": 2015
         }
-      ]
+      ],
+      "alias": "Government of territories"
     },
     {
       "provision": "s 123",
@@ -1792,7 +1739,8 @@
           "votes": "6-0",
           "year": 2009
         }
-      ]
+      ],
+      "alias": "Alteration of limits of States"
     },
     {
       "provision": "s 124",
@@ -1811,7 +1759,8 @@
           "votes": "6-0",
           "year": 2009
         }
-      ]
+      ],
+      "alias": "Formation of new States"
     },
     {
       "provision": "s 128",
@@ -1873,7 +1822,8 @@
           "votes": "6-0",
           "year": 2013
         }
-      ]
+      ],
+      "alias": "Mode of altering the Constitution"
     },
     {
       "provision": "s 13",
@@ -1892,7 +1842,8 @@
           "votes": "5-0",
           "year": 2017
         }
-      ]
+      ],
+      "alias": "Rotation of senators"
     },
     {
       "provision": "s 14",
@@ -1911,7 +1862,8 @@
           "votes": "5-0",
           "year": 2017
         }
-      ]
+      ],
+      "alias": "Further provision for rotation of senators"
     },
     {
       "provision": "s 15",
@@ -1963,7 +1915,8 @@
           "votes": "7-0",
           "year": 2018
         }
-      ]
+      ],
+      "alias": "Casual vacancies in the Senate"
     },
     {
       "provision": "s 16",
@@ -1982,7 +1935,8 @@
           "votes": "7-0",
           "year": 2017
         }
-      ]
+      ],
+      "alias": "Qualifications of a senator"
     },
     {
       "provision": "s 24",
@@ -2076,7 +2030,8 @@
           "votes": "5-0",
           "year": 2017
         }
-      ]
+      ],
+      "alias": "Constitution of House of Representatives"
     },
     {
       "provision": "s 25",
@@ -2095,7 +2050,8 @@
           "votes": "6-0",
           "year": 2009
         }
-      ]
+      ],
+      "alias": "Provision as to races disqualified from voting"
     },
     {
       "provision": "s 29",
@@ -2114,7 +2070,8 @@
           "votes": "6-0",
           "year": 2009
         }
-      ]
+      ],
+      "alias": "Electoral divisions"
     },
     {
       "provision": "s 30",
@@ -2177,7 +2134,8 @@
           "votes": "5-0",
           "year": 2017
         }
-      ]
+      ],
+      "alias": "Qualification of electors"
     },
     {
       "provision": "s 31",
@@ -2218,7 +2176,8 @@
           "votes": "5-0",
           "year": 2017
         }
-      ]
+      ],
+      "alias": "Application of State laws to House elections"
     },
     {
       "provision": "s 34",
@@ -2237,7 +2196,8 @@
           "votes": "7-0",
           "year": 2017
         }
-      ]
+      ],
+      "alias": "Qualifications of members of House"
     },
     {
       "provision": "s 41",
@@ -2267,7 +2227,8 @@
           "votes": "5-0",
           "year": 2017
         }
-      ]
+      ],
+      "alias": "Right of electors of States"
     },
     {
       "provision": "s 44",
@@ -2327,7 +2288,8 @@
           "votes": "7-0",
           "year": 2018
         }
-      ]
+      ],
+      "alias": "Disqualification from Parliament"
     },
     {
       "provision": "s 44(i)",
@@ -2356,7 +2318,8 @@
           "votes": "5-0",
           "year": 2017
         }
-      ]
+      ],
+      "alias": "Allegiance to foreign power"
     },
     {
       "provision": "s 44(ii)",
@@ -2386,7 +2349,8 @@
           "votes": "5-0",
           "year": 2017
         }
-      ]
+      ],
+      "alias": "Attainted of treason or under sentence"
     },
     {
       "provision": "s 44(iv)",
@@ -2405,7 +2369,8 @@
           "votes": "5-0",
           "year": 2017
         }
-      ]
+      ],
+      "alias": "Office of profit under the Crown"
     },
     {
       "provision": "s 44(v)",
@@ -2424,7 +2389,8 @@
           "votes": "7-0",
           "year": 2017
         }
-      ]
+      ],
+      "alias": "Pecuniary interest in Commonwealth contracts"
     },
     {
       "provision": "s 45",
@@ -2464,7 +2430,8 @@
           "votes": "7-0",
           "year": 2018
         }
-      ]
+      ],
+      "alias": "Vacancy on happening of disqualification"
     },
     {
       "provision": "s 45(i)",
@@ -2493,7 +2460,8 @@
           "votes": "5-0",
           "year": 2017
         }
-      ]
+      ],
+      "alias": "Vacancy on becoming subject to disqualification"
     },
     {
       "provision": "s 46",
@@ -2512,7 +2480,8 @@
           "votes": "7-0",
           "year": 2018
         }
-      ]
+      ],
+      "alias": "Penalty for sitting when disqualified"
     },
     {
       "provision": "s 47",
@@ -2531,7 +2500,8 @@
           "votes": "7-0",
           "year": 2018
         }
-      ]
+      ],
+      "alias": "Disputed elections and qualifications"
     },
     {
       "provision": "s 48",
@@ -2572,7 +2542,8 @@
           "votes": "7-0",
           "year": 2018
         }
-      ]
+      ],
+      "alias": "Allowances to members"
     },
     {
       "provision": "s 49",
@@ -2591,7 +2562,8 @@
           "votes": "7-0",
           "year": 2018
         }
-      ]
+      ],
+      "alias": "Privileges of Parliament"
     },
     {
       "provision": "s 51(i)",
@@ -2621,7 +2593,8 @@
           "votes": "4-3",
           "year": 2009
         }
-      ]
+      ],
+      "alias": "Trade and commerce with other countries"
     },
     {
       "provision": "s 51(ii)",
@@ -2683,7 +2656,8 @@
           "votes": "6-0",
           "year": 2013
         }
-      ]
+      ],
+      "alias": "Taxation"
     },
     {
       "provision": "s 51(v)",
@@ -2702,7 +2676,8 @@
           "votes": "6-1",
           "year": 2004
         }
-      ]
+      ],
+      "alias": "Postal, telegraphic, telephonic services"
     },
     {
       "provision": "s 51(vi)",
@@ -2774,7 +2749,8 @@
           "votes": "6-1",
           "year": 2011
         }
-      ]
+      ],
+      "alias": "Defence"
     },
     {
       "provision": "s 51(vii)",
@@ -2793,7 +2769,8 @@
           "votes": "6-0",
           "year": 2014
         }
-      ]
+      ],
+      "alias": "Lighthouses, lightships, beacons and buoys"
     },
     {
       "provision": "s 51(x)",
@@ -2812,7 +2789,8 @@
           "votes": "6-0",
           "year": 2014
         }
-      ]
+      ],
+      "alias": "Fisheries in Australian waters beyond territorial limits"
     },
     {
       "provision": "s 51(xiii)",
@@ -2831,7 +2809,8 @@
           "votes": "5-2",
           "year": 2007
         }
-      ]
+      ],
+      "alias": "Banking, other than State banking"
     },
     {
       "provision": "s 51(xiv)",
@@ -2850,7 +2829,8 @@
           "votes": "5-2",
           "year": 2007
         }
-      ]
+      ],
+      "alias": "Insurance, other than State insurance"
     },
     {
       "provision": "s 51(xix)",
@@ -2944,7 +2924,8 @@
           "votes": "7-0",
           "year": 2018
         }
-      ]
+      ],
+      "alias": "Naturalisation and aliens"
     },
     {
       "provision": "s 51(xvi)",
@@ -2963,7 +2944,8 @@
           "votes": "5-0",
           "year": 2012
         }
-      ]
+      ],
+      "alias": "Bills of exchange and promissory notes"
     },
     {
       "provision": "s 51(xx)",
@@ -2993,7 +2975,8 @@
           "votes": "7-0",
           "year": 2015
         }
-      ]
+      ],
+      "alias": "Corporations power"
     },
     {
       "provision": "s 51(xxi)",
@@ -3034,7 +3017,8 @@
           "votes": "6-0",
           "year": 2013
         }
-      ]
+      ],
+      "alias": "Marriage"
     },
     {
       "provision": "s 51(xxiA)",
@@ -3053,7 +3037,8 @@
           "votes": "6-1",
           "year": 2012
         }
-      ]
+      ],
+      "alias": "Aboriginal affairs"
     },
     {
       "provision": "s 51(xxii)",
@@ -3083,7 +3068,8 @@
           "votes": "6-0",
           "year": 2013
         }
-      ]
+      ],
+      "alias": "Divorce and matrimonial causes"
     },
     {
       "provision": "s 51(xxiiA)",
@@ -3102,7 +3088,8 @@
           "votes": "6-0",
           "year": 2014
         }
-      ]
+      ],
+      "alias": "Superannuation"
     },
     {
       "provision": "s 51(xxiiiA)",
@@ -3121,7 +3108,8 @@
           "votes": "6-1",
           "year": 2009
         }
-      ]
+      ],
+      "alias": "Social services"
     },
     {
       "provision": "s 51(xxiv)",
@@ -3140,7 +3128,8 @@
           "votes": "7-0",
           "year": 2006
         }
-      ]
+      ],
+      "alias": "Service and execution throughout the Commonwealth"
     },
     {
       "provision": "s 51(xxix)",
@@ -3223,7 +3212,8 @@
           "votes": "5-0",
           "year": 2012
         }
-      ]
+      ],
+      "alias": "External affairs"
     },
     {
       "provision": "s 51(xxvii)",
@@ -3253,7 +3243,8 @@
           "votes": "7-0",
           "year": 2004
         }
-      ]
+      ],
+      "alias": "Immigration and emigration"
     },
     {
       "provision": "s 51(xxxi)",
@@ -3359,7 +3350,8 @@
           "votes": "6-1",
           "year": 2016
         }
-      ]
+      ],
+      "alias": "Acquisition of property on just terms"
     },
     {
       "provision": "s 51(xxxii)",
@@ -3378,7 +3370,8 @@
           "votes": "5-2",
           "year": 2007
         }
-      ]
+      ],
+      "alias": "Railways for defence"
     },
     {
       "provision": "s 51(xxxiii)",
@@ -3397,7 +3390,8 @@
           "votes": "6-0",
           "year": 2014
         }
-      ]
+      ],
+      "alias": "Acquisition of State railways with consent"
     },
     {
       "provision": "s 51(xxxix)",
@@ -3449,7 +3443,8 @@
           "votes": "7-0",
           "year": 2018
         }
-      ]
+      ],
+      "alias": "Incidental powers"
     },
     {
       "provision": "s 51(xxxv)",
@@ -3468,7 +3463,8 @@
           "votes": "5-2",
           "year": 2006
         }
-      ]
+      ],
+      "alias": "Conciliation and arbitration"
     },
     {
       "provision": "s 51(xxxvi)",
@@ -3542,7 +3538,8 @@
           "votes": "5-0",
           "year": 2017
         }
-      ]
+      ],
+      "alias": "Matters referred to in the Constitution"
     },
     {
       "provision": "s 51(xxxvii)",
@@ -3561,7 +3558,8 @@
           "votes": "5-2",
           "year": 2007
         }
-      ]
+      ],
+      "alias": "Matters referred by State Parliaments"
     },
     {
       "provision": "s 51(xxxviii)",
@@ -3591,7 +3589,8 @@
           "votes": "5-2",
           "year": 2006
         }
-      ]
+      ],
+      "alias": "Exercise of power at request of State Parliaments"
     },
     {
       "provision": "s 52",
@@ -3610,7 +3609,8 @@
           "votes": "5-2",
           "year": 2004
         }
-      ]
+      ],
+      "alias": "Exclusive powers of the Parliament"
     },
     {
       "provision": "s 52(i)",
@@ -3639,7 +3639,8 @@
           "votes": "6-0",
           "year": 2003
         }
-      ]
+      ],
+      "alias": "Exclusive power over seat of government"
     },
     {
       "provision": "s 52(xx)",
@@ -3658,7 +3659,8 @@
           "votes": "6-1",
           "year": 2012
         }
-      ]
+      ],
+      "alias": "Borrowing of money"
     },
     {
       "provision": "s 53",
@@ -3699,7 +3701,8 @@
           "votes": "7-0",
           "year": 2017
         }
-      ]
+      ],
+      "alias": "Powers of Houses as to legislation"
     },
     {
       "provision": "s 54",
@@ -3740,7 +3743,8 @@
           "votes": "7-0",
           "year": 2017
         }
-      ]
+      ],
+      "alias": "Appropriation bills"
     },
     {
       "provision": "s 55",
@@ -3770,7 +3774,8 @@
           "votes": "5-2",
           "year": 2004
         }
-      ]
+      ],
+      "alias": "Tax bills"
     },
     {
       "provision": "s 56",
@@ -3800,7 +3805,8 @@
           "votes": "7-0",
           "year": 2017
         }
-      ]
+      ],
+      "alias": "Recommendation of money votes"
     },
     {
       "provision": "s 61",
@@ -3874,7 +3880,8 @@
           "votes": "6-1",
           "year": 2016
         }
-      ]
+      ],
+      "alias": "Executive power"
     },
     {
       "provision": "s 64",
@@ -3915,7 +3922,8 @@
           "votes": "6-0",
           "year": 2013
         }
-      ]
+      ],
+      "alias": "Ministers of State"
     },
     {
       "provision": "s 66",
@@ -3934,7 +3942,8 @@
           "votes": "6-1",
           "year": 2016
         }
-      ]
+      ],
+      "alias": "Salaries of ministers"
     },
     {
       "provision": "s 68",
@@ -3953,7 +3962,8 @@
           "votes": "5-2",
           "year": 2007
         }
-      ]
+      ],
+      "alias": "Command of naval and military forces"
     },
     {
       "provision": "s 69",
@@ -3972,7 +3982,8 @@
           "votes": "5-2",
           "year": 2007
         }
-      ]
+      ],
+      "alias": "Transfer of certain departments"
     },
     {
       "provision": "s 7",
@@ -4077,7 +4088,8 @@
           "votes": "5-0",
           "year": 2017
         }
-      ]
+      ],
+      "alias": "The Senate"
     },
     {
       "provision": "s 71",
@@ -4149,7 +4161,8 @@
           "votes": "7-0",
           "year": 2018
         }
-      ]
+      ],
+      "alias": "Judicial power and courts exercising it"
     },
     {
       "provision": "s 72",
@@ -4168,7 +4181,8 @@
           "votes": "6-1",
           "year": 2006
         }
-      ]
+      ],
+      "alias": "Judges' appointment, tenure, remuneration, removal"
     },
     {
       "provision": "s 73",
@@ -4294,7 +4308,8 @@
           "votes": "7-0",
           "year": 2018
         }
-      ]
+      ],
+      "alias": "Appellate jurisdiction of High Court"
     },
     {
       "provision": "s 74",
@@ -4334,7 +4349,8 @@
           "votes": "6-1",
           "year": 2007
         }
-      ]
+      ],
+      "alias": "Appeal to the Queen in Council"
     },
     {
       "provision": "s 75",
@@ -4427,7 +4443,8 @@
           "votes": "7-0",
           "year": 2018
         }
-      ]
+      ],
+      "alias": "Original jurisdiction of High Court"
     },
     {
       "provision": "s 75(iii)",
@@ -4446,7 +4463,8 @@
           "votes": "6-0",
           "year": 2003
         }
-      ]
+      ],
+      "alias": "Original jurisdiction \u2013 Commonwealth as party"
     },
     {
       "provision": "s 75(iv)",
@@ -4476,7 +4494,8 @@
           "votes": "7-0",
           "year": 2017
         }
-      ]
+      ],
+      "alias": "Original jurisdiction \u2013 inter-State matters"
     },
     {
       "provision": "s 75(v)",
@@ -4599,7 +4618,8 @@
           "votes": "6-1",
           "year": 2017
         }
-      ]
+      ],
+      "alias": "Original jurisdiction \u2013 writs against Commonwealth officers"
     },
     {
       "provision": "s 76",
@@ -4673,7 +4693,8 @@
           "votes": "7-0",
           "year": 2018
         }
-      ]
+      ],
+      "alias": "Additional original jurisdiction"
     },
     {
       "provision": "s 76(ii)",
@@ -4724,7 +4745,8 @@
           "votes": "4-1",
           "year": 2012
         }
-      ]
+      ],
+      "alias": "Jurisdiction in matters under Commonwealth laws"
     },
     {
       "provision": "s 76(iii)",
@@ -4743,7 +4765,8 @@
           "votes": "5-2",
           "year": 2007
         }
-      ]
+      ],
+      "alias": "Admiralty and maritime jurisdiction"
     },
     {
       "provision": "s 77",
@@ -4795,7 +4818,8 @@
           "votes": "7-0",
           "year": 2018
         }
-      ]
+      ],
+      "alias": "Power to define jurisdiction"
     },
     {
       "provision": "s 77(i)",
@@ -4825,7 +4849,8 @@
           "votes": "6-1",
           "year": 2017
         }
-      ]
+      ],
+      "alias": "Defining jurisdiction of federal courts"
     },
     {
       "provision": "s 77(iii)",
@@ -4877,7 +4902,8 @@
           "votes": "6-1",
           "year": 2017
         }
-      ]
+      ],
+      "alias": "Investing State courts with federal jurisdiction"
     },
     {
       "provision": "s 78",
@@ -4907,7 +4933,8 @@
           "votes": "6-1",
           "year": 2007
         }
-      ]
+      ],
+      "alias": "Proceedings against Commonwealth or State"
     },
     {
       "provision": "s 79",
@@ -4926,7 +4953,8 @@
           "votes": "6-1",
           "year": 2007
         }
-      ]
+      ],
+      "alias": "Number of judges"
     },
     {
       "provision": "s 8",
@@ -4956,7 +4984,8 @@
           "votes": "4-3",
           "year": 2010
         }
-      ]
+      ],
+      "alias": "Qualification of senators"
     },
     {
       "provision": "s 80",
@@ -5029,7 +5058,8 @@
           "votes": "6-1",
           "year": 2016
         }
-      ]
+      ],
+      "alias": "Trial of indictable offences"
     },
     {
       "provision": "s 81",
@@ -5081,7 +5111,8 @@
           "votes": "7-0",
           "year": 2017
         }
-      ]
+      ],
+      "alias": "Consolidated Revenue Fund"
     },
     {
       "provision": "s 83",
@@ -5122,7 +5153,8 @@
           "votes": "7-0",
           "year": 2017
         }
-      ]
+      ],
+      "alias": "Money to be appropriated by law"
     },
     {
       "provision": "s 9",
@@ -5163,7 +5195,8 @@
           "votes": "7-0",
           "year": 2016
         }
-      ]
+      ],
+      "alias": "Method of choosing senators"
     },
     {
       "provision": "s 90",
@@ -5193,7 +5226,8 @@
           "votes": "7-0",
           "year": 2011
         }
-      ]
+      ],
+      "alias": "Exclusive power over customs and excise"
     },
     {
       "provision": "s 91",
@@ -5212,7 +5246,8 @@
           "votes": "6-0",
           "year": 2013
         }
-      ]
+      ],
+      "alias": "Grants to States for bounties"
     },
     {
       "provision": "s 92",
@@ -5274,7 +5309,8 @@
           "votes": "7-0",
           "year": 2012
         }
-      ]
+      ],
+      "alias": "Trade, commerce and intercourse to be free"
     },
     {
       "provision": "s 94",
@@ -5293,7 +5329,8 @@
           "votes": "5-2",
           "year": 2005
         }
-      ]
+      ],
+      "alias": "Distribution of surplus revenue to States"
     },
     {
       "provision": "s 95",
@@ -5312,7 +5349,8 @@
           "votes": "6-0",
           "year": 2009
         }
-      ]
+      ],
+      "alias": "Customs duties of Western Australia"
     },
     {
       "provision": "s 96",
@@ -5332,7 +5370,8 @@
           "votes": "6-1",
           "year": 2012
         }
-      ]
+      ],
+      "alias": "Financial assistance to States"
     },
     {
       "provision": "s 97",
@@ -5351,7 +5390,8 @@
           "votes": "5-2",
           "year": 2005
         }
-      ]
+      ],
+      "alias": "Audit"
     },
     {
       "provision": "s 98",
@@ -5370,7 +5410,8 @@
           "votes": "6-1",
           "year": 2010
         }
-      ]
+      ],
+      "alias": "Trade and commerce includes navigation"
     },
     {
       "provision": "s 99",
@@ -5411,9 +5452,10 @@
           "votes": "7-0",
           "year": 2015
         }
-      ]
+      ],
+      "alias": "Commonwealth not to give preference to States"
     }
   ],
-  "total_provisions": 142,
-  "total_cases": 396
+  "total_provisions": 135,
+  "total_cases": 395
 }

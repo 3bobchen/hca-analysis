@@ -115,6 +115,47 @@ def main():
         for t in sorted(liberal_by_term.keys())
     ]
 
+    # Per-term breakdowns for frontend filtering
+    by_term = defaultdict(lambda: {
+        "issueArea": Counter(),
+        "partyWinning": Counter(),
+        "jurisdiction": Counter(),
+        "voteSplits": Counter(),
+        "originStates": Counter(),
+        "unanimous": 0,
+    })
+    for c in cases:
+        t = c.get("termDecision")
+        if not t:
+            continue
+        if c.get("primaryIssueArea"):
+            by_term[t]["issueArea"][c["primaryIssueArea"]] += 1
+        if c.get("partyWinning"):
+            by_term[t]["partyWinning"][c["partyWinning"]] += 1
+        if c.get("jurisdictionGeneral"):
+            by_term[t]["jurisdiction"][c["jurisdictionGeneral"]] += 1
+        try:
+            label = f"{int(c['majVotes'])}-{int(c['minVotes'])}"
+            by_term[t]["voteSplits"][label] += 1
+        except (ValueError, KeyError):
+            pass
+        if c.get("caseOriginState"):
+            by_term[t]["originStates"][c["caseOriginState"]] += 1
+        if c.get("minVotes") == "0":
+            by_term[t]["unanimous"] += 1
+
+    by_term_json = {
+        t: {
+            "issueArea": dict(v["issueArea"]),
+            "partyWinning": dict(v["partyWinning"]),
+            "jurisdiction": dict(v["jurisdiction"]),
+            "voteSplits": dict(v["voteSplits"]),
+            "originStates": dict(v["originStates"]),
+            "unanimous": v["unanimous"],
+        }
+        for t, v in by_term.items()
+    }
+
     # Summary stats
     total_cases = len(cases)
     total_terms = len(term_counts)
@@ -136,6 +177,7 @@ def main():
         "voteSplits": vote_splits,
         "originStates": origin_states,
         "panelComposition": panel_composition,
+        "byTerm": by_term_json,
     }
 
     with open(OUTPUT, "w") as f:

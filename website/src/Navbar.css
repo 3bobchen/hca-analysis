@@ -1,0 +1,86 @@
+.navbar {
+  background: var(--card-bg);
+  border-bottom: 1px solid var(--border);
+  padding: 0;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.navbar-container {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 64px;
+}
+
+.navbar-brand {
+  margin: 0;
+}
+
+.navbar-brand h1 {
+  margin: 0;
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--text-h);
+}
+
+.navbar-tabs {
+  display: flex;
+  gap: 0;
+}
+
+.navbar-tab {
+  padding: 16px 20px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: var(--text);
+  font-size: 14px;
+  font-weight: 500;
+  transition: all 0.2s ease;
+  border-bottom: 2px solid transparent;
+  position: relative;
+  white-space: nowrap;
+}
+
+.navbar-tab:hover {
+  color: var(--text-h);
+  background: rgba(37, 99, 235, 0.05);
+}
+
+.navbar-tab.active {
+  color: #2563eb;
+  border-bottom-color: #2563eb;
+}
+
+.navbar-tab.active:hover {
+  background: rgba(37, 99, 235, 0.08);
+}
+
+@media (max-width: 600px) {
+  .navbar-container {
+    padding: 0 16px;
+    flex-wrap: wrap;
+    height: auto;
+  }
+
+  .navbar-brand {
+    width: 100%;
+    padding: 12px 0;
+  }
+
+  .navbar-tabs {
+    width: 100%;
+  }
+
+  .navbar-tab {
+    flex: 1;
+    text-align: center;
+    padding: 12px 12px;
+  }
+}
