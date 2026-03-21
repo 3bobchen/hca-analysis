@@ -4,6 +4,7 @@ import {
   XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, Legend,
   AreaChart, Area,
 } from 'recharts'
+import { ConstitutionalPage } from './ConstitutionalPage'
 import './App.css'
 
 const COLORS = [
@@ -50,6 +51,7 @@ function shortenTerm(term) {
 }
 
 function App() {
+  const [page, setPage] = useState('dashboard')
   const [data, setData] = useState(null)
 
   useEffect(() => {
@@ -57,6 +59,10 @@ function App() {
       .then(r => r.json())
       .then(setData)
   }, [])
+
+  if (page === 'constitutional') {
+    return <ConstitutionalPage onNavigate={setPage} />
+  }
 
   if (!data) return <div className="loading">Loading dashboard...</div>
 
@@ -80,8 +86,16 @@ function App() {
   return (
     <>
       <div className="header">
-        <h1>High Court of Australia Dashboard</h1>
-        <p>Data from the HCDB (Robinson & Leslie, 2024)</p>
+        <div>
+          <h1>High Court of Australia Dashboard</h1>
+          <p>Data from the HCDB (Robinson & Leslie, 2024)</p>
+        </div>
+        <button
+          className="nav-button"
+          onClick={() => setPage('constitutional')}
+        >
+          Constitutional Litigation →
+        </button>
       </div>
 
       <div className="stats-row">

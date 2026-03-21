@@ -1,0 +1,5419 @@
+{
+  "provisions": [
+    {
+      "provision": "Ch III",
+      "years": [
+        2017,
+        2018
+      ],
+      "case_count": 4,
+      "cases": [
+        {
+          "citation": "[2017] HCA 5",
+          "name": "Palmer v Ayres",
+          "date": "2017-02-08",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "5-0",
+          "year": 2017
+        },
+        {
+          "citation": "[2017] HCA 29",
+          "name": "Knight v Victoria",
+          "date": "2017-08-17",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2017
+        },
+        {
+          "citation": "[2018] HCA 2",
+          "name": "Falzon v Minister for Immigration and Border Protection",
+          "date": "2018-02-07",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2018
+        },
+        {
+          "citation": "[2018] HCA 15",
+          "name": "Burns v Corbett",
+          "date": "2018-04-18",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2018
+        }
+      ]
+    },
+    {
+      "provision": "Chapter III",
+      "years": [
+        2007,
+        2008
+      ],
+      "case_count": 6,
+      "cases": [
+        {
+          "citation": "[2007] HCA 23",
+          "name": "Albarran v Members of the Companies Auditors and Liquidators Disciplinary Board",
+          "date": "2007-05-24",
+          "direction": "liberal",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2007
+        },
+        {
+          "citation": "[2007] HCA 24",
+          "name": "Visnic v Australian Securities and Investments Commission",
+          "date": "2007-05-24",
+          "direction": "liberal",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2007
+        },
+        {
+          "citation": "[2007] HCA 29",
+          "name": "White v Director of Military Prosecutions",
+          "date": "2007-06-19",
+          "direction": "conservative",
+          "disposition": "Special leave denied by enlarged bench",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-1",
+          "year": 2007
+        },
+        {
+          "citation": "[2007] HCA 33",
+          "name": "Thomas v Mowbray",
+          "date": "2007-08-02",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "5-2",
+          "year": 2007
+        },
+        {
+          "citation": "[2008] HCA 2",
+          "name": "Attorney-General (Cth) v Alinta Limited",
+          "date": "2008-01-31",
+          "direction": "conservative",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied in part",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "7-0",
+          "year": 2008
+        },
+        {
+          "citation": "[2008] HCA 4",
+          "name": "Gypsy Jokers Motorcycle Club Incorporated v Commissioner of Police\u00a0",
+          "date": "2008-02-07",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-1",
+          "year": 2008
+        }
+      ]
+    },
+    {
+      "provision": "Chapter III Judicial Power",
+      "years": [
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2015
+      ],
+      "case_count": 24,
+      "cases": [
+        {
+          "citation": "[2009] HCA 4",
+          "name": "K-Generation Pty Limited v Liquor Licensing Court",
+          "date": "2009-02-02",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2009
+        },
+        {
+          "citation": "[2009] HCA 29",
+          "name": "Lane v Morrison",
+          "date": "2009-08-26",
+          "direction": "conservative",
+          "disposition": "Other disposition",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "7-0",
+          "year": 2009
+        },
+        {
+          "citation": "[2009] HCA 49",
+          "name": "International Finance Trust Company Limited v New South Wales Crime Commission\u00a0",
+          "date": "2009-11-12",
+          "direction": "liberal",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied in part",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "4-3",
+          "year": 2009
+        },
+        {
+          "citation": "[2010] HCA 1",
+          "name": "Kirk v Industrial Relations Commission of New South Wales",
+          "date": "2010-02-03",
+          "direction": "liberal",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-1",
+          "year": 2010
+        },
+        {
+          "citation": "[2010] HCA 39",
+          "name": "South Australia v Totani",
+          "date": "2010-11-11",
+          "direction": "liberal",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-1",
+          "year": 2010
+        },
+        {
+          "citation": "[2011] HCA 4",
+          "name": "Hogan v Hinch",
+          "date": "2011-03-10",
+          "direction": "conservative",
+          "disposition": "Other disposition",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "7-0",
+          "year": 2011
+        },
+        {
+          "citation": "[2011] HCA 24",
+          "name": "Wainohu v New South Wales",
+          "date": "2011-06-23",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-1",
+          "year": 2011
+        },
+        {
+          "citation": "[2011] HCA 28",
+          "name": "Haskins v The Commonwealth",
+          "date": "2011-08-10",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-1",
+          "year": 2011
+        },
+        {
+          "citation": "[2011] HCA 29",
+          "name": "Nicholas v The Commonwealth",
+          "date": "2011-08-10",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-1",
+          "year": 2011
+        },
+        {
+          "citation": "[2011] HCA 34",
+          "name": "Momcilovic v The Queen",
+          "date": "2011-09-08",
+          "direction": "liberal",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied in part",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "5-2",
+          "year": 2011
+        },
+        {
+          "citation": "[2012] HCA 19",
+          "name": "Australian Education Union v General Manager of Fair Work Australia",
+          "date": "2012-05-04",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2012
+        },
+        {
+          "citation": "[2012] HCA 20",
+          "name": "Crump v New South Wales",
+          "date": "2012-05-04",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2012
+        },
+        {
+          "citation": "[2012] HCA 25",
+          "name": "Public Service Association of South Australia Incorporated v Industrial Relations Commission of South Australia",
+          "date": "2012-07-11",
+          "direction": "liberal",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied, matter remitted",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "7-0",
+          "year": 2012
+        },
+        {
+          "citation": "[2012] HCA 46",
+          "name": "Plaintiff M47/2012 v Director General of Security",
+          "date": "2012-10-05",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "5-2",
+          "year": 2012
+        },
+        {
+          "citation": "[2012] HCA 58",
+          "name": "The Public Service Association and Professional Officers' Association Amalgamated of NSW v Director of Public Employment",
+          "date": "2012-12-12",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-0",
+          "year": 2012
+        },
+        {
+          "citation": "[2013] HCA 5",
+          "name": "TCL Air Conditioner (Zhongshan) Co Ltd v The Judges of the Federal Court of Australia",
+          "date": "2013-03-13",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-0",
+          "year": 2013
+        },
+        {
+          "citation": "[2013] HCA 7",
+          "name": "Assistant Commissioner Michael James Condon v Pompano Pty Ltd",
+          "date": "2013-03-14",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-0",
+          "year": 2013
+        },
+        {
+          "citation": "[2013] HCA 29",
+          "name": "X7 v Australian Crime Commission",
+          "date": "2013-06-26",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "3-2",
+          "year": 2013
+        },
+        {
+          "citation": "[2013] HCA 40",
+          "name": "Magaming v The Queen",
+          "date": "2013-10-11",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-1",
+          "year": 2013
+        },
+        {
+          "citation": "[2013] HCA 53",
+          "name": "Plaintiff M76/2013 v Minister for Immigration, Multicultural Affairs and Citizenship",
+          "date": "2013-12-12",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "7-0",
+          "year": 2013
+        },
+        {
+          "citation": "[2015] HCA 7",
+          "name": "Australian Communications and Media Authority v Today FM (Sydney) Pty Ltd",
+          "date": "2015-03-04",
+          "direction": "liberal",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied in part",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-0",
+          "year": 2015
+        },
+        {
+          "citation": "[2015] HCA 13",
+          "name": "Duncan v New South Wales",
+          "date": "2015-04-15",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2015
+        },
+        {
+          "citation": "[2015] HCA 32",
+          "name": "Duncan v Independent Commission Against Corruption",
+          "date": "2015-09-09",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2015
+        },
+        {
+          "citation": "[2015] HCA 41",
+          "name": "North Australian Aboriginal Justice Agency Limited v Northern Territory",
+          "date": "2015-11-11",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-1",
+          "year": 2015
+        }
+      ]
+    },
+    {
+      "provision": "Chapter III, Kable principle",
+      "years": [
+        2014
+      ],
+      "case_count": 3,
+      "cases": [
+        {
+          "citation": "[2014] HCA 13",
+          "name": "Attorney-General (NT) v Emmerson",
+          "date": "2014-04-10",
+          "direction": "conservative",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied in part",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-1",
+          "year": 2014
+        },
+        {
+          "citation": "[2014] HCA 30",
+          "name": "Pollentine v Bleijie",
+          "date": "2014-08-14",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2014
+        },
+        {
+          "citation": "[2014] HCA 46",
+          "name": "Kuczborski v Queensland",
+          "date": "2014-11-14",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-1",
+          "year": 2014
+        }
+      ]
+    },
+    {
+      "provision": "Clause 5",
+      "years": [
+        2003,
+        2004
+      ],
+      "case_count": 3,
+      "cases": [
+        {
+          "citation": "[2003] HCA 31",
+          "name": "Glennan v Commissioner of Taxation",
+          "date": "2003-06-17",
+          "direction": "liberal",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "3-0",
+          "year": 2003
+        },
+        {
+          "citation": "[2003] HCA 47",
+          "name": "British American Tobacco Australia Ltd v Western Australia",
+          "date": "2003-09-02",
+          "direction": "liberal",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied in part",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-0",
+          "year": 2003
+        },
+        {
+          "citation": "[2004] HCA 20",
+          "name": "Minister for Immigration and Multicultural and Indigenous Affairs v B",
+          "date": "2004-04-29",
+          "direction": "conservative",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "7-0",
+          "year": 2004
+        }
+      ]
+    },
+    {
+      "provision": "Commonwealth power with respect to State Magistrates",
+      "years": [
+        2008
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2008] HCA 14",
+          "name": "O'Donoghue v Ireland",
+          "date": "2008-04-23",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-1",
+          "year": 2008
+        }
+      ]
+    },
+    {
+      "provision": "Conflict of laws between States",
+      "years": [
+        2006
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2006] HCA 8",
+          "name": "Sweedman v Transport Accident Commission",
+          "date": "2006-03-09",
+          "direction": "liberal",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "5-1",
+          "year": 2006
+        }
+      ]
+    },
+    {
+      "provision": "Crown Prerogatives to dismiss servants",
+      "years": [
+        2005
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2005] HCA 50",
+          "name": "Jarratt v Commissioner of Police for New South Wales",
+          "date": "2005-09-08",
+          "direction": "liberal",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-0",
+          "year": 2005
+        }
+      ]
+    },
+    {
+      "provision": "Extraterritorial power of NSW laws",
+      "years": [
+        2005
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2005] HCA 44",
+          "name": "APLA Limited v Legal Services Commissioner (NSW)",
+          "date": "2005-09-01",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "5-2",
+          "year": 2005
+        }
+      ]
+    },
+    {
+      "provision": "Implied Freedom of Political Communication",
+      "years": [
+        2004,
+        2005,
+        2011,
+        2012,
+        2013,
+        2017
+      ],
+      "case_count": 8,
+      "cases": [
+        {
+          "citation": "[2004] HCA 39",
+          "name": "Coleman v Power",
+          "date": "2004-09-01",
+          "direction": "liberal",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied in part",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "4-3",
+          "year": 2004
+        },
+        {
+          "citation": "[2004] HCA 41",
+          "name": "Mulholland v Australian Electoral Commission",
+          "date": "2004-09-08",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2004
+        },
+        {
+          "citation": "[2005] HCA 44",
+          "name": "APLA Limited v Legal Services Commissioner (NSW)",
+          "date": "2005-09-01",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "5-2",
+          "year": 2005
+        },
+        {
+          "citation": "[2011] HCA 4",
+          "name": "Hogan v Hinch",
+          "date": "2011-03-10",
+          "direction": "conservative",
+          "disposition": "Other disposition",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "7-0",
+          "year": 2011
+        },
+        {
+          "citation": "[2012] HCA 2",
+          "name": "Wotton v Queensland",
+          "date": "2012-02-29",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2012
+        },
+        {
+          "citation": "[2013] HCA 3",
+          "name": "Attorney-General (SA) v Corporation of the City of Adelaide",
+          "date": "2013-02-27",
+          "direction": "conservative",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied in part",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "5-1",
+          "year": 2013
+        },
+        {
+          "citation": "[2013] HCA 58",
+          "name": "Unions NSW v New South Wales",
+          "date": "2013-12-18",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-0",
+          "year": 2013
+        },
+        {
+          "citation": "[2017] HCA 43",
+          "name": "Brown v Tasmania",
+          "date": "2017-10-18",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "5-2",
+          "year": 2017
+        }
+      ]
+    },
+    {
+      "provision": "Implied freedom of political association",
+      "years": [
+        2014
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2014] HCA 35",
+          "name": "Tajjour v New South Wales",
+          "date": "2014-10-08",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-1",
+          "year": 2014
+        }
+      ]
+    },
+    {
+      "provision": "Implied freedom of political communication",
+      "years": [
+        2014,
+        2015
+      ],
+      "case_count": 2,
+      "cases": [
+        {
+          "citation": "[2014] HCA 35",
+          "name": "Tajjour v New South Wales",
+          "date": "2014-10-08",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-1",
+          "year": 2014
+        },
+        {
+          "citation": "[2015] HCA 34",
+          "name": "McCloy v New South Wales",
+          "date": "2015-10-07",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-1",
+          "year": 2015
+        }
+      ]
+    },
+    {
+      "provision": "Judicial power",
+      "years": [
+        2005,
+        2006
+      ],
+      "case_count": 6,
+      "cases": [
+        {
+          "citation": "[2005] HCA 34",
+          "name": "Fingleton v The Queen",
+          "date": "2005-06-23",
+          "direction": "liberal",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-0",
+          "year": 2005
+        },
+        {
+          "citation": "[2005] HCA 35",
+          "name": "Chief Executive Officer of Customs v El Hajje",
+          "date": "2005-08-03",
+          "direction": "conservative",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied, matter remitted",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "5-0",
+          "year": 2005
+        },
+        {
+          "citation": "[2005] HCA 44",
+          "name": "APLA Limited v Legal Services Commissioner (NSW)",
+          "date": "2005-09-01",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "5-2",
+          "year": 2005
+        },
+        {
+          "citation": "[2006] HCA 40",
+          "name": "Vasiljkovic v Commonwealth of Australia",
+          "date": "2006-08-03",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "4-1",
+          "year": 2006
+        },
+        {
+          "citation": "[2006] HCA 41",
+          "name": "Campbells Cash and Carry Pty Limited v Fostif Pty Limited",
+          "date": "2006-08-30",
+          "direction": "conservative",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "5-2",
+          "year": 2006
+        },
+        {
+          "citation": "[2006] HCA 44",
+          "name": "Forge v Australian Securities and Investments Commission",
+          "date": "2006-09-05",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-1",
+          "year": 2006
+        }
+      ]
+    },
+    {
+      "provision": "Judicial power - Discrimination between federal offenders",
+      "years": [
+        2004
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2004] HCA 8",
+          "name": "Putland v The Queen",
+          "date": "2004-02-12",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "4-1",
+          "year": 2004
+        }
+      ]
+    },
+    {
+      "provision": "Judicial power - Immigration Detention",
+      "years": [
+        2004
+      ],
+      "case_count": 3,
+      "cases": [
+        {
+          "citation": "[2004] HCA 36",
+          "name": "Behrooz v Secretary of the Department of Immigration and Multicultural and Indigenous Affairs",
+          "date": "2004-08-06",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-1",
+          "year": 2004
+        },
+        {
+          "citation": "[2004] HCA 37",
+          "name": "Al-Kateb v Godwin",
+          "date": "2004-08-06",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "4-3",
+          "year": 2004
+        },
+        {
+          "citation": "[2004] HCA 38",
+          "name": "Minister for Immigration and Multicultural and Indigenous Affairs v Al Khafaji",
+          "date": "2004-08-06",
+          "direction": "conservative",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied in part",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "4-3",
+          "year": 2004
+        }
+      ]
+    },
+    {
+      "provision": "Judicial power - Impartiality and independence",
+      "years": [
+        2004
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2004] HCA 31",
+          "name": "North Australian Aboriginal Legal Aid Service Inc v Bradley",
+          "date": "2004-06-17",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2004
+        }
+      ]
+    },
+    {
+      "provision": "Judicial power - Kable principle",
+      "years": [
+        2004
+      ],
+      "case_count": 3,
+      "cases": [
+        {
+          "citation": "[2004] HCA 9",
+          "name": "Silbert v Director of Public Prosecutions for Western Australia",
+          "date": "2004-03-03",
+          "direction": "conservative",
+          "disposition": "Special leave denied by enlarged bench",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2004
+        },
+        {
+          "citation": "[2004] HCA 45",
+          "name": "Baker v The Queen",
+          "date": "2004-10-01",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-1",
+          "year": 2004
+        },
+        {
+          "citation": "[2004] HCA 46",
+          "name": "Fardon v Attorney-General for the State of Queensland",
+          "date": "2004-10-01",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-1",
+          "year": 2004
+        }
+      ]
+    },
+    {
+      "provision": "Judicial power - Military Tribunals",
+      "years": [
+        2004
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2004] HCA 44",
+          "name": "Re Colonel Aird; Ex parte Alpert",
+          "date": "2004-09-09",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "4-3",
+          "year": 2004
+        }
+      ]
+    },
+    {
+      "provision": "Melbourne Corporation principle",
+      "years": [
+        2013
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2013] HCA 34",
+          "name": "Fortescue Metals Group Limited v The Commonwealth",
+          "date": "2013-08-07",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-0",
+          "year": 2013
+        }
+      ]
+    },
+    {
+      "provision": "NT Constitutional Law",
+      "years": [
+        2007
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2007] HCA 34",
+          "name": "Attorney-General for the Northern Territory v Chaffey",
+          "date": "2007-08-02",
+          "direction": "conservative",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "7-0",
+          "year": 2007
+        }
+      ]
+    },
+    {
+      "provision": "Powers of state parliaments in light of international conventions",
+      "years": [
+        2014
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2014] HCA 35",
+          "name": "Tajjour v New South Wales",
+          "date": "2014-10-08",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-1",
+          "year": 2014
+        }
+      ]
+    },
+    {
+      "provision": "Relevance of the Constitution in the interpretation of federal statutes when not raised by the parties",
+      "years": [
+        2005
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2005] HCA 35",
+          "name": "Chief Executive Officer of Customs v El Hajje",
+          "date": "2005-08-03",
+          "direction": "conservative",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied, matter remitted",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "5-0",
+          "year": 2005
+        }
+      ]
+    },
+    {
+      "provision": "State Constitutional Law - extradition",
+      "years": [
+        2004
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2004] HCA 10",
+          "name": "Truong v The Queen",
+          "date": "2004-03-04",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-1",
+          "year": 2004
+        }
+      ]
+    },
+    {
+      "provision": "State Constitutional Law - power to legislate for courts outside borders",
+      "years": [
+        2004
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2004] HCA 61",
+          "name": "BHP Billiton Limited v Schultz",
+          "date": "2004-12-07",
+          "direction": "conservative",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied in part",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "4-3",
+          "year": 2004
+        }
+      ]
+    },
+    {
+      "provision": "State Courts, Kable principle",
+      "years": [
+        2017
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2017] HCA 29",
+          "name": "Knight v Victoria",
+          "date": "2017-08-17",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2017
+        }
+      ]
+    },
+    {
+      "provision": "State Immunity from Commonwealth Law",
+      "years": [
+        2009
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2009] HCA 33",
+          "name": "Clarke v Commissioner of Taxation",
+          "date": "2009-09-02",
+          "direction": "conservative",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied in part",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-0",
+          "year": 2009
+        }
+      ]
+    },
+    {
+      "provision": "State constitutional law (NSW Constitution Act 1855, s 2)",
+      "years": [
+        2016
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2016] HCA 50",
+          "name": "New South Wales Aboriginal Land Council v Minister Administering the Crown Lands Act",
+          "date": "2016-12-14",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "5-2",
+          "year": 2016
+        }
+      ]
+    },
+    {
+      "provision": "State constitutional law - legislative competence of parliament",
+      "years": [
+        2015
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2015] HCA 13",
+          "name": "Duncan v New South Wales",
+          "date": "2015-04-15",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2015
+        }
+      ]
+    },
+    {
+      "provision": "State constitutional law - retrospective amendments; relevance of Kable and Kirk principles",
+      "years": [
+        2015
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2015] HCA 32",
+          "name": "Duncan v Independent Commission Against Corruption",
+          "date": "2015-09-09",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2015
+        }
+      ]
+    },
+    {
+      "provision": "States - Reception of English Law",
+      "years": [
+        2010
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2010] HCA 44",
+          "name": "Port of Portland v Victoria",
+          "date": "2010-12-08",
+          "direction": "conservative",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied in part, matter remitted",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "7-0",
+          "year": 2010
+        }
+      ]
+    },
+    {
+      "provision": "States - Scope of Crown Prerogative",
+      "years": [
+        2010
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2010] HCA 27",
+          "name": "Cadia Holdings Pty Ltd v State of New South Wales",
+          "date": "2010-08-25",
+          "direction": "conservative",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "5-0",
+          "year": 2010
+        }
+      ]
+    },
+    {
+      "provision": "Territory constitutional law - Kable principle",
+      "years": [
+        2015
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2015] HCA 41",
+          "name": "North Australian Aboriginal Justice Agency Limited v Northern Territory",
+          "date": "2015-11-11",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-1",
+          "year": 2015
+        }
+      ]
+    },
+    {
+      "provision": "Whether Australian Constitution denies Commonwealth power to authorise activity unlawful in another country",
+      "years": [
+        2017
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2017] HCA 31",
+          "name": "Plaintiff S195/2016 v Minister for Immigration and Border Protection",
+          "date": "2017-08-17",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2017
+        }
+      ]
+    },
+    {
+      "provision": "s 1",
+      "years": [
+        2007
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2007] HCA 38",
+          "name": "Australian Competition and Consumer Commission v Baxter Healthcare Pty Limited",
+          "date": "2007-08-29",
+          "direction": "liberal",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied, matter remitted",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-1",
+          "year": 2007
+        }
+      ]
+    },
+    {
+      "provision": "s 10",
+      "years": [
+        2009,
+        2010,
+        2016,
+        2017
+      ],
+      "case_count": 4,
+      "cases": [
+        {
+          "citation": "[2009] HCA 33",
+          "name": "Clarke v Commissioner of Taxation",
+          "date": "2009-09-02",
+          "direction": "conservative",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied in part",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-0",
+          "year": 2009
+        },
+        {
+          "citation": "[2010] HCA 46",
+          "name": "Rowe v Electoral Commissioner",
+          "date": "2010-08-06",
+          "direction": "conservative",
+          "disposition": "Other disposition",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "4-3",
+          "year": 2010
+        },
+        {
+          "citation": "[2016] HCA 36",
+          "name": "Murphy v Electoral Commissioner",
+          "date": "2016-09-05",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2016
+        },
+        {
+          "citation": "[2017] HCA 52",
+          "name": "Re Nash [No 2]",
+          "date": "2017-12-06",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "5-0",
+          "year": 2017
+        }
+      ]
+    },
+    {
+      "provision": "s 100",
+      "years": [
+        2010
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2010] HCA 3",
+          "name": "Arnold v Minister Administering the Water Management Act 2000",
+          "date": "2010-02-10",
+          "direction": "liberal",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-1",
+          "year": 2010
+        }
+      ]
+    },
+    {
+      "provision": "s 106",
+      "years": [
+        2003,
+        2018
+      ],
+      "case_count": 2,
+      "cases": [
+        {
+          "citation": "[2003] HCA 67",
+          "name": "Attorney-General (WA) v Marquet",
+          "date": "2003-11-13",
+          "direction": "liberal",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "5-1",
+          "year": 2003
+        },
+        {
+          "citation": "[2018] HCA 15",
+          "name": "Burns v Corbett",
+          "date": "2018-04-18",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2018
+        }
+      ]
+    },
+    {
+      "provision": "s 107",
+      "years": [
+        2003,
+        2004,
+        2009,
+        2018
+      ],
+      "case_count": 4,
+      "cases": [
+        {
+          "citation": "[2003] HCA 67",
+          "name": "Attorney-General (WA) v Marquet",
+          "date": "2003-11-13",
+          "direction": "liberal",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "5-1",
+          "year": 2003
+        },
+        {
+          "citation": "[2004] HCA 61",
+          "name": "BHP Billiton Limited v Schultz",
+          "date": "2004-12-07",
+          "direction": "conservative",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied in part",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "4-3",
+          "year": 2004
+        },
+        {
+          "citation": "[2009] HCA 33",
+          "name": "Clarke v Commissioner of Taxation",
+          "date": "2009-09-02",
+          "direction": "conservative",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied in part",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-0",
+          "year": 2009
+        },
+        {
+          "citation": "[2018] HCA 15",
+          "name": "Burns v Corbett",
+          "date": "2018-04-18",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2018
+        }
+      ]
+    },
+    {
+      "provision": "s 108",
+      "years": [
+        2009,
+        2018
+      ],
+      "case_count": 2,
+      "cases": [
+        {
+          "citation": "[2009] HCA 33",
+          "name": "Clarke v Commissioner of Taxation",
+          "date": "2009-09-02",
+          "direction": "conservative",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied in part",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-0",
+          "year": 2009
+        },
+        {
+          "citation": "[2018] HCA 15",
+          "name": "Burns v Corbett",
+          "date": "2018-04-18",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2018
+        }
+      ]
+    },
+    {
+      "provision": "s 109",
+      "years": [
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2015,
+        2016,
+        2018
+      ],
+      "case_count": 17,
+      "cases": [
+        {
+          "citation": "[2004] HCA 19",
+          "name": "Bayside City Council v Telstra Corporation Limited",
+          "date": "2004-04-28",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-1",
+          "year": 2004
+        },
+        {
+          "citation": "[2005] HCA 38",
+          "name": "Agtrack (NT) Pty Limited v Hatfield",
+          "date": "2005-08-10",
+          "direction": "liberal",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2005
+        },
+        {
+          "citation": "[2005] HCA 44",
+          "name": "APLA Limited v Legal Services Commissioner (NSW)",
+          "date": "2005-09-01",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "5-2",
+          "year": 2005
+        },
+        {
+          "citation": "[2006] HCA 8",
+          "name": "Sweedman v Transport Accident Commission",
+          "date": "2006-03-09",
+          "direction": "liberal",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "5-1",
+          "year": 2006
+        },
+        {
+          "citation": "[2006] HCA 12",
+          "name": "Hutchison 3G Australia Pty Ltd v City of Mitcham",
+          "date": "2006-04-06",
+          "direction": "conservative",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied in part",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "5-0",
+          "year": 2006
+        },
+        {
+          "citation": "[2007] HCA 9",
+          "name": "Attorney-General (Vic) v Andrews",
+          "date": "2007-03-21",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "5-2",
+          "year": 2007
+        },
+        {
+          "citation": "[2008] HCA 28",
+          "name": "MZXOT v Minister for Immigration and Citizenship",
+          "date": "2008-06-18",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2008
+        },
+        {
+          "citation": "[2009] HCA 45",
+          "name": "John Holland Pty Ltd v Victorian Workcover Authority",
+          "date": "2009-10-13",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2009
+        },
+        {
+          "citation": "[2009] HCA 46",
+          "name": "John Holland Pty Ltd v Inspector Nathan Hamilton",
+          "date": "2009-10-13",
+          "direction": "liberal",
+          "disposition": "Other disposition",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2009
+        },
+        {
+          "citation": "[2010] HCA 30",
+          "name": "Dickson v The Queen",
+          "date": "2010-09-22",
+          "direction": "liberal",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "7-0",
+          "year": 2010
+        },
+        {
+          "citation": "[2011] HCA 33",
+          "name": "Jemena Asset Management (3) Pty Ltd v Coinvest Limited",
+          "date": "2011-09-07",
+          "direction": "liberal",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-0",
+          "year": 2011
+        },
+        {
+          "citation": "[2011] HCA 34",
+          "name": "Momcilovic v The Queen",
+          "date": "2011-09-08",
+          "direction": "liberal",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied in part",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "5-2",
+          "year": 2011
+        },
+        {
+          "citation": "[2012] HCA 12",
+          "name": "Betfair Pty Limited v Racing New South Wales",
+          "date": "2012-03-30",
+          "direction": "liberal",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2012
+        },
+        {
+          "citation": "[2013] HCA 28",
+          "name": "Maloney v The Queen",
+          "date": "2013-06-19",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-0",
+          "year": 2013
+        },
+        {
+          "citation": "[2015] HCA 13",
+          "name": "Duncan v New South Wales",
+          "date": "2015-04-15",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2015
+        },
+        {
+          "citation": "[2016] HCA 21",
+          "name": "Bell Group N.V. (in liquidation) v Western Australia",
+          "date": "2016-05-16",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "7-0",
+          "year": 2016
+        },
+        {
+          "citation": "[2018] HCA 15",
+          "name": "Burns v Corbett",
+          "date": "2018-04-18",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2018
+        }
+      ]
+    },
+    {
+      "provision": "s 111",
+      "years": [
+        2009
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2009] HCA 33",
+          "name": "Clarke v Commissioner of Taxation",
+          "date": "2009-09-02",
+          "direction": "conservative",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied in part",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-0",
+          "year": 2009
+        }
+      ]
+    },
+    {
+      "provision": "s 114",
+      "years": [
+        2003,
+        2007
+      ],
+      "case_count": 2,
+      "cases": [
+        {
+          "citation": "[2003] HCA 3",
+          "name": "Austin v The Commonwealth of Australia",
+          "date": "2003-02-05",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "5-1",
+          "year": 2003
+        },
+        {
+          "citation": "[2007] HCA 38",
+          "name": "Australian Competition and Consumer Commission v Baxter Healthcare Pty Limited",
+          "date": "2007-08-29",
+          "direction": "liberal",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied, matter remitted",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-1",
+          "year": 2007
+        }
+      ]
+    },
+    {
+      "provision": "s 116",
+      "years": [
+        2012
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2012] HCA 23",
+          "name": "Williams v Commonwealth of Australia",
+          "date": "2012-06-20",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-1",
+          "year": 2012
+        }
+      ]
+    },
+    {
+      "provision": "s 117",
+      "years": [
+        2003,
+        2006
+      ],
+      "case_count": 2,
+      "cases": [
+        {
+          "citation": "[2003] HCA 72",
+          "name": "Shaw v Minister for Immigration and Multicultural Affairs",
+          "date": "2003-12-09",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "4-3",
+          "year": 2003
+        },
+        {
+          "citation": "[2006] HCA 8",
+          "name": "Sweedman v Transport Accident Commission",
+          "date": "2006-03-09",
+          "direction": "liberal",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "5-1",
+          "year": 2006
+        }
+      ]
+    },
+    {
+      "provision": "s 118",
+      "years": [
+        2004
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2004] HCA 61",
+          "name": "BHP Billiton Limited v Schultz",
+          "date": "2004-12-07",
+          "direction": "conservative",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied in part",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "4-3",
+          "year": 2004
+        }
+      ]
+    },
+    {
+      "provision": "s 12",
+      "years": [
+        2017
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2017] HCA 52",
+          "name": "Re Nash [No 2]",
+          "date": "2017-12-06",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "5-0",
+          "year": 2017
+        }
+      ]
+    },
+    {
+      "provision": "s 122",
+      "years": [
+        2005,
+        2006,
+        2007,
+        2009,
+        2011,
+        2015
+      ],
+      "case_count": 7,
+      "cases": [
+        {
+          "citation": "[2005] HCA 36",
+          "name": "Re Minister for Immigration and Multicultural and Indigenous Affairs; Ex parte Ame",
+          "date": "2005-08-04",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2005
+        },
+        {
+          "citation": "[2006] HCA 52",
+          "name": "New South Wales v Commonwealth of Australia",
+          "date": "2006-11-14",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "5-2",
+          "year": 2006
+        },
+        {
+          "citation": "[2007] HCA 18",
+          "name": "Bennett v Commonwealth of Australia",
+          "date": "2007-04-27",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2007
+        },
+        {
+          "citation": "[2007] HCA 43",
+          "name": "Roach v Electoral Commissioner",
+          "date": "2007-09-26",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "4-2",
+          "year": 2007
+        },
+        {
+          "citation": "[2009] HCA 2",
+          "name": "Wurridjal v The Commonwealth of Australia",
+          "date": "2009-02-02",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-1",
+          "year": 2009
+        },
+        {
+          "citation": "[2011] HCA 40",
+          "name": "Queanbeyan City Council v ACTEW Corporation Ltd",
+          "date": "2011-10-05",
+          "direction": "liberal",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2011
+        },
+        {
+          "citation": "[2015] HCA 41",
+          "name": "North Australian Aboriginal Justice Agency Limited v Northern Territory",
+          "date": "2015-11-11",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-1",
+          "year": 2015
+        }
+      ]
+    },
+    {
+      "provision": "s 123",
+      "years": [
+        2009
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2009] HCA 33",
+          "name": "Clarke v Commissioner of Taxation",
+          "date": "2009-09-02",
+          "direction": "conservative",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied in part",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-0",
+          "year": 2009
+        }
+      ]
+    },
+    {
+      "provision": "s 124",
+      "years": [
+        2009
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2009] HCA 33",
+          "name": "Clarke v Commissioner of Taxation",
+          "date": "2009-09-02",
+          "direction": "conservative",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied in part",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-0",
+          "year": 2009
+        }
+      ]
+    },
+    {
+      "provision": "s 128",
+      "years": [
+        2003,
+        2004,
+        2007,
+        2013
+      ],
+      "case_count": 5,
+      "cases": [
+        {
+          "citation": "[2003] HCA 67",
+          "name": "Attorney-General (WA) v Marquet",
+          "date": "2003-11-13",
+          "direction": "liberal",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "5-1",
+          "year": 2003
+        },
+        {
+          "citation": "[2004] HCA 41",
+          "name": "Mulholland v Australian Electoral Commission",
+          "date": "2004-09-08",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2004
+        },
+        {
+          "citation": "[2007] HCA 43",
+          "name": "Roach v Electoral Commissioner",
+          "date": "2007-09-26",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "4-2",
+          "year": 2007
+        },
+        {
+          "citation": "[2013] HCA 3",
+          "name": "Attorney-General (SA) v Corporation of the City of Adelaide",
+          "date": "2013-02-27",
+          "direction": "conservative",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied in part",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "5-1",
+          "year": 2013
+        },
+        {
+          "citation": "[2013] HCA 58",
+          "name": "Unions NSW v New South Wales",
+          "date": "2013-12-18",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-0",
+          "year": 2013
+        }
+      ]
+    },
+    {
+      "provision": "s 13",
+      "years": [
+        2017
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2017] HCA 52",
+          "name": "Re Nash [No 2]",
+          "date": "2017-12-06",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "5-0",
+          "year": 2017
+        }
+      ]
+    },
+    {
+      "provision": "s 14",
+      "years": [
+        2017
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2017] HCA 52",
+          "name": "Re Nash [No 2]",
+          "date": "2017-12-06",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "5-0",
+          "year": 2017
+        }
+      ]
+    },
+    {
+      "provision": "s 15",
+      "years": [
+        2004,
+        2009,
+        2017,
+        2018
+      ],
+      "case_count": 4,
+      "cases": [
+        {
+          "citation": "[2004] HCA 41",
+          "name": "Mulholland v Australian Electoral Commission",
+          "date": "2004-09-08",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2004
+        },
+        {
+          "citation": "[2009] HCA 33",
+          "name": "Clarke v Commissioner of Taxation",
+          "date": "2009-09-02",
+          "direction": "conservative",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied in part",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-0",
+          "year": 2009
+        },
+        {
+          "citation": "[2017] HCA 52",
+          "name": "Re Nash [No 2]",
+          "date": "2017-12-06",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "5-0",
+          "year": 2017
+        },
+        {
+          "citation": "[2018] HCA 10",
+          "name": "Re Kakoschke-Moore",
+          "date": "2018-03-21",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "7-0",
+          "year": 2018
+        }
+      ]
+    },
+    {
+      "provision": "s 16",
+      "years": [
+        2017
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2017] HCA 45",
+          "name": "Re Canavan",
+          "date": "2017-10-27",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2017
+        }
+      ]
+    },
+    {
+      "provision": "s 24",
+      "years": [
+        2004,
+        2007,
+        2010,
+        2013,
+        2016,
+        2017
+      ],
+      "case_count": 8,
+      "cases": [
+        {
+          "citation": "[2004] HCA 41",
+          "name": "Mulholland v Australian Electoral Commission",
+          "date": "2004-09-08",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2004
+        },
+        {
+          "citation": "[2007] HCA 43",
+          "name": "Roach v Electoral Commissioner",
+          "date": "2007-09-26",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "4-2",
+          "year": 2007
+        },
+        {
+          "citation": "[2010] HCA 46",
+          "name": "Rowe v Electoral Commissioner",
+          "date": "2010-08-06",
+          "direction": "conservative",
+          "disposition": "Other disposition",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "4-3",
+          "year": 2010
+        },
+        {
+          "citation": "[2013] HCA 3",
+          "name": "Attorney-General (SA) v Corporation of the City of Adelaide",
+          "date": "2013-02-27",
+          "direction": "conservative",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied in part",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "5-1",
+          "year": 2013
+        },
+        {
+          "citation": "[2013] HCA 58",
+          "name": "Unions NSW v New South Wales",
+          "date": "2013-12-18",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-0",
+          "year": 2013
+        },
+        {
+          "citation": "[2016] HCA 20",
+          "name": "Day v Australian Electoral Officer for the State of South Australia",
+          "date": "2016-05-13",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2016
+        },
+        {
+          "citation": "[2016] HCA 36",
+          "name": "Murphy v Electoral Commissioner",
+          "date": "2016-09-05",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2016
+        },
+        {
+          "citation": "[2017] HCA 52",
+          "name": "Re Nash [No 2]",
+          "date": "2017-12-06",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "5-0",
+          "year": 2017
+        }
+      ]
+    },
+    {
+      "provision": "s 25",
+      "years": [
+        2009
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2009] HCA 33",
+          "name": "Clarke v Commissioner of Taxation",
+          "date": "2009-09-02",
+          "direction": "conservative",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied in part",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-0",
+          "year": 2009
+        }
+      ]
+    },
+    {
+      "provision": "s 29",
+      "years": [
+        2009
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2009] HCA 33",
+          "name": "Clarke v Commissioner of Taxation",
+          "date": "2009-09-02",
+          "direction": "conservative",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied in part",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-0",
+          "year": 2009
+        }
+      ]
+    },
+    {
+      "provision": "s 30",
+      "years": [
+        2007,
+        2009,
+        2010,
+        2016,
+        2017
+      ],
+      "case_count": 5,
+      "cases": [
+        {
+          "citation": "[2007] HCA 43",
+          "name": "Roach v Electoral Commissioner",
+          "date": "2007-09-26",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "4-2",
+          "year": 2007
+        },
+        {
+          "citation": "[2009] HCA 33",
+          "name": "Clarke v Commissioner of Taxation",
+          "date": "2009-09-02",
+          "direction": "conservative",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied in part",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-0",
+          "year": 2009
+        },
+        {
+          "citation": "[2010] HCA 46",
+          "name": "Rowe v Electoral Commissioner",
+          "date": "2010-08-06",
+          "direction": "conservative",
+          "disposition": "Other disposition",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "4-3",
+          "year": 2010
+        },
+        {
+          "citation": "[2016] HCA 36",
+          "name": "Murphy v Electoral Commissioner",
+          "date": "2016-09-05",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2016
+        },
+        {
+          "citation": "[2017] HCA 52",
+          "name": "Re Nash [No 2]",
+          "date": "2017-12-06",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "5-0",
+          "year": 2017
+        }
+      ]
+    },
+    {
+      "provision": "s 31",
+      "years": [
+        2009,
+        2010,
+        2017
+      ],
+      "case_count": 3,
+      "cases": [
+        {
+          "citation": "[2009] HCA 33",
+          "name": "Clarke v Commissioner of Taxation",
+          "date": "2009-09-02",
+          "direction": "conservative",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied in part",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-0",
+          "year": 2009
+        },
+        {
+          "citation": "[2010] HCA 46",
+          "name": "Rowe v Electoral Commissioner",
+          "date": "2010-08-06",
+          "direction": "conservative",
+          "disposition": "Other disposition",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "4-3",
+          "year": 2010
+        },
+        {
+          "citation": "[2017] HCA 52",
+          "name": "Re Nash [No 2]",
+          "date": "2017-12-06",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "5-0",
+          "year": 2017
+        }
+      ]
+    },
+    {
+      "provision": "s 34",
+      "years": [
+        2017
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2017] HCA 45",
+          "name": "Re Canavan",
+          "date": "2017-10-27",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2017
+        }
+      ]
+    },
+    {
+      "provision": "s 41",
+      "years": [
+        2009,
+        2017
+      ],
+      "case_count": 2,
+      "cases": [
+        {
+          "citation": "[2009] HCA 33",
+          "name": "Clarke v Commissioner of Taxation",
+          "date": "2009-09-02",
+          "direction": "conservative",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied in part",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-0",
+          "year": 2009
+        },
+        {
+          "citation": "[2017] HCA 52",
+          "name": "Re Nash [No 2]",
+          "date": "2017-12-06",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "5-0",
+          "year": 2017
+        }
+      ]
+    },
+    {
+      "provision": "s 44",
+      "years": [
+        2017,
+        2018
+      ],
+      "case_count": 5,
+      "cases": [
+        {
+          "citation": "[2017] HCA 52",
+          "name": "Re Nash [No 2]",
+          "date": "2017-12-06",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "5-0",
+          "year": 2017
+        },
+        {
+          "citation": "[2018] HCA 6",
+          "name": "Re Lambie",
+          "date": "2018-03-14",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "7-0",
+          "year": 2018
+        },
+        {
+          "citation": "[2018] HCA 10",
+          "name": "Re Kakoschke-Moore",
+          "date": "2018-03-21",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "7-0",
+          "year": 2018
+        },
+        {
+          "citation": "[2018] HCA 11",
+          "name": "Alley v Gillespie",
+          "date": "2018-03-21",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2018
+        },
+        {
+          "citation": "[2018] HCA 17",
+          "name": "Re Gallagher",
+          "date": "2018-05-09",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "7-0",
+          "year": 2018
+        }
+      ]
+    },
+    {
+      "provision": "s 44(i)",
+      "years": [
+        2017
+      ],
+      "case_count": 2,
+      "cases": [
+        {
+          "citation": "[2017] HCA 45",
+          "name": "Re Canavan",
+          "date": "2017-10-27",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2017
+        },
+        {
+          "citation": "[2017] HCA 52",
+          "name": "Re Nash [No 2]",
+          "date": "2017-12-06",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "5-0",
+          "year": 2017
+        }
+      ]
+    },
+    {
+      "provision": "s 44(ii)",
+      "years": [
+        2007,
+        2017
+      ],
+      "case_count": 2,
+      "cases": [
+        {
+          "citation": "[2007] HCA 43",
+          "name": "Roach v Electoral Commissioner",
+          "date": "2007-09-26",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "4-2",
+          "year": 2007
+        },
+        {
+          "citation": "[2017] HCA 4",
+          "name": "Re Culleton [No 2]",
+          "date": "2017-02-03",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "5-0",
+          "year": 2017
+        }
+      ]
+    },
+    {
+      "provision": "s 44(iv)",
+      "years": [
+        2017
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2017] HCA 52",
+          "name": "Re Nash [No 2]",
+          "date": "2017-12-06",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "5-0",
+          "year": 2017
+        }
+      ]
+    },
+    {
+      "provision": "s 44(v)",
+      "years": [
+        2017
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2017] HCA 14",
+          "name": "Re Day [No 2]",
+          "date": "2017-04-05",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "7-0",
+          "year": 2017
+        }
+      ]
+    },
+    {
+      "provision": "s 45",
+      "years": [
+        2017,
+        2018
+      ],
+      "case_count": 3,
+      "cases": [
+        {
+          "citation": "[2017] HCA 52",
+          "name": "Re Nash [No 2]",
+          "date": "2017-12-06",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "5-0",
+          "year": 2017
+        },
+        {
+          "citation": "[2018] HCA 6",
+          "name": "Re Lambie",
+          "date": "2018-03-14",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "7-0",
+          "year": 2018
+        },
+        {
+          "citation": "[2018] HCA 11",
+          "name": "Alley v Gillespie",
+          "date": "2018-03-21",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2018
+        }
+      ]
+    },
+    {
+      "provision": "s 45(i)",
+      "years": [
+        2017
+      ],
+      "case_count": 2,
+      "cases": [
+        {
+          "citation": "[2017] HCA 45",
+          "name": "Re Canavan",
+          "date": "2017-10-27",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2017
+        },
+        {
+          "citation": "[2017] HCA 52",
+          "name": "Re Nash [No 2]",
+          "date": "2017-12-06",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "5-0",
+          "year": 2017
+        }
+      ]
+    },
+    {
+      "provision": "s 46",
+      "years": [
+        2018
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2018] HCA 11",
+          "name": "Alley v Gillespie",
+          "date": "2018-03-21",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2018
+        }
+      ]
+    },
+    {
+      "provision": "s 47",
+      "years": [
+        2018
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2018] HCA 11",
+          "name": "Alley v Gillespie",
+          "date": "2018-03-21",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2018
+        }
+      ]
+    },
+    {
+      "provision": "s 48",
+      "years": [
+        2006,
+        2016,
+        2018
+      ],
+      "case_count": 3,
+      "cases": [
+        {
+          "citation": "[2006] HCA 18",
+          "name": "Theophanous v Commonwealth of Australia",
+          "date": "2006-05-11",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-0",
+          "year": 2006
+        },
+        {
+          "citation": "[2016] HCA 39",
+          "name": "Cunningham v Commonwealth of Australia",
+          "date": "2016-10-12",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-1",
+          "year": 2016
+        },
+        {
+          "citation": "[2018] HCA 6",
+          "name": "Re Lambie",
+          "date": "2018-03-14",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "7-0",
+          "year": 2018
+        }
+      ]
+    },
+    {
+      "provision": "s 49",
+      "years": [
+        2018
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2018] HCA 11",
+          "name": "Alley v Gillespie",
+          "date": "2018-03-21",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2018
+        }
+      ]
+    },
+    {
+      "provision": "s 51(i)",
+      "years": [
+        2003,
+        2009
+      ],
+      "case_count": 2,
+      "cases": [
+        {
+          "citation": "[2003] HCA 43",
+          "name": "Re The Maritime Union of Australia & Ors; Ex parte CSL Pacific Shipping Inc",
+          "date": "2003-08-07",
+          "direction": "liberal",
+          "disposition": "Other disposition",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2003
+        },
+        {
+          "citation": "[2009] HCA 23",
+          "name": "Pape v Commissioner of Taxation",
+          "date": "2009-04-03",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "4-3",
+          "year": 2009
+        }
+      ]
+    },
+    {
+      "provision": "s 51(ii)",
+      "years": [
+        2003,
+        2009,
+        2011,
+        2013
+      ],
+      "case_count": 5,
+      "cases": [
+        {
+          "citation": "[2003] HCA 3",
+          "name": "Austin v The Commonwealth of Australia",
+          "date": "2003-02-05",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "5-1",
+          "year": 2003
+        },
+        {
+          "citation": "[2009] HCA 23",
+          "name": "Pape v Commissioner of Taxation",
+          "date": "2009-04-03",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "4-3",
+          "year": 2009
+        },
+        {
+          "citation": "[2009] HCA 33",
+          "name": "Clarke v Commissioner of Taxation",
+          "date": "2009-09-02",
+          "direction": "conservative",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied in part",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-0",
+          "year": 2009
+        },
+        {
+          "citation": "[2011] HCA 35",
+          "name": "Roy Morgan Research Pty Ltd v Commissioner of Taxation",
+          "date": "2011-09-28",
+          "direction": "liberal",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2011
+        },
+        {
+          "citation": "[2013] HCA 34",
+          "name": "Fortescue Metals Group Limited v The Commonwealth",
+          "date": "2013-08-07",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-0",
+          "year": 2013
+        }
+      ]
+    },
+    {
+      "provision": "s 51(v)",
+      "years": [
+        2004
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2004] HCA 19",
+          "name": "Bayside City Council v Telstra Corporation Limited",
+          "date": "2004-04-28",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-1",
+          "year": 2004
+        }
+      ]
+    },
+    {
+      "provision": "s 51(vi)",
+      "years": [
+        2004,
+        2007,
+        2009,
+        2011
+      ],
+      "case_count": 6,
+      "cases": [
+        {
+          "citation": "[2004] HCA 44",
+          "name": "Re Colonel Aird; Ex parte Alpert",
+          "date": "2004-09-09",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "4-3",
+          "year": 2004
+        },
+        {
+          "citation": "[2007] HCA 29",
+          "name": "White v Director of Military Prosecutions",
+          "date": "2007-06-19",
+          "direction": "conservative",
+          "disposition": "Special leave denied by enlarged bench",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-1",
+          "year": 2007
+        },
+        {
+          "citation": "[2007] HCA 33",
+          "name": "Thomas v Mowbray",
+          "date": "2007-08-02",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "5-2",
+          "year": 2007
+        },
+        {
+          "citation": "[2009] HCA 29",
+          "name": "Lane v Morrison",
+          "date": "2009-08-26",
+          "direction": "conservative",
+          "disposition": "Other disposition",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "7-0",
+          "year": 2009
+        },
+        {
+          "citation": "[2011] HCA 28",
+          "name": "Haskins v The Commonwealth",
+          "date": "2011-08-10",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-1",
+          "year": 2011
+        },
+        {
+          "citation": "[2011] HCA 29",
+          "name": "Nicholas v The Commonwealth",
+          "date": "2011-08-10",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-1",
+          "year": 2011
+        }
+      ]
+    },
+    {
+      "provision": "s 51(vii)",
+      "years": [
+        2014
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2014] HCA 22",
+          "name": "Plaintiff S156 v Minister of Immigration and Border Protection",
+          "date": "2014-06-18",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-0",
+          "year": 2014
+        }
+      ]
+    },
+    {
+      "provision": "s 51(x)",
+      "years": [
+        2014
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2014] HCA 23",
+          "name": "Williams v Commonwealth of Australia",
+          "date": "2014-06-19",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-0",
+          "year": 2014
+        }
+      ]
+    },
+    {
+      "provision": "s 51(xiii)",
+      "years": [
+        2007
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2007] HCA 9",
+          "name": "Attorney-General (Vic) v Andrews",
+          "date": "2007-03-21",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "5-2",
+          "year": 2007
+        }
+      ]
+    },
+    {
+      "provision": "s 51(xiv)",
+      "years": [
+        2007
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2007] HCA 9",
+          "name": "Attorney-General (Vic) v Andrews",
+          "date": "2007-03-21",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "5-2",
+          "year": 2007
+        }
+      ]
+    },
+    {
+      "provision": "s 51(xix)",
+      "years": [
+        2003,
+        2004,
+        2005,
+        2006,
+        2016,
+        2018
+      ],
+      "case_count": 8,
+      "cases": [
+        {
+          "citation": "[2003] HCA 2",
+          "name": "Plaintiff S157/2002 v Commonwealth of Australia",
+          "date": "2003-02-04",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2003
+        },
+        {
+          "citation": "[2003] HCA 72",
+          "name": "Shaw v Minister for Immigration and Multicultural Affairs",
+          "date": "2003-12-09",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "4-3",
+          "year": 2003
+        },
+        {
+          "citation": "[2004] HCA 43",
+          "name": "Singh v Commonwealth of Australia",
+          "date": "2004-09-09",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "5-2",
+          "year": 2004
+        },
+        {
+          "citation": "[2004] HCA 49",
+          "name": "Re Woolley; Ex parte Applicants M276/2003 by their next friend GS",
+          "date": "2004-10-07",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2004
+        },
+        {
+          "citation": "[2005] HCA 36",
+          "name": "Re Minister for Immigration and Multicultural and Indigenous Affairs; Ex parte Ame",
+          "date": "2005-08-04",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2005
+        },
+        {
+          "citation": "[2006] HCA 28",
+          "name": "Koroitamana v Commonwealth of Australia",
+          "date": "2006-06-14",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2006
+        },
+        {
+          "citation": "[2016] HCA 1",
+          "name": "Plaintiff M68/2015 v Minister for Immigration and Border Protection",
+          "date": "2016-02-03",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-1",
+          "year": 2016
+        },
+        {
+          "citation": "[2018] HCA 2",
+          "name": "Falzon v Minister for Immigration and Border Protection",
+          "date": "2018-02-07",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2018
+        }
+      ]
+    },
+    {
+      "provision": "s 51(xvi)",
+      "years": [
+        2012
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2012] HCA 52",
+          "name": "Stanford v Stanford",
+          "date": "2012-11-15",
+          "direction": "conservative",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied in part",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "5-0",
+          "year": 2012
+        }
+      ]
+    },
+    {
+      "provision": "s 51(xx)",
+      "years": [
+        2006,
+        2015
+      ],
+      "case_count": 2,
+      "cases": [
+        {
+          "citation": "[2006] HCA 52",
+          "name": "New South Wales v Commonwealth of Australia",
+          "date": "2006-11-14",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "5-2",
+          "year": 2006
+        },
+        {
+          "citation": "[2015] HCA 11",
+          "name": "Communications, Electrical, Electronic, Energy, Information, Postal, Plumbing and Allied Services Union of Australia v Queensland Rail",
+          "date": "2015-04-08",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "7-0",
+          "year": 2015
+        }
+      ]
+    },
+    {
+      "provision": "s 51(xxi)",
+      "years": [
+        2004,
+        2012,
+        2013
+      ],
+      "case_count": 3,
+      "cases": [
+        {
+          "citation": "[2004] HCA 20",
+          "name": "Minister for Immigration and Multicultural and Indigenous Affairs v B",
+          "date": "2004-04-29",
+          "direction": "conservative",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "7-0",
+          "year": 2004
+        },
+        {
+          "citation": "[2012] HCA 52",
+          "name": "Stanford v Stanford",
+          "date": "2012-11-15",
+          "direction": "conservative",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied in part",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "5-0",
+          "year": 2012
+        },
+        {
+          "citation": "[2013] HCA 55",
+          "name": "The Commonwealth v Australian Capital Territory",
+          "date": "2013-12-12",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-0",
+          "year": 2013
+        }
+      ]
+    },
+    {
+      "provision": "s 51(xxiA)",
+      "years": [
+        2012
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2012] HCA 23",
+          "name": "Williams v Commonwealth of Australia",
+          "date": "2012-06-20",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-1",
+          "year": 2012
+        }
+      ]
+    },
+    {
+      "provision": "s 51(xxii)",
+      "years": [
+        2004,
+        2013
+      ],
+      "case_count": 2,
+      "cases": [
+        {
+          "citation": "[2004] HCA 20",
+          "name": "Minister for Immigration and Multicultural and Indigenous Affairs v B",
+          "date": "2004-04-29",
+          "direction": "conservative",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "7-0",
+          "year": 2004
+        },
+        {
+          "citation": "[2013] HCA 55",
+          "name": "The Commonwealth v Australian Capital Territory",
+          "date": "2013-12-12",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-0",
+          "year": 2013
+        }
+      ]
+    },
+    {
+      "provision": "s 51(xxiiA)",
+      "years": [
+        2014
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2014] HCA 23",
+          "name": "Williams v Commonwealth of Australia",
+          "date": "2014-06-19",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-0",
+          "year": 2014
+        }
+      ]
+    },
+    {
+      "provision": "s 51(xxiiiA)",
+      "years": [
+        2009
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2009] HCA 3",
+          "name": "Wong v Commonwealth of Australia",
+          "date": "2009-02-02",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-1",
+          "year": 2009
+        }
+      ]
+    },
+    {
+      "provision": "s 51(xxiv)",
+      "years": [
+        2006
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2006] HCA 17",
+          "name": "Dalton v NSW Crime Commission",
+          "date": "2006-05-10",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2006
+        }
+      ]
+    },
+    {
+      "provision": "s 51(xxix)",
+      "years": [
+        2003,
+        2006,
+        2007,
+        2008,
+        2012
+      ],
+      "case_count": 7,
+      "cases": [
+        {
+          "citation": "[2003] HCA 2",
+          "name": "Plaintiff S157/2002 v Commonwealth of Australia",
+          "date": "2003-02-04",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2003
+        },
+        {
+          "citation": "[2003] HCA 72",
+          "name": "Shaw v Minister for Immigration and Multicultural Affairs",
+          "date": "2003-12-09",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "4-3",
+          "year": 2003
+        },
+        {
+          "citation": "[2006] HCA 25",
+          "name": "XYZ v The Commonwealth",
+          "date": "2006-06-13",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "5-2",
+          "year": 2006
+        },
+        {
+          "citation": "[2006] HCA 40",
+          "name": "Vasiljkovic v Commonwealth of Australia",
+          "date": "2006-08-03",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "4-1",
+          "year": 2006
+        },
+        {
+          "citation": "[2007] HCA 33",
+          "name": "Thomas v Mowbray",
+          "date": "2007-08-02",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "5-2",
+          "year": 2007
+        },
+        {
+          "citation": "[2008] HCA 39",
+          "name": "The Queen v Tang",
+          "date": "2008-08-28",
+          "direction": "conservative",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied in part, matter remitted",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-1",
+          "year": 2008
+        },
+        {
+          "citation": "[2012] HCA 33",
+          "name": "PT Garuda Indonesia Ltd v Australian Competition & Consumer Commission",
+          "date": "2012-09-07",
+          "direction": "liberal",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "5-0",
+          "year": 2012
+        }
+      ]
+    },
+    {
+      "provision": "s 51(xxvii)",
+      "years": [
+        2003,
+        2004
+      ],
+      "case_count": 2,
+      "cases": [
+        {
+          "citation": "[2003] HCA 2",
+          "name": "Plaintiff S157/2002 v Commonwealth of Australia",
+          "date": "2003-02-04",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2003
+        },
+        {
+          "citation": "[2004] HCA 49",
+          "name": "Re Woolley; Ex parte Applicants M276/2003 by their next friend GS",
+          "date": "2004-10-07",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2004
+        }
+      ]
+    },
+    {
+      "provision": "s 51(xxxi)",
+      "years": [
+        2006,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2014,
+        2016
+      ],
+      "case_count": 9,
+      "cases": [
+        {
+          "citation": "[2006] HCA 18",
+          "name": "Theophanous v Commonwealth of Australia",
+          "date": "2006-05-11",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-0",
+          "year": 2006
+        },
+        {
+          "citation": "[2008] HCA 7",
+          "name": "Telstra Corporation Limited v The Commonwealth",
+          "date": "2008-03-06",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2008
+        },
+        {
+          "citation": "[2009] HCA 2",
+          "name": "Wurridjal v The Commonwealth of Australia",
+          "date": "2009-02-02",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-1",
+          "year": 2009
+        },
+        {
+          "citation": "[2010] HCA 3",
+          "name": "Arnold v Minister Administering the Water Management Act 2000",
+          "date": "2010-02-10",
+          "direction": "liberal",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-1",
+          "year": 2010
+        },
+        {
+          "citation": "[2011] HCA 28",
+          "name": "Haskins v The Commonwealth",
+          "date": "2011-08-10",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-1",
+          "year": 2011
+        },
+        {
+          "citation": "[2012] HCA 8",
+          "name": "Phonographic Performance Company of Australia Limited v Commonwealth of Australia",
+          "date": "2012-03-28",
+          "direction": "liberal",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2012
+        },
+        {
+          "citation": "[2012] HCA 43",
+          "name": "JT International SA v Commonwealth of Australia",
+          "date": "2012-10-05",
+          "direction": "liberal",
+          "disposition": "Other disposition",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-1",
+          "year": 2012
+        },
+        {
+          "citation": "[2014] HCA 13",
+          "name": "Attorney-General (NT) v Emmerson",
+          "date": "2014-04-10",
+          "direction": "conservative",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied in part",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-1",
+          "year": 2014
+        },
+        {
+          "citation": "[2016] HCA 39",
+          "name": "Cunningham v Commonwealth of Australia",
+          "date": "2016-10-12",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-1",
+          "year": 2016
+        }
+      ]
+    },
+    {
+      "provision": "s 51(xxxii)",
+      "years": [
+        2007
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2007] HCA 33",
+          "name": "Thomas v Mowbray",
+          "date": "2007-08-02",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "5-2",
+          "year": 2007
+        }
+      ]
+    },
+    {
+      "provision": "s 51(xxxiii)",
+      "years": [
+        2014
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2014] HCA 23",
+          "name": "Williams v Commonwealth of Australia",
+          "date": "2014-06-19",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-0",
+          "year": 2014
+        }
+      ]
+    },
+    {
+      "provision": "s 51(xxxix)",
+      "years": [
+        2003,
+        2007,
+        2009,
+        2018
+      ],
+      "case_count": 4,
+      "cases": [
+        {
+          "citation": "[2003] HCA 2",
+          "name": "Plaintiff S157/2002 v Commonwealth of Australia",
+          "date": "2003-02-04",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2003
+        },
+        {
+          "citation": "[2007] HCA 14",
+          "name": "Bodruddaza v Minister for Immigration and Multicultural Affairs\u00a0",
+          "date": "2007-04-18",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2007
+        },
+        {
+          "citation": "[2009] HCA 23",
+          "name": "Pape v Commissioner of Taxation",
+          "date": "2009-04-03",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "4-3",
+          "year": 2009
+        },
+        {
+          "citation": "[2018] HCA 15",
+          "name": "Burns v Corbett",
+          "date": "2018-04-18",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2018
+        }
+      ]
+    },
+    {
+      "provision": "s 51(xxxv)",
+      "years": [
+        2006
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2006] HCA 52",
+          "name": "New South Wales v Commonwealth of Australia",
+          "date": "2006-11-14",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "5-2",
+          "year": 2006
+        }
+      ]
+    },
+    {
+      "provision": "s 51(xxxvi)",
+      "years": [
+        2006,
+        2007,
+        2009,
+        2010,
+        2016,
+        2017
+      ],
+      "case_count": 6,
+      "cases": [
+        {
+          "citation": "[2006] HCA 18",
+          "name": "Theophanous v Commonwealth of Australia",
+          "date": "2006-05-11",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-0",
+          "year": 2006
+        },
+        {
+          "citation": "[2007] HCA 43",
+          "name": "Roach v Electoral Commissioner",
+          "date": "2007-09-26",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "4-2",
+          "year": 2007
+        },
+        {
+          "citation": "[2010] HCA 46",
+          "name": "Rowe v Electoral Commissioner",
+          "date": "2010-08-06",
+          "direction": "conservative",
+          "disposition": "Other disposition",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "4-3",
+          "year": 2010
+        },
+        {
+          "citation": "[2016] HCA 36",
+          "name": "Murphy v Electoral Commissioner",
+          "date": "2016-09-05",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2016
+        },
+        {
+          "citation": "[2016] HCA 39",
+          "name": "Cunningham v Commonwealth of Australia",
+          "date": "2016-10-12",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-1",
+          "year": 2016
+        },
+        {
+          "citation": "[2017] HCA 52",
+          "name": "Re Nash [No 2]",
+          "date": "2017-12-06",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "5-0",
+          "year": 2017
+        }
+      ]
+    },
+    {
+      "provision": "s 51(xxxvii)",
+      "years": [
+        2007
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2007] HCA 33",
+          "name": "Thomas v Mowbray",
+          "date": "2007-08-02",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "5-2",
+          "year": 2007
+        }
+      ]
+    },
+    {
+      "provision": "s 51(xxxviii)",
+      "years": [
+        2003,
+        2006
+      ],
+      "case_count": 2,
+      "cases": [
+        {
+          "citation": "[2003] HCA 67",
+          "name": "Attorney-General (WA) v Marquet",
+          "date": "2003-11-13",
+          "direction": "liberal",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "5-1",
+          "year": 2003
+        },
+        {
+          "citation": "[2006] HCA 25",
+          "name": "XYZ v The Commonwealth",
+          "date": "2006-06-13",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "5-2",
+          "year": 2006
+        }
+      ]
+    },
+    {
+      "provision": "s 52",
+      "years": [
+        2004
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2004] HCA 53",
+          "name": "Permanent Trustee Australia Limited v Commissioner of State Revenue",
+          "date": "2004-11-12",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "5-2",
+          "year": 2004
+        }
+      ]
+    },
+    {
+      "provision": "s 52(i)",
+      "years": [
+        2003
+      ],
+      "case_count": 2,
+      "cases": [
+        {
+          "citation": "[2003] HCA 65",
+          "name": "Paliflex Pty Limited v Chief Commissioner of State Revenue",
+          "date": "2003-11-12",
+          "direction": "liberal",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-0",
+          "year": 2003
+        },
+        {
+          "citation": "[2003] HCA 66",
+          "name": "South Sydney City Council v Paliflex Pty Limited",
+          "date": "2003-11-12",
+          "direction": "liberal",
+          "disposition": "Other disposition",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-0",
+          "year": 2003
+        }
+      ]
+    },
+    {
+      "provision": "s 52(xx)",
+      "years": [
+        2012
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2012] HCA 23",
+          "name": "Williams v Commonwealth of Australia",
+          "date": "2012-06-20",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-1",
+          "year": 2012
+        }
+      ]
+    },
+    {
+      "provision": "s 53",
+      "years": [
+        2004,
+        2005,
+        2017
+      ],
+      "case_count": 3,
+      "cases": [
+        {
+          "citation": "[2004] HCA 53",
+          "name": "Permanent Trustee Australia Limited v Commissioner of State Revenue",
+          "date": "2004-11-12",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "5-2",
+          "year": 2004
+        },
+        {
+          "citation": "[2005] HCA 61",
+          "name": "Combet v Commonwealth of Australia",
+          "date": "2005-10-21",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "5-2",
+          "year": 2005
+        },
+        {
+          "citation": "[2017] HCA 40",
+          "name": "Wilkie v The Commonwealth",
+          "date": "2017-09-28",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2017
+        }
+      ]
+    },
+    {
+      "provision": "s 54",
+      "years": [
+        2004,
+        2005,
+        2017
+      ],
+      "case_count": 3,
+      "cases": [
+        {
+          "citation": "[2004] HCA 53",
+          "name": "Permanent Trustee Australia Limited v Commissioner of State Revenue",
+          "date": "2004-11-12",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "5-2",
+          "year": 2004
+        },
+        {
+          "citation": "[2005] HCA 61",
+          "name": "Combet v Commonwealth of Australia",
+          "date": "2005-10-21",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "5-2",
+          "year": 2005
+        },
+        {
+          "citation": "[2017] HCA 40",
+          "name": "Wilkie v The Commonwealth",
+          "date": "2017-09-28",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2017
+        }
+      ]
+    },
+    {
+      "provision": "s 55",
+      "years": [
+        2003,
+        2004
+      ],
+      "case_count": 2,
+      "cases": [
+        {
+          "citation": "[2003] HCA 3",
+          "name": "Austin v The Commonwealth of Australia",
+          "date": "2003-02-05",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "5-1",
+          "year": 2003
+        },
+        {
+          "citation": "[2004] HCA 53",
+          "name": "Permanent Trustee Australia Limited v Commissioner of State Revenue",
+          "date": "2004-11-12",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "5-2",
+          "year": 2004
+        }
+      ]
+    },
+    {
+      "provision": "s 56",
+      "years": [
+        2005,
+        2017
+      ],
+      "case_count": 2,
+      "cases": [
+        {
+          "citation": "[2005] HCA 61",
+          "name": "Combet v Commonwealth of Australia",
+          "date": "2005-10-21",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "5-2",
+          "year": 2005
+        },
+        {
+          "citation": "[2017] HCA 40",
+          "name": "Wilkie v The Commonwealth",
+          "date": "2017-09-28",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2017
+        }
+      ]
+    },
+    {
+      "provision": "s 61",
+      "years": [
+        2007,
+        2009,
+        2012,
+        2014,
+        2015,
+        2016
+      ],
+      "case_count": 6,
+      "cases": [
+        {
+          "citation": "[2007] HCA 38",
+          "name": "Australian Competition and Consumer Commission v Baxter Healthcare Pty Limited",
+          "date": "2007-08-29",
+          "direction": "liberal",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied, matter remitted",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-1",
+          "year": 2007
+        },
+        {
+          "citation": "[2009] HCA 23",
+          "name": "Pape v Commissioner of Taxation",
+          "date": "2009-04-03",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "4-3",
+          "year": 2009
+        },
+        {
+          "citation": "[2012] HCA 23",
+          "name": "Williams v Commonwealth of Australia",
+          "date": "2012-06-20",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-1",
+          "year": 2012
+        },
+        {
+          "citation": "[2014] HCA 23",
+          "name": "Williams v Commonwealth of Australia",
+          "date": "2014-06-19",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-0",
+          "year": 2014
+        },
+        {
+          "citation": "[2015] HCA 1",
+          "name": "CPCF v Minister for Immigration and Border Protection",
+          "date": "2015-01-28",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "4-3",
+          "year": 2015
+        },
+        {
+          "citation": "[2016] HCA 1",
+          "name": "Plaintiff M68/2015 v Minister for Immigration and Border Protection",
+          "date": "2016-02-03",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-1",
+          "year": 2016
+        }
+      ]
+    },
+    {
+      "provision": "s 64",
+      "years": [
+        2004,
+        2012,
+        2013
+      ],
+      "case_count": 3,
+      "cases": [
+        {
+          "citation": "[2004] HCA 41",
+          "name": "Mulholland v Australian Electoral Commission",
+          "date": "2004-09-08",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2004
+        },
+        {
+          "citation": "[2012] HCA 23",
+          "name": "Williams v Commonwealth of Australia",
+          "date": "2012-06-20",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-1",
+          "year": 2012
+        },
+        {
+          "citation": "[2013] HCA 58",
+          "name": "Unions NSW v New South Wales",
+          "date": "2013-12-18",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-0",
+          "year": 2013
+        }
+      ]
+    },
+    {
+      "provision": "s 66",
+      "years": [
+        2016
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2016] HCA 39",
+          "name": "Cunningham v Commonwealth of Australia",
+          "date": "2016-10-12",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-1",
+          "year": 2016
+        }
+      ]
+    },
+    {
+      "provision": "s 68",
+      "years": [
+        2007
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2007] HCA 33",
+          "name": "Thomas v Mowbray",
+          "date": "2007-08-02",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "5-2",
+          "year": 2007
+        }
+      ]
+    },
+    {
+      "provision": "s 69",
+      "years": [
+        2007
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2007] HCA 33",
+          "name": "Thomas v Mowbray",
+          "date": "2007-08-02",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "5-2",
+          "year": 2007
+        }
+      ]
+    },
+    {
+      "provision": "s 7",
+      "years": [
+        2004,
+        2007,
+        2009,
+        2010,
+        2013,
+        2016,
+        2017
+      ],
+      "case_count": 9,
+      "cases": [
+        {
+          "citation": "[2004] HCA 41",
+          "name": "Mulholland v Australian Electoral Commission",
+          "date": "2004-09-08",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2004
+        },
+        {
+          "citation": "[2007] HCA 43",
+          "name": "Roach v Electoral Commissioner",
+          "date": "2007-09-26",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "4-2",
+          "year": 2007
+        },
+        {
+          "citation": "[2009] HCA 33",
+          "name": "Clarke v Commissioner of Taxation",
+          "date": "2009-09-02",
+          "direction": "conservative",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied in part",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-0",
+          "year": 2009
+        },
+        {
+          "citation": "[2010] HCA 46",
+          "name": "Rowe v Electoral Commissioner",
+          "date": "2010-08-06",
+          "direction": "conservative",
+          "disposition": "Other disposition",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "4-3",
+          "year": 2010
+        },
+        {
+          "citation": "[2013] HCA 3",
+          "name": "Attorney-General (SA) v Corporation of the City of Adelaide",
+          "date": "2013-02-27",
+          "direction": "conservative",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied in part",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "5-1",
+          "year": 2013
+        },
+        {
+          "citation": "[2013] HCA 58",
+          "name": "Unions NSW v New South Wales",
+          "date": "2013-12-18",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-0",
+          "year": 2013
+        },
+        {
+          "citation": "[2016] HCA 20",
+          "name": "Day v Australian Electoral Officer for the State of South Australia",
+          "date": "2016-05-13",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2016
+        },
+        {
+          "citation": "[2016] HCA 36",
+          "name": "Murphy v Electoral Commissioner",
+          "date": "2016-09-05",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2016
+        },
+        {
+          "citation": "[2017] HCA 52",
+          "name": "Re Nash [No 2]",
+          "date": "2017-12-06",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "5-0",
+          "year": 2017
+        }
+      ]
+    },
+    {
+      "provision": "s 71",
+      "years": [
+        2006,
+        2007,
+        2010,
+        2018
+      ],
+      "case_count": 6,
+      "cases": [
+        {
+          "citation": "[2006] HCA 44",
+          "name": "Forge v Australian Securities and Investments Commission",
+          "date": "2006-09-05",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-1",
+          "year": 2006
+        },
+        {
+          "citation": "[2007] HCA 29",
+          "name": "White v Director of Military Prosecutions",
+          "date": "2007-06-19",
+          "direction": "conservative",
+          "disposition": "Special leave denied by enlarged bench",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-1",
+          "year": 2007
+        },
+        {
+          "citation": "[2007] HCA 33",
+          "name": "Thomas v Mowbray",
+          "date": "2007-08-02",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "5-2",
+          "year": 2007
+        },
+        {
+          "citation": "[2007] HCA 38",
+          "name": "Australian Competition and Consumer Commission v Baxter Healthcare Pty Limited",
+          "date": "2007-08-29",
+          "direction": "liberal",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied, matter remitted",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-1",
+          "year": 2007
+        },
+        {
+          "citation": "[2010] HCA 1",
+          "name": "Kirk v Industrial Relations Commission of New South Wales",
+          "date": "2010-02-03",
+          "direction": "liberal",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-1",
+          "year": 2010
+        },
+        {
+          "citation": "[2018] HCA 15",
+          "name": "Burns v Corbett",
+          "date": "2018-04-18",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2018
+        }
+      ]
+    },
+    {
+      "provision": "s 72",
+      "years": [
+        2006
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2006] HCA 44",
+          "name": "Forge v Australian Securities and Investments Commission",
+          "date": "2006-09-05",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-1",
+          "year": 2006
+        }
+      ]
+    },
+    {
+      "provision": "s 73",
+      "years": [
+        2004,
+        2005,
+        2006,
+        2007,
+        2010,
+        2011,
+        2012,
+        2018
+      ],
+      "case_count": 11,
+      "cases": [
+        {
+          "citation": "[2004] HCA 20",
+          "name": "Minister for Immigration and Multicultural and Indigenous Affairs v B",
+          "date": "2004-04-29",
+          "direction": "conservative",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "7-0",
+          "year": 2004
+        },
+        {
+          "citation": "[2004] HCA 61",
+          "name": "BHP Billiton Limited v Schultz",
+          "date": "2004-12-07",
+          "direction": "conservative",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied in part",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "4-3",
+          "year": 2004
+        },
+        {
+          "citation": "[2005] HCA 34",
+          "name": "Fingleton v The Queen",
+          "date": "2005-06-23",
+          "direction": "liberal",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-0",
+          "year": 2005
+        },
+        {
+          "citation": "[2006] HCA 22",
+          "name": "Fish v Solution 6 Holdings Limited",
+          "date": "2006-05-18",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "5-2",
+          "year": 2006
+        },
+        {
+          "citation": "[2006] HCA 44",
+          "name": "Forge v Australian Securities and Investments Commission",
+          "date": "2006-09-05",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-1",
+          "year": 2006
+        },
+        {
+          "citation": "[2007] HCA 14",
+          "name": "Bodruddaza v Minister for Immigration and Multicultural Affairs\u00a0",
+          "date": "2007-04-18",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2007
+        },
+        {
+          "citation": "[2007] HCA 38",
+          "name": "Australian Competition and Consumer Commission v Baxter Healthcare Pty Limited",
+          "date": "2007-08-29",
+          "direction": "liberal",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied, matter remitted",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-1",
+          "year": 2007
+        },
+        {
+          "citation": "[2010] HCA 1",
+          "name": "Kirk v Industrial Relations Commission of New South Wales",
+          "date": "2010-02-03",
+          "direction": "liberal",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-1",
+          "year": 2010
+        },
+        {
+          "citation": "[2011] HCA 34",
+          "name": "Momcilovic v The Queen",
+          "date": "2011-09-08",
+          "direction": "liberal",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied in part",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "5-2",
+          "year": 2011
+        },
+        {
+          "citation": "[2012] HCA 20",
+          "name": "Crump v New South Wales",
+          "date": "2012-05-04",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2012
+        },
+        {
+          "citation": "[2018] HCA 15",
+          "name": "Burns v Corbett",
+          "date": "2018-04-18",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2018
+        }
+      ]
+    },
+    {
+      "provision": "s 74",
+      "years": [
+        2004,
+        2007
+      ],
+      "case_count": 3,
+      "cases": [
+        {
+          "citation": "[2004] HCA 20",
+          "name": "Minister for Immigration and Multicultural and Indigenous Affairs v B",
+          "date": "2004-04-29",
+          "direction": "conservative",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "7-0",
+          "year": 2004
+        },
+        {
+          "citation": "[2004] HCA 61",
+          "name": "BHP Billiton Limited v Schultz",
+          "date": "2004-12-07",
+          "direction": "conservative",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied in part",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "4-3",
+          "year": 2004
+        },
+        {
+          "citation": "[2007] HCA 38",
+          "name": "Australian Competition and Consumer Commission v Baxter Healthcare Pty Limited",
+          "date": "2007-08-29",
+          "direction": "liberal",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied, matter remitted",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-1",
+          "year": 2007
+        }
+      ]
+    },
+    {
+      "provision": "s 75",
+      "years": [
+        2004,
+        2005,
+        2006,
+        2007,
+        2018
+      ],
+      "case_count": 8,
+      "cases": [
+        {
+          "citation": "[2004] HCA 20",
+          "name": "Minister for Immigration and Multicultural and Indigenous Affairs v B",
+          "date": "2004-04-29",
+          "direction": "conservative",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "7-0",
+          "year": 2004
+        },
+        {
+          "citation": "[2004] HCA 61",
+          "name": "BHP Billiton Limited v Schultz",
+          "date": "2004-12-07",
+          "direction": "conservative",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied in part",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "4-3",
+          "year": 2004
+        },
+        {
+          "citation": "[2006] HCA 8",
+          "name": "Sweedman v Transport Accident Commission",
+          "date": "2006-03-09",
+          "direction": "liberal",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "5-1",
+          "year": 2006
+        },
+        {
+          "citation": "[2006] HCA 44",
+          "name": "Forge v Australian Securities and Investments Commission",
+          "date": "2006-09-05",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-1",
+          "year": 2006
+        },
+        {
+          "citation": "[2007] HCA 14",
+          "name": "Bodruddaza v Minister for Immigration and Multicultural Affairs\u00a0",
+          "date": "2007-04-18",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2007
+        },
+        {
+          "citation": "[2007] HCA 29",
+          "name": "White v Director of Military Prosecutions",
+          "date": "2007-06-19",
+          "direction": "conservative",
+          "disposition": "Special leave denied by enlarged bench",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-1",
+          "year": 2007
+        },
+        {
+          "citation": "[2007] HCA 33",
+          "name": "Thomas v Mowbray",
+          "date": "2007-08-02",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "5-2",
+          "year": 2007
+        },
+        {
+          "citation": "[2018] HCA 15",
+          "name": "Burns v Corbett",
+          "date": "2018-04-18",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2018
+        }
+      ]
+    },
+    {
+      "provision": "s 75(iii)",
+      "years": [
+        2003
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2003] HCA 73",
+          "name": "Blunden v Commonwealth of Australia",
+          "date": "2003-12-10",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-0",
+          "year": 2003
+        }
+      ]
+    },
+    {
+      "provision": "s 75(iv)",
+      "years": [
+        2011,
+        2017
+      ],
+      "case_count": 2,
+      "cases": [
+        {
+          "citation": "[2011] HCA 34",
+          "name": "Momcilovic v The Queen",
+          "date": "2011-09-08",
+          "direction": "liberal",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied in part",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "5-2",
+          "year": 2011
+        },
+        {
+          "citation": "[2017] HCA 23",
+          "name": "Rizeq v Western Australia",
+          "date": "2017-06-21",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2017
+        }
+      ]
+    },
+    {
+      "provision": "s 75(v)",
+      "years": [
+        2003,
+        2008,
+        2010,
+        2013,
+        2017
+      ],
+      "case_count": 11,
+      "cases": [
+        {
+          "citation": "[2003] HCA 2",
+          "name": "Plaintiff S157/2002 v Commonwealth of Australia",
+          "date": "2003-02-04",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2003
+        },
+        {
+          "citation": "[2003] HCA 30",
+          "name": "Re Minister for Immigration and Multicultural Affairs; Ex parte Applicant S20/2002",
+          "date": "2003-06-17",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "5-0",
+          "year": 2003
+        },
+        {
+          "citation": "[2003] HCA 31",
+          "name": "Glennan v Commissioner of Taxation",
+          "date": "2003-06-17",
+          "direction": "liberal",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "3-0",
+          "year": 2003
+        },
+        {
+          "citation": "[2003] HCA 32",
+          "name": "Re Carmody; Ex parte Glennan",
+          "date": "2003-06-17",
+          "direction": "liberal",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "3-0",
+          "year": 2003
+        },
+        {
+          "citation": "[2003] HCA 56",
+          "name": "Re Minister for Immigration and Multicultural and Indigenous Affairs; Ex parte Palme",
+          "date": "2003-10-02",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "4-1",
+          "year": 2003
+        },
+        {
+          "citation": "[2003] HCA 60",
+          "name": "Re Minister for Immigration and Multicultural Affairs; Ex parte Applicant S154/2002",
+          "date": "2003-10-08",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "4-1",
+          "year": 2003
+        },
+        {
+          "citation": "[2008] HCA 28",
+          "name": "MZXOT v Minister for Immigration and Citizenship",
+          "date": "2008-06-18",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2008
+        },
+        {
+          "citation": "[2010] HCA 1",
+          "name": "Kirk v Industrial Relations Commission of New South Wales",
+          "date": "2010-02-03",
+          "direction": "liberal",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-1",
+          "year": 2010
+        },
+        {
+          "citation": "[2010] HCA 41",
+          "name": "Plaintiff M61/2010E v Commonwealth of Australia",
+          "date": "2010-11-11",
+          "direction": "liberal",
+          "disposition": "Appeal/application allowed in part, order below set aside and/or varied",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "7-0",
+          "year": 2010
+        },
+        {
+          "citation": "[2013] HCA 18",
+          "name": "Minister for Immigration and Citizenship v Li",
+          "date": "2013-05-08",
+          "direction": "liberal",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "5-0",
+          "year": 2013
+        },
+        {
+          "citation": "[2017] HCA 33",
+          "name": "Graham v Minister for Immigration and Border Protection",
+          "date": "2017-09-06",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-1",
+          "year": 2017
+        }
+      ]
+    },
+    {
+      "provision": "s 76",
+      "years": [
+        2003,
+        2004,
+        2005,
+        2006,
+        2013,
+        2018
+      ],
+      "case_count": 6,
+      "cases": [
+        {
+          "citation": "[2003] HCA 47",
+          "name": "British American Tobacco Australia Ltd v Western Australia",
+          "date": "2003-09-02",
+          "direction": "liberal",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied in part",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-0",
+          "year": 2003
+        },
+        {
+          "citation": "[2004] HCA 20",
+          "name": "Minister for Immigration and Multicultural and Indigenous Affairs v B",
+          "date": "2004-04-29",
+          "direction": "conservative",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "7-0",
+          "year": 2004
+        },
+        {
+          "citation": "[2005] HCA 38",
+          "name": "Agtrack (NT) Pty Limited v Hatfield",
+          "date": "2005-08-10",
+          "direction": "liberal",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2005
+        },
+        {
+          "citation": "[2006] HCA 44",
+          "name": "Forge v Australian Securities and Investments Commission",
+          "date": "2006-09-05",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-1",
+          "year": 2006
+        },
+        {
+          "citation": "[2013] HCA 26",
+          "name": "State of NSW v Kable",
+          "date": "2013-06-05",
+          "direction": "conservative",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "7-0",
+          "year": 2013
+        },
+        {
+          "citation": "[2018] HCA 15",
+          "name": "Burns v Corbett",
+          "date": "2018-04-18",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2018
+        }
+      ]
+    },
+    {
+      "provision": "s 76(ii)",
+      "years": [
+        2007,
+        2008,
+        2012
+      ],
+      "case_count": 4,
+      "cases": [
+        {
+          "citation": "[2007] HCA 29",
+          "name": "White v Director of Military Prosecutions",
+          "date": "2007-06-19",
+          "direction": "conservative",
+          "disposition": "Special leave denied by enlarged bench",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-1",
+          "year": 2007
+        },
+        {
+          "citation": "[2007] HCA 33",
+          "name": "Thomas v Mowbray",
+          "date": "2007-08-02",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "5-2",
+          "year": 2007
+        },
+        {
+          "citation": "[2008] HCA 28",
+          "name": "MZXOT v Minister for Immigration and Citizenship",
+          "date": "2008-06-18",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2008
+        },
+        {
+          "citation": "[2012] HCA 22",
+          "name": "Clodumar v Nauru Lands Committee",
+          "date": "2012-06-20",
+          "direction": "liberal",
+          "disposition": "Appeal/application allowed, remit for further determination",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "4-1",
+          "year": 2012
+        }
+      ]
+    },
+    {
+      "provision": "s 76(iii)",
+      "years": [
+        2007
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2007] HCA 33",
+          "name": "Thomas v Mowbray",
+          "date": "2007-08-02",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "5-2",
+          "year": 2007
+        }
+      ]
+    },
+    {
+      "provision": "s 77",
+      "years": [
+        2004,
+        2008,
+        2013,
+        2018
+      ],
+      "case_count": 4,
+      "cases": [
+        {
+          "citation": "[2004] HCA 20",
+          "name": "Minister for Immigration and Multicultural and Indigenous Affairs v B",
+          "date": "2004-04-29",
+          "direction": "conservative",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "7-0",
+          "year": 2004
+        },
+        {
+          "citation": "[2008] HCA 28",
+          "name": "MZXOT v Minister for Immigration and Citizenship",
+          "date": "2008-06-18",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2008
+        },
+        {
+          "citation": "[2013] HCA 26",
+          "name": "State of NSW v Kable",
+          "date": "2013-06-05",
+          "direction": "conservative",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "7-0",
+          "year": 2013
+        },
+        {
+          "citation": "[2018] HCA 15",
+          "name": "Burns v Corbett",
+          "date": "2018-04-18",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2018
+        }
+      ]
+    },
+    {
+      "provision": "s 77(i)",
+      "years": [
+        2007,
+        2017
+      ],
+      "case_count": 2,
+      "cases": [
+        {
+          "citation": "[2007] HCA 33",
+          "name": "Thomas v Mowbray",
+          "date": "2007-08-02",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "5-2",
+          "year": 2007
+        },
+        {
+          "citation": "[2017] HCA 33",
+          "name": "Graham v Minister for Immigration and Border Protection",
+          "date": "2017-09-06",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-1",
+          "year": 2017
+        }
+      ]
+    },
+    {
+      "provision": "s 77(iii)",
+      "years": [
+        2003,
+        2006,
+        2011,
+        2017
+      ],
+      "case_count": 4,
+      "cases": [
+        {
+          "citation": "[2003] HCA 47",
+          "name": "British American Tobacco Australia Ltd v Western Australia",
+          "date": "2003-09-02",
+          "direction": "liberal",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied in part",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-0",
+          "year": 2003
+        },
+        {
+          "citation": "[2006] HCA 44",
+          "name": "Forge v Australian Securities and Investments Commission",
+          "date": "2006-09-05",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-1",
+          "year": 2006
+        },
+        {
+          "citation": "[2011] HCA 34",
+          "name": "Momcilovic v The Queen",
+          "date": "2011-09-08",
+          "direction": "liberal",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied in part",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "5-2",
+          "year": 2011
+        },
+        {
+          "citation": "[2017] HCA 33",
+          "name": "Graham v Minister for Immigration and Border Protection",
+          "date": "2017-09-06",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-1",
+          "year": 2017
+        }
+      ]
+    },
+    {
+      "provision": "s 78",
+      "years": [
+        2003,
+        2007
+      ],
+      "case_count": 2,
+      "cases": [
+        {
+          "citation": "[2003] HCA 47",
+          "name": "British American Tobacco Australia Ltd v Western Australia",
+          "date": "2003-09-02",
+          "direction": "liberal",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied in part",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-0",
+          "year": 2003
+        },
+        {
+          "citation": "[2007] HCA 38",
+          "name": "Australian Competition and Consumer Commission v Baxter Healthcare Pty Limited",
+          "date": "2007-08-29",
+          "direction": "liberal",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied, matter remitted",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-1",
+          "year": 2007
+        }
+      ]
+    },
+    {
+      "provision": "s 79",
+      "years": [
+        2007
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2007] HCA 38",
+          "name": "Australian Competition and Consumer Commission v Baxter Healthcare Pty Limited",
+          "date": "2007-08-29",
+          "direction": "liberal",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied, matter remitted",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-1",
+          "year": 2007
+        }
+      ]
+    },
+    {
+      "provision": "s 8",
+      "years": [
+        2007,
+        2010
+      ],
+      "case_count": 2,
+      "cases": [
+        {
+          "citation": "[2007] HCA 43",
+          "name": "Roach v Electoral Commissioner",
+          "date": "2007-09-26",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "4-2",
+          "year": 2007
+        },
+        {
+          "citation": "[2010] HCA 46",
+          "name": "Rowe v Electoral Commissioner",
+          "date": "2010-08-06",
+          "direction": "conservative",
+          "disposition": "Other disposition",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "4-3",
+          "year": 2010
+        }
+      ]
+    },
+    {
+      "provision": "s 80",
+      "years": [
+        2003,
+        2004,
+        2007,
+        2010,
+        2016
+      ],
+      "case_count": 6,
+      "cases": [
+        {
+          "citation": "[2003] HCA 19",
+          "name": "Fittock v The Queen",
+          "date": "2003-04-10",
+          "direction": "conservative",
+          "disposition": "Special leave denied by enlarged bench",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2003
+        },
+        {
+          "citation": "[2003] HCA 20",
+          "name": "Ng v The Queen",
+          "date": "2003-04-10",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2003
+        },
+        {
+          "citation": "[2004] HCA 23",
+          "name": "Pinkstone v The Queen",
+          "date": "2004-05-20",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "4-1",
+          "year": 2004
+        },
+        {
+          "citation": "[2007] HCA 29",
+          "name": "White v Director of Military Prosecutions",
+          "date": "2007-06-19",
+          "direction": "conservative",
+          "disposition": "Special leave denied by enlarged bench",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-1",
+          "year": 2007
+        },
+        {
+          "citation": "[2010] HCA 17",
+          "name": "The Queen v LK",
+          "date": "2010-05-26",
+          "direction": "liberal",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2010
+        },
+        {
+          "citation": "[2016] HCA 24",
+          "name": "Alqudsi v The Queen",
+          "date": "2016-06-15",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-1",
+          "year": 2016
+        }
+      ]
+    },
+    {
+      "provision": "s 81",
+      "years": [
+        2005,
+        2009,
+        2012,
+        2017
+      ],
+      "case_count": 4,
+      "cases": [
+        {
+          "citation": "[2005] HCA 61",
+          "name": "Combet v Commonwealth of Australia",
+          "date": "2005-10-21",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "5-2",
+          "year": 2005
+        },
+        {
+          "citation": "[2009] HCA 23",
+          "name": "Pape v Commissioner of Taxation",
+          "date": "2009-04-03",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "4-3",
+          "year": 2009
+        },
+        {
+          "citation": "[2012] HCA 23",
+          "name": "Williams v Commonwealth of Australia",
+          "date": "2012-06-20",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-1",
+          "year": 2012
+        },
+        {
+          "citation": "[2017] HCA 40",
+          "name": "Wilkie v The Commonwealth",
+          "date": "2017-09-28",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2017
+        }
+      ]
+    },
+    {
+      "provision": "s 83",
+      "years": [
+        2005,
+        2009,
+        2017
+      ],
+      "case_count": 3,
+      "cases": [
+        {
+          "citation": "[2005] HCA 61",
+          "name": "Combet v Commonwealth of Australia",
+          "date": "2005-10-21",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "5-2",
+          "year": 2005
+        },
+        {
+          "citation": "[2009] HCA 23",
+          "name": "Pape v Commissioner of Taxation",
+          "date": "2009-04-03",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "4-3",
+          "year": 2009
+        },
+        {
+          "citation": "[2017] HCA 40",
+          "name": "Wilkie v The Commonwealth",
+          "date": "2017-09-28",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2017
+        }
+      ]
+    },
+    {
+      "provision": "s 9",
+      "years": [
+        2009,
+        2010,
+        2016
+      ],
+      "case_count": 3,
+      "cases": [
+        {
+          "citation": "[2009] HCA 33",
+          "name": "Clarke v Commissioner of Taxation",
+          "date": "2009-09-02",
+          "direction": "conservative",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied in part",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-0",
+          "year": 2009
+        },
+        {
+          "citation": "[2010] HCA 46",
+          "name": "Rowe v Electoral Commissioner",
+          "date": "2010-08-06",
+          "direction": "conservative",
+          "disposition": "Other disposition",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "4-3",
+          "year": 2010
+        },
+        {
+          "citation": "[2016] HCA 20",
+          "name": "Day v Australian Electoral Officer for the State of South Australia",
+          "date": "2016-05-13",
+          "direction": "conservative",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2016
+        }
+      ]
+    },
+    {
+      "provision": "s 90",
+      "years": [
+        2003,
+        2011
+      ],
+      "case_count": 2,
+      "cases": [
+        {
+          "citation": "[2003] HCA 47",
+          "name": "British American Tobacco Australia Ltd v Western Australia",
+          "date": "2003-09-02",
+          "direction": "liberal",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied in part",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-0",
+          "year": 2003
+        },
+        {
+          "citation": "[2011] HCA 40",
+          "name": "Queanbeyan City Council v ACTEW Corporation Ltd",
+          "date": "2011-10-05",
+          "direction": "liberal",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2011
+        }
+      ]
+    },
+    {
+      "provision": "s 91",
+      "years": [
+        2013
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2013] HCA 34",
+          "name": "Fortescue Metals Group Limited v The Commonwealth",
+          "date": "2013-08-07",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-0",
+          "year": 2013
+        }
+      ]
+    },
+    {
+      "provision": "s 92",
+      "years": [
+        2005,
+        2006,
+        2008,
+        2012
+      ],
+      "case_count": 5,
+      "cases": [
+        {
+          "citation": "[2005] HCA 44",
+          "name": "APLA Limited v Legal Services Commissioner (NSW)",
+          "date": "2005-09-01",
+          "direction": "conservative",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "5-2",
+          "year": 2005
+        },
+        {
+          "citation": "[2006] HCA 8",
+          "name": "Sweedman v Transport Accident Commission",
+          "date": "2006-03-09",
+          "direction": "liberal",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "5-1",
+          "year": 2006
+        },
+        {
+          "citation": "[2008] HCA 11",
+          "name": "Betfair Pty Limited v Western Australia",
+          "date": "2008-03-27",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "7-0",
+          "year": 2008
+        },
+        {
+          "citation": "[2012] HCA 12",
+          "name": "Betfair Pty Limited v Racing New South Wales",
+          "date": "2012-03-30",
+          "direction": "liberal",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2012
+        },
+        {
+          "citation": "[2012] HCA 13",
+          "name": "Sportsbet Pty Ltd v New South Wales",
+          "date": "2012-03-30",
+          "direction": "liberal",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2012
+        }
+      ]
+    },
+    {
+      "provision": "s 94",
+      "years": [
+        2005
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2005] HCA 61",
+          "name": "Combet v Commonwealth of Australia",
+          "date": "2005-10-21",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "5-2",
+          "year": 2005
+        }
+      ]
+    },
+    {
+      "provision": "s 95",
+      "years": [
+        2009
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2009] HCA 33",
+          "name": "Clarke v Commissioner of Taxation",
+          "date": "2009-09-02",
+          "direction": "conservative",
+          "disposition": "Appeal/application allowed, order below set aside and/or varied in part",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-0",
+          "year": 2009
+        }
+      ]
+    },
+    {
+      "provision": "s 96",
+      "years": [
+        2009,
+        2012
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2012] HCA 23",
+          "name": "Williams v Commonwealth of Australia",
+          "date": "2012-06-20",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "appealing/petitioning party received a favourable disposition",
+          "votes": "6-1",
+          "year": 2012
+        }
+      ]
+    },
+    {
+      "provision": "s 97",
+      "years": [
+        2005
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2005] HCA 61",
+          "name": "Combet v Commonwealth of Australia",
+          "date": "2005-10-21",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "5-2",
+          "year": 2005
+        }
+      ]
+    },
+    {
+      "provision": "s 98",
+      "years": [
+        2010
+      ],
+      "case_count": 1,
+      "cases": [
+        {
+          "citation": "[2010] HCA 3",
+          "name": "Arnold v Minister Administering the Water Management Act 2000",
+          "date": "2010-02-10",
+          "direction": "liberal",
+          "disposition": "Appeal/application dismissed ",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-1",
+          "year": 2010
+        }
+      ]
+    },
+    {
+      "provision": "s 99",
+      "years": [
+        2004,
+        2013,
+        2015
+      ],
+      "case_count": 3,
+      "cases": [
+        {
+          "citation": "[2004] HCA 53",
+          "name": "Permanent Trustee Australia Limited v Commissioner of State Revenue",
+          "date": "2004-11-12",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "5-2",
+          "year": 2004
+        },
+        {
+          "citation": "[2013] HCA 34",
+          "name": "Fortescue Metals Group Limited v The Commonwealth",
+          "date": "2013-08-07",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "6-0",
+          "year": 2013
+        },
+        {
+          "citation": "[2015] HCA 12",
+          "name": "Queensland Nickel Pty Limited v Commonwealth of Australia",
+          "date": "2015-04-08",
+          "direction": "liberal",
+          "disposition": "Questions answered (special case, case referred, etc)",
+          "winning_party": "no favourable disposition for appealing/petitioning party apparent",
+          "votes": "7-0",
+          "year": 2015
+        }
+      ]
+    }
+  ],
+  "total_provisions": 142,
+  "total_cases": 396
+}

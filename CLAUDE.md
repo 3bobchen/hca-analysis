@@ -29,11 +29,12 @@ See @docs/column-guide.md for a detailed guide to all 69 columns in `HCDB-with-c
 ## Commands
 
 ```bash
-python3 scripts/merge_case_data.py      # rebuild merged CSV
-python3 scripts/build_db.py             # rebuild SQLite database
-python3 scripts/build_dashboard_data.py # rebuild website/public/data.json from CSV
-cd website && npm run dev               # local dev server
-cd website && npm run build             # production build -> website/dist/
+python3 scripts/merge_case_data.py           # rebuild merged CSV
+python3 scripts/build_db.py                  # rebuild SQLite database
+python3 scripts/build_dashboard_data.py      # rebuild website/public/data.json from CSV
+python3 scripts/build_constitutional_data.py # rebuild website/public/constitutional.json from DB
+cd website && npm run dev                    # local dev server
+cd website && npm run build                  # production build -> website/dist/
 ```
 
 ## Dependencies
