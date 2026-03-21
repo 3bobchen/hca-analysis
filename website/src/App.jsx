@@ -6,6 +6,7 @@ import {
   AreaChart, Area,
 } from 'recharts'
 import { ConstitutionalPage } from './ConstitutionalPage'
+import { InsightsPage } from './InsightsPage'
 import { Navbar } from './Navbar'
 import './App.css'
 
@@ -65,6 +66,8 @@ function App() {
   const handleNavigate = (page) => {
     if (page === 'constitutional') {
       navigate('/constitutional')
+    } else if (page === 'insights') {
+      navigate('/insights')
     } else {
       navigate('/')
     }
@@ -77,6 +80,7 @@ function App() {
         <Routes>
           <Route path="/" element={<DashboardPage data={data} />} />
           <Route path="/constitutional" element={<ConstitutionalPage />} />
+          <Route path="/insights" element={<InsightsPage />} />
         </Routes>
       </main>
     </>

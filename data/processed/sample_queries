@@ -1,0 +1,48 @@
+1. Vote split distribution on constitutional cases
+
+  SELECT maj_votes || '-' || min_votes AS vote_split, COUNT(*) AS cases
+  FROM cases WHERE primary_issue_sub_area = 'Constitutional law'
+  GROUP BY maj_votes, min_votes ORDER BY cases DESC;
+  Finding: 42% unanimous (7-0), only 6.5% are 4-3 nail-biters. The court reaches very strong consensus on constitutional matters most of the time.
+
+  ---
+  2. Most contested constitutional topics by dissent rate
+
+  SELECT primary_issue, COUNT(*) AS cases,
+    ROUND(100.0 * SUM(CASE WHEN min_votes >= 2 THEN 1 ELSE 0 END)/COUNT(*), 1) AS contested_pct
+  FROM cases WHERE primary_issue_sub_area = 'Constitutional law'
+  GROUP BY primary_issue HAVING cases >= 5 ORDER BY contested_pct DESC;
+  Finding: Corporations power is by far the most contested (89% contested), while judicial power and separation of powers are remarkably uncontested (<10%). The
+  Corporations power data clusters heavily around 2006 — clearly the WorkChoices case cluster generating maximum disagreement.
+
+  ---
+  3. Decision direction by Chief Justice era (constitutional cases only)
+
+  SELECT chief_argument, COUNT(*) AS cases,
+    ROUND(100.0 * SUM(CASE WHEN decision_direction='liberal' THEN 1 ELSE 0 END)/COUNT(*),1) AS liberal_pct
+  FROM cases WHERE primary_issue_sub_area = 'Constitutional law'
+  GROUP BY chief_argument ORDER BY MIN(year_decision);
+  Finding: Sharp shift — Brennan court was 69% liberal, Gleeson dropped to 42%, then French/Kiefel hovered around 48-51%. The Gleeson era was distinctly conservative on
+  constitutional matters.
+
+  ---
+  4. Implied freedom of political communication timeline
+
+  SELECT year_decision, COUNT(*) AS cases,
+    SUM(CASE WHEN decision_direction='liberal' THEN 1 ELSE 0 END) AS liberal,
+    SUM(CASE WHEN decision_direction='conservative' THEN 1 ELSE 0 END) AS conservative
+  FROM cases WHERE primary_issue LIKE '%political communication%'
+  GROUP BY year_decision ORDER BY year_decision;
+  Finding: After the early liberal decisions (1996-97), the court became almost exclusively conservative on implied freedom cases — 2013-2019 saw 11 conservative outcomes
+   vs 2 liberal. The freedom has been heavily curtailed.
+
+  ---
+  5. Panel ideology vs liberal outcome (constitutional cases)
+
+  SELECT ROUND(proportion_liberal_panel, 1) AS panel_liberal_prop,
+    COUNT(*) AS cases,
+    ROUND(100.0 * SUM(CASE WHEN decision_direction='liberal' THEN 1 ELSE 0 END)/COUNT(*),1) AS liberal_outcome_pct
+  FROM cases WHERE primary_issue_sub_area = 'Constitutional law'
+  GROUP BY ROUND(proportion_liberal_panel, 1);
+  Finding: There's a correlation but it's noisy — panels with 70%+ liberal justices deliver 72% liberal outcomes. But a 30% liberal panel still delivers 50% liberal
+  outcomes, suggesting constitutional law constrains ideological voting.

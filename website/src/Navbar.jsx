@@ -3,7 +3,10 @@ import './Navbar.css'
 
 export function Navbar({ onNavigate }) {
   const location = useLocation()
-  const currentPage = location.pathname === '/constitutional' ? 'constitutional' : 'dashboard'
+  const currentPage =
+    location.pathname === '/constitutional' ? 'constitutional'
+    : location.pathname === '/insights' ? 'insights'
+    : 'dashboard'
 
   return (
     <nav className="navbar">
@@ -22,7 +25,13 @@ export function Navbar({ onNavigate }) {
             className={`navbar-tab ${currentPage === 'constitutional' ? 'active' : ''}`}
             onClick={() => onNavigate('constitutional')}
           >
-            High Court Constitutional Law
+            Constitutional Law
+          </button>
+          <button
+            className={`navbar-tab ${currentPage === 'insights' ? 'active' : ''}`}
+            onClick={() => onNavigate('insights')}
+          >
+            Insights
           </button>
         </div>
       </div>

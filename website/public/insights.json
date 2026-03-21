@@ -1,0 +1,562 @@
+{
+  "summary": {
+    "total_constitutional_cases": 167,
+    "unanimous_pct": 55.1,
+    "freedom_total": 17,
+    "freedom_conservative_pct": 70.6,
+    "corporations_contested_pct": 75.0
+  },
+  "vote_splits": [
+    {
+      "split": "7-0",
+      "count": 68
+    },
+    {
+      "split": "6-1",
+      "count": 35
+    },
+    {
+      "split": "5-2",
+      "count": 14
+    },
+    {
+      "split": "4-3",
+      "count": 11
+    },
+    {
+      "split": "6-0",
+      "count": 13
+    },
+    {
+      "split": "5-1",
+      "count": 7
+    },
+    {
+      "split": "4-2",
+      "count": 4
+    },
+    {
+      "split": "3-3",
+      "count": 2
+    },
+    {
+      "split": "5-0",
+      "count": 8
+    },
+    {
+      "split": "4-1",
+      "count": 2
+    },
+    {
+      "split": "3-0",
+      "count": 3
+    }
+  ],
+  "topic_breakdown": [
+    {
+      "topic": "Federal judicial power\u2014definition and scope of judicial power",
+      "cases": 21,
+      "unanimous_pct": 61.9,
+      "contested_pct": 14.3,
+      "liberal_pct": 33.3,
+      "conservative_pct": 66.7,
+      "appellant_win_pct": 33.3,
+      "avg_majority_share": 0.92
+    },
+    {
+      "topic": "Federal judicial power",
+      "cases": 18,
+      "unanimous_pct": 44.4,
+      "contested_pct": 11.1,
+      "liberal_pct": 38.9,
+      "conservative_pct": 61.1,
+      "appellant_win_pct": 27.8,
+      "avg_majority_share": 0.89
+    },
+    {
+      "topic": "Elections",
+      "cases": 18,
+      "unanimous_pct": 72.2,
+      "contested_pct": 16.7,
+      "liberal_pct": 50.0,
+      "conservative_pct": 50.0,
+      "appellant_win_pct": 44.4,
+      "avg_majority_share": 0.92
+    },
+    {
+      "topic": "Constitutional rights\u2014Implied freedom of political communication",
+      "cases": 17,
+      "unanimous_pct": 52.9,
+      "contested_pct": 23.5,
+      "liberal_pct": 29.4,
+      "conservative_pct": 70.6,
+      "appellant_win_pct": 47.1,
+      "avg_majority_share": 0.88
+    },
+    {
+      "topic": "Federal judicial power\u2014other",
+      "cases": 12,
+      "unanimous_pct": 75.0,
+      "contested_pct": 16.7,
+      "liberal_pct": 41.7,
+      "conservative_pct": 58.3,
+      "appellant_win_pct": 50.0,
+      "avg_majority_share": 0.93
+    },
+    {
+      "topic": "Federalism\u2014inconsistency (section 109)",
+      "cases": 10,
+      "unanimous_pct": 50.0,
+      "contested_pct": 20.0,
+      "liberal_pct": 90.0,
+      "conservative_pct": 10.0,
+      "appellant_win_pct": 60.0,
+      "avg_majority_share": 0.9
+    },
+    {
+      "topic": "Constitutional rights\u2014Section 51(xxxi), \u201cjust terms\u201d property acquisition",
+      "cases": 10,
+      "unanimous_pct": 40.0,
+      "contested_pct": 30.0,
+      "liberal_pct": 70.0,
+      "conservative_pct": 30.0,
+      "appellant_win_pct": 30.0,
+      "avg_majority_share": 0.87
+    },
+    {
+      "topic": "Separation of powers",
+      "cases": 9,
+      "unanimous_pct": 55.6,
+      "contested_pct": 0.0,
+      "liberal_pct": 44.4,
+      "conservative_pct": 55.6,
+      "appellant_win_pct": 22.2,
+      "avg_majority_share": 0.93
+    },
+    {
+      "topic": "Legislative power\u2014other",
+      "cases": 7,
+      "unanimous_pct": 57.1,
+      "contested_pct": 28.6,
+      "liberal_pct": 14.3,
+      "conservative_pct": 85.7,
+      "appellant_win_pct": 28.6,
+      "avg_majority_share": 0.88
+    },
+    {
+      "topic": "Constitutional rights\u2014Section 80",
+      "cases": 6,
+      "unanimous_pct": 33.3,
+      "contested_pct": 16.7,
+      "liberal_pct": 0.0,
+      "conservative_pct": 100.0,
+      "appellant_win_pct": 0.0,
+      "avg_majority_share": 0.87
+    },
+    {
+      "topic": "other",
+      "cases": 4,
+      "unanimous_pct": 50.0,
+      "contested_pct": 0.0,
+      "liberal_pct": 75.0,
+      "conservative_pct": 25.0,
+      "appellant_win_pct": 50.0,
+      "avg_majority_share": 0.92
+    },
+    {
+      "topic": "Legislative power\u2014External affairs power",
+      "cases": 4,
+      "unanimous_pct": 25.0,
+      "contested_pct": 25.0,
+      "liberal_pct": 25.0,
+      "conservative_pct": 75.0,
+      "appellant_win_pct": 50.0,
+      "avg_majority_share": 0.84
+    },
+    {
+      "topic": "Legislative power",
+      "cases": 4,
+      "unanimous_pct": 0.0,
+      "contested_pct": 25.0,
+      "liberal_pct": 50.0,
+      "conservative_pct": 50.0,
+      "appellant_win_pct": 25.0,
+      "avg_majority_share": 0.79
+    },
+    {
+      "topic": "Federalism\u2014general",
+      "cases": 4,
+      "unanimous_pct": 50.0,
+      "contested_pct": 50.0,
+      "liberal_pct": 100.0,
+      "conservative_pct": 0.0,
+      "appellant_win_pct": 50.0,
+      "avg_majority_share": 0.79
+    },
+    {
+      "topic": "Legislative power\u2014Corporations power",
+      "cases": 4,
+      "unanimous_pct": 25.0,
+      "contested_pct": 75.0,
+      "liberal_pct": 50.0,
+      "conservative_pct": 50.0,
+      "appellant_win_pct": 25.0,
+      "avg_majority_share": 0.73
+    },
+    {
+      "topic": "Federal judicial power\u2014limits on judicial power",
+      "cases": 3,
+      "unanimous_pct": 66.7,
+      "contested_pct": 33.3,
+      "liberal_pct": 33.3,
+      "conservative_pct": 66.7,
+      "appellant_win_pct": 33.3,
+      "avg_majority_share": 0.89
+    },
+    {
+      "topic": "Executive power\u2014general",
+      "cases": 3,
+      "unanimous_pct": 33.3,
+      "contested_pct": 33.3,
+      "liberal_pct": 66.7,
+      "conservative_pct": 33.3,
+      "appellant_win_pct": 66.7,
+      "avg_majority_share": 0.81
+    },
+    {
+      "topic": "Constitutional rights\u2014Section 92",
+      "cases": 3,
+      "unanimous_pct": 100.0,
+      "contested_pct": 0.0,
+      "liberal_pct": 100.0,
+      "conservative_pct": 0.0,
+      "appellant_win_pct": 33.3,
+      "avg_majority_share": 1.0
+    },
+    {
+      "topic": "Legislative power\u2014Taxation power",
+      "cases": 3,
+      "unanimous_pct": 100.0,
+      "contested_pct": 0.0,
+      "liberal_pct": 0.0,
+      "conservative_pct": 100.0,
+      "appellant_win_pct": 33.3,
+      "avg_majority_share": 1.0
+    }
+  ],
+  "direction_by_era": [
+    {
+      "chief": "Brennan",
+      "cases": 23,
+      "liberal_pct": 56.5,
+      "conservative_pct": 43.5,
+      "unspecifiable_pct": 0.0,
+      "appellant_win_pct": 34.8,
+      "from_year": 1995,
+      "to_year": 1998
+    },
+    {
+      "chief": "Gleeson",
+      "cases": 60,
+      "liberal_pct": 40.0,
+      "conservative_pct": 60.0,
+      "unspecifiable_pct": 0.0,
+      "appellant_win_pct": 33.3,
+      "from_year": 1998,
+      "to_year": 2008
+    },
+    {
+      "chief": "French",
+      "cases": 57,
+      "liberal_pct": 45.6,
+      "conservative_pct": 54.4,
+      "unspecifiable_pct": 0.0,
+      "appellant_win_pct": 35.1,
+      "from_year": 2009,
+      "to_year": 2017
+    },
+    {
+      "chief": "Kiefel",
+      "cases": 27,
+      "liberal_pct": 40.7,
+      "conservative_pct": 59.3,
+      "unspecifiable_pct": 0.0,
+      "appellant_win_pct": 48.1,
+      "from_year": 2017,
+      "to_year": 2020
+    }
+  ],
+  "implied_freedom": [
+    {
+      "year": 1996,
+      "cases": 1,
+      "liberal": 1,
+      "conservative": 0,
+      "unspecifiable": 0,
+      "case_names": [
+        "Muldowney v South Australia"
+      ],
+      "citations": [
+        "[1996] HCA 52"
+      ],
+      "vote_splits": [
+        "6-0"
+      ],
+      "directions": [
+        "liberal"
+      ]
+    },
+    {
+      "year": 1997,
+      "cases": 2,
+      "liberal": 0,
+      "conservative": 2,
+      "unspecifiable": 0,
+      "case_names": [
+        "Lange v Australian Broadcasting Corporation",
+        "Department of Social Security v Lee"
+      ],
+      "citations": [
+        "[1997] HCA 25",
+        "[1997] HCA 46"
+      ],
+      "vote_splits": [
+        "7-0",
+        "7-0"
+      ],
+      "directions": [
+        "conservative",
+        "conservative"
+      ]
+    },
+    {
+      "year": 2004,
+      "cases": 2,
+      "liberal": 1,
+      "conservative": 1,
+      "unspecifiable": 0,
+      "case_names": [
+        "Coleman v Power",
+        "Mulholland v Australian Electoral Commission"
+      ],
+      "citations": [
+        "[2004] HCA 39",
+        "[2004] HCA 41"
+      ],
+      "vote_splits": [
+        "4-3",
+        "7-0"
+      ],
+      "directions": [
+        "liberal",
+        "conservative"
+      ]
+    },
+    {
+      "year": 2005,
+      "cases": 1,
+      "liberal": 0,
+      "conservative": 1,
+      "unspecifiable": 0,
+      "case_names": [
+        "APLA Limited v Legal Services Commissioner (NSW)"
+      ],
+      "citations": [
+        "[2005] HCA 44"
+      ],
+      "vote_splits": [
+        "5-2"
+      ],
+      "directions": [
+        "conservative"
+      ]
+    },
+    {
+      "year": 2011,
+      "cases": 1,
+      "liberal": 0,
+      "conservative": 1,
+      "unspecifiable": 0,
+      "case_names": [
+        "Hogan v Hinch"
+      ],
+      "citations": [
+        "[2011] HCA 4"
+      ],
+      "vote_splits": [
+        "7-0"
+      ],
+      "directions": [
+        "conservative"
+      ]
+    },
+    {
+      "year": 2012,
+      "cases": 1,
+      "liberal": 0,
+      "conservative": 1,
+      "unspecifiable": 0,
+      "case_names": [
+        "Wotton v Queensland"
+      ],
+      "citations": [
+        "[2012] HCA 2"
+      ],
+      "vote_splits": [
+        "7-0"
+      ],
+      "directions": [
+        "conservative"
+      ]
+    },
+    {
+      "year": 2013,
+      "cases": 3,
+      "liberal": 1,
+      "conservative": 2,
+      "unspecifiable": 0,
+      "case_names": [
+        "Attorney-General (SA) v Corporation of the City of Adelaide",
+        "Monis v The Queen",
+        "Unions NSW v New South Wales"
+      ],
+      "citations": [
+        "[2013] HCA 3",
+        "[2013] HCA 4",
+        "[2013] HCA 58"
+      ],
+      "vote_splits": [
+        "5-1",
+        "3-3",
+        "6-0"
+      ],
+      "directions": [
+        "conservative",
+        "conservative",
+        "liberal"
+      ]
+    },
+    {
+      "year": 2014,
+      "cases": 1,
+      "liberal": 0,
+      "conservative": 1,
+      "unspecifiable": 0,
+      "case_names": [
+        "Tajjour v New South Wales"
+      ],
+      "citations": [
+        "[2014] HCA 35"
+      ],
+      "vote_splits": [
+        "6-1"
+      ],
+      "directions": [
+        "conservative"
+      ]
+    },
+    {
+      "year": 2015,
+      "cases": 1,
+      "liberal": 0,
+      "conservative": 1,
+      "unspecifiable": 0,
+      "case_names": [
+        "McCloy v New South Wales"
+      ],
+      "citations": [
+        "[2015] HCA 34"
+      ],
+      "vote_splits": [
+        "6-1"
+      ],
+      "directions": [
+        "conservative"
+      ]
+    },
+    {
+      "year": 2017,
+      "cases": 1,
+      "liberal": 1,
+      "conservative": 0,
+      "unspecifiable": 0,
+      "case_names": [
+        "Brown v Tasmania"
+      ],
+      "citations": [
+        "[2017] HCA 43"
+      ],
+      "vote_splits": [
+        "5-2"
+      ],
+      "directions": [
+        "liberal"
+      ]
+    },
+    {
+      "year": 2019,
+      "cases": 3,
+      "liberal": 1,
+      "conservative": 2,
+      "unspecifiable": 0,
+      "case_names": [
+        "Unions NSW v New South Wales",
+        "Clubb v Edwards",
+        "Comcare v Banerji"
+      ],
+      "citations": [
+        "[2019] HCA 1",
+        "[2019] HCA 11",
+        "[2019] HCA 23"
+      ],
+      "vote_splits": [
+        "6-1",
+        "7-0",
+        "7-0"
+      ],
+      "directions": [
+        "liberal",
+        "conservative",
+        "conservative"
+      ]
+    }
+  ],
+  "corporations_cases": [
+    {
+      "year": 1998,
+      "name": "Gould v Brown",
+      "citation": "[1998] HCA 6",
+      "maj_votes": 3,
+      "min_votes": 3,
+      "direction": "liberal",
+      "party_winning": "no favourable disposition for appealing/petitioning party apparent"
+    },
+    {
+      "year": 2006,
+      "name": "New South Wales v Commonwealth of Australia",
+      "citation": "[2006] HCA 52",
+      "maj_votes": 5,
+      "min_votes": 2,
+      "direction": "conservative",
+      "party_winning": "no favourable disposition for appealing/petitioning party apparent"
+    },
+    {
+      "year": 2006,
+      "name": "Attorney-General (Vic) v Andrews",
+      "citation": "[2007] HCA 9",
+      "maj_votes": 5,
+      "min_votes": 2,
+      "direction": "conservative",
+      "party_winning": "no favourable disposition for appealing/petitioning party apparent"
+    },
+    {
+      "year": 2015,
+      "name": "Communications, Electrical, Electronic, Energy, Information, Postal, Plumbing and Allied Services Union of Australia v Queensland Rail",
+      "citation": "[2015] HCA 11",
+      "maj_votes": 7,
+      "min_votes": 0,
+      "direction": "liberal",
+      "party_winning": "appealing/petitioning party received a favourable disposition"
+    }
+  ]
+}
