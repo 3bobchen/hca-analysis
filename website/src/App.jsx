@@ -53,6 +53,56 @@ function shortenTerm(term) {
   return "'" + (parts[1] || parts[0]).slice(2)
 }
 
+function Footer() {
+  return (
+    <footer className="site-footer">
+      <div className="footer-inner">
+        <div className="footer-col footer-about">
+          <div className="footer-logo">HCA Analysis</div>
+          <p>
+            An interactive visualisation of High Court of Australia case data,
+            exploring voting patterns, constitutional litigation, and decision
+            trends from 1994 to 2021.
+          </p>
+        </div>
+
+        <div className="footer-col">
+          <div className="footer-heading">Data Sources</div>
+          <ul className="footer-links">
+            <li>
+              <a href="https://aushighcourtdatabase.org" target="_blank" rel="noopener noreferrer">
+                Australian High Court Database
+              </a>
+              <span className="footer-link-note">Robinson &amp; Leslie (2024)</span>
+            </li>
+            <li>
+              <a href="https://www.unsw.edu.au/research/unswlawjournal/issues/volume-42" target="_blank" rel="noopener noreferrer">
+                Constitutional Provisions Dataset
+              </a>
+              <span className="footer-link-note">Lynch &amp; Williams, UNSW Law Journal</span>
+            </li>
+          </ul>
+        </div>
+
+        <div className="footer-col">
+          <div className="footer-heading">Author</div>
+          <ul className="footer-links">
+            <li>
+              <a href="https://linkedin.com/in/3bobchen" target="_blank" rel="noopener noreferrer">
+                Bob Chen
+              </a>
+              <span className="footer-link-note">LinkedIn</span>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div className="footer-bottom">
+        Data covers HCA terms 1994–95 to 2020–21 · Built with React &amp; Recharts
+      </div>
+    </footer>
+  )
+}
+
 function App() {
   const navigate = useNavigate()
   const [data, setData] = useState(null)
@@ -83,6 +133,7 @@ function App() {
           <Route path="/insights" element={<InsightsPage />} />
         </Routes>
       </main>
+      <Footer />
     </>
   )
 }
